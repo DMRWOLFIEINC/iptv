@@ -28,7 +28,7 @@ http://peer3.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,DISNEY XD
 http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDM6MTk6NTUgQU0maGFzaF92YWx1ZT1nYlZNaUxVV1oyaUw5MEMzV1E5RU53PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
-http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDM6MjE6MjUgQU0maGFzaF92YWx1ZT1SSmFEczk4eXkrdjA2a0FJSW5FNkxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDQ6MDA6NDQgUE0maGFzaF92YWx1ZT1kRmhwY0NPZ3BHN1FIVExLUmJ0MGFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,Nick Jr.
 http://peer3.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDM6MjE6NTEgQU0maGFzaF92YWx1ZT1mZTZ3a0Y2TkxwMEpEdWQ4MHh0T1NnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICK TOONS
