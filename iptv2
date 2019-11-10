@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,HALLMARK MOVIES AND MYSTERIES
+https://fluxustv.blogspot.com@bit.ly/2qmcmcG?.m3u8
+
 #EXTINF:0,BET
 http://peer3.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6Mzk6MzYgUE0maGFzaF92YWx1ZT1hMFZrSDJSZmZNVGJwTzE5UWJBbVFRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,COMEDY CENTRAL
@@ -29,8 +32,6 @@ http://peer2.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6MzM6MDggUE0maGFzaF92YWx1ZT1aTERjQUZLKzlVUW1EZVpVL0tYQVNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
 http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6Mzc6NDcgUE0maGFzaF92YWx1ZT1EVk5IcmFZNHhGOTdTY1hjOXdSZldnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,Nick Jr.
-http://peer2.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6Mzg6MTQgUE0maGFzaF92YWx1ZT1YZWxSSU5MMFlDS3JTVlBOMnpDa0lBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICK TOONS
 http://peer2.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6Mzg6MTQgUE0maGFzaF92YWx1ZT1YZWxSSU5MMFlDS3JTVlBOMnpDa0lBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,PBS
