@@ -694,12 +694,12 @@ http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:0,PARAMOUNT MOVIES CHANNEL
 https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA",It's At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 #EXTINF:0,RETRO TOONS
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" ,24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 
-#EXTINF:0,USA
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8?fluxustv.m3u8
 
