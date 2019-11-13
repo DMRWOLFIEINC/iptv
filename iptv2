@@ -12,7 +12,7 @@ http://peer3.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,FXX
 http://peer3.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6NDA6NTcgUE0maGFzaF92YWx1ZT1raVVJRFNDc3JDa0tUSlZZemI3eWFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TBS
-http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6MzY6NDMgUE0maGFzaF92YWx1ZT10TnAxYTNvWXFvaVNoU0NVNFRmelhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://thenew.tv:8000/live/chuck1/chuck2/429.m3u8
 #EXTINF:0,THE CW
 http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6NDE6NDkgUE0maGFzaF92YWx1ZT1nOFE4ZWV0S21BdFI3cUpLdHlCOXN3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TRUTV
