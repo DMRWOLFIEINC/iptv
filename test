@@ -90,7 +90,7 @@ http://thenew.tv:8000/live/chuck1/chuck2/51.m3u8
 http://thenew.tv:8000/live/chuck1/chuck2/52.m3u8
 #EXTINF:0,LOGO
 http://thenew.tv:8000/live/chuck1/chuck2/54.m3u8
-#EXTINF:0,62
+#EXTINF:0,EPIX
 http://thenew.tv:8000/live/chuck1/chuck2/62.m3u8
 #EXTINF:0,EPIX MOVIES
 http://thenew.tv:8000/live/chuck1/chuck2/65.m3u8
@@ -110,7 +110,7 @@ http://thenew.tv:8000/live/chuck1/chuck2/77.m3u8
 http://thenew.tv:8000/live/chuck1/chuck2/78.m3u8
 #EXTINF:0,79
 http://thenew.tv:8000/live/chuck1/chuck2/79.m3u8
-#EXTINF:0,80
+#EXTINF:0,STARZ
 http://thenew.tv:8000/live/chuck1/chuck2/80.m3u8
 #EXTINF:0,81
 http://thenew.tv:8000/live/chuck1/chuck2/81.m3u8
