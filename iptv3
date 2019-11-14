@@ -2,6 +2,8 @@
 
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",A&E
 http://thenew.tv:8000/chuck1/chuck2/1
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",American Heroes Channel SD
+http://thenew.tv:8000/chuck1/chuck2/1972
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET
 http://thenew.tv:8000/chuck1/chuck2/5
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET WEST (SD)
@@ -32,6 +34,8 @@ http://thenew.tv:8000/chuck1/chuck2/2024
 http://thenew.tv:8000/chuck1/chuck2/3041
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Dog TV
 http://thenew.tv:8000/chuck1/chuck2/3040
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",FISHING NETWORK
+http://thenew.tv:8000/chuck1/chuck2/93384
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",GONE FISHING
 http://thenew.tv:8000/chuck1/chuck2/3026
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Great Amerian Country
