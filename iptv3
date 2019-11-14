@@ -36,6 +36,8 @@ http://thenew.tv:8000/chuck1/chuck2/3041
 http://thenew.tv:8000/chuck1/chuck2/3040
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",FISHING NETWORK
 http://thenew.tv:8000/chuck1/chuck2/93384
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",FYI 
+http://thenew.tv:8000/chuck1/chuck2/48
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",GONE FISHING
 http://thenew.tv:8000/chuck1/chuck2/3026
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Great Amerian Country
@@ -48,3 +50,43 @@ http://thenew.tv:8000/chuck1/chuck2/3014
 http://thenew.tv:8000/chuck1/chuck2/1791
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Investigation Discovery SD
 http://thenew.tv:8000/chuck1/chuck2/2010
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo Mundo 
+http://thenew.tv:8000/chuck1/chuck2/2015
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo WIld
+http://thenew.tv:8000/chuck1/chuck2/86
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo WILD SD
+http://thenew.tv:8000/chuck1/chuck2/2016
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",National Geographic
+http://thenew.tv:8000/chuck1/chuck2/85
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",National Geographic SD
+http://thenew.tv:8000/chuck1/chuck2/2017
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",National Geographic West SD
+http://thenew.tv:8000/chuck1/chuck2/2018
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",OUTDOOR CHANNEL
+http://thenew.tv:8000/chuck1/chuck2/3027
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Outside TV
+http://thenew.tv:8000/chuck1/chuck2/88
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Outside TV SD
+http://thenew.tv:8000/chuck1/chuck2/2019
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Ovation
+http://thenew.tv:8000/chuck1/chuck2/93365
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Own
+http://thenew.tv:8000/chuck1/chuck2/89
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",OWN SD
+http://thenew.tv:8000/chuck1/chuck2/2020
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",PBS
+http://thenew.tv:8000/chuck1/chuck2/93450
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",PBS
+http://thenew.tv:8000/chuck1/chuck2/465
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Smithsonian
+http://thenew.tv:8000/chuck1/chuck2/97
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Travel Channel
+http://thenew.tv:8000/chuck1/chuck2/107
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Travel Channel
+http://thenew.tv:8000/chuck1/chuck2/2040
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Viceland
+http://thenew.tv:8000/chuck1/chuck2/116
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",World Fishing Network
+http://thenew.tv:8000/chuck1/chuck2/93350
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",WPIX 11
+http://thenew.tv:8000/chuck1/chuck2/97516
