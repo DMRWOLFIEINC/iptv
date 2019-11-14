@@ -8,6 +8,8 @@ http://thenew.tv:8000/chuck1/chuck2/1972
 http://thenew.tv:8000/chuck1/chuck2/5
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET WEST (SD)
 http://thenew.tv:8000/chuck1/chuck2/1974
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Blaze TV
+http://thenew.tv:8000/chuck1/chuck2/93555
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Crime and Investigation
 http://thenew.tv:8000/chuck1/chuck2/84214
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Destination America
@@ -90,3 +92,60 @@ http://thenew.tv:8000/chuck1/chuck2/116
 http://thenew.tv:8000/chuck1/chuck2/93350
 #EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",WPIX 11
 http://thenew.tv:8000/chuck1/chuck2/97516
+
+#EXTINF:-1,group-title=" KIDS ",BABY FIRST TV | HD
+http://thenew.tv:8000/chuck1/chuck2/196
+#EXTINF:-1,group-title=" KIDS ",BabyTV SD
+http://thenew.tv:8000/chuck1/chuck2/2053
+#EXTINF:-1,group-title=" KIDS ",BOOMERANG 
+http://thenew.tv:8000/chuck1/chuck2/197
+#EXTINF:-1,group-title=" KIDS ",Boomerang SD
+http://thenew.tv:8000/chuck1/chuck2/2054
+#EXTINF:-1,group-title=" KIDS ",Cartoon Network
+http://thenew.tv:8000/chuck1/chuck2/156
+#EXTINF:-1,group-title=" KIDS ",Cartoon Network SD
+http://thenew.tv:8000/chuck1/chuck2/2055
+#EXTINF:-1,group-title=" KIDS ",Cartoon Network SD
+http://thenew.tv:8000/chuck1/chuck2/1977
+#EXTINF:-1,group-title=" KIDS ",Cartoon Network West SD
+http://thenew.tv:8000/chuck1/chuck2/2056
+#EXTINF:-1,group-title=" KIDS ",Cartoon Network West SD
+http://thenew.tv:8000/chuck1/chuck2/1978
+#EXTINF:-1,group-title=" KIDS ",Cartoons 4U
+http://thenew.tv:8000/chuck1/chuck2/157
+#EXTINF:-1,group-title=" KIDS ",DISNEY CHANNEL EAST
+http://thenew.tv:8000/chuck1/chuck2/198
+#EXTINF:-1,group-title=" KIDS ",Disney Channel SD
+http://thenew.tv:8000/chuck1/chuck2/2057
+#EXTINF:-1,group-title=" KIDS ",DISNEY CHANNEL WEST | HD
+http://thenew.tv:8000/chuck1/chuck2/200
+#EXTINF:-1,group-title=" KIDS ",Disney Channel West SD
+http://thenew.tv:8000/chuck1/chuck2/2058
+#EXTINF:-1,group-title=" KIDS ",DISNEY JR
+http://thenew.tv:8000/chuck1/chuck2/205
+#EXTINF:-1,group-title=" KIDS ",DISNEY JR WEST 
+http://thenew.tv:8000/chuck1/chuck2/203
+#EXTINF:-1,group-title=" KIDS ",Disney Junior SD
+http://thenew.tv:8000/chuck1/chuck2/2059
+#EXTINF:-1,group-title=" KIDS ",Disney Junior West SD
+http://thenew.tv:8000/chuck1/chuck2/2060
+#EXTINF:-1,group-title=" KIDS ",Disney West
+http://thenew.tv:8000/chuck1/chuck2/159
+#EXTINF:-1,group-title=" KIDS ",DISNEY XD
+http://thenew.tv:8000/chuck1/chuck2/210
+#EXTINF:-1,group-title=" KIDS ",Disney XD SD
+http://thenew.tv:8000/chuck1/chuck2/2061
+#EXTINF:-1,group-title=" KIDS ",DISNEY XD WEST 
+http://thenew.tv:8000/chuck1/chuck2/208
+#EXTINF:-1,group-title=" KIDS ",Disney XD West SD
+http://thenew.tv:8000/chuck1/chuck2/2062
+#EXTINF:-1,group-title=" KIDS ",Nickelodeon
+http://thenew.tv:8000/chuck1/chuck2/93353
+#EXTINF:-1,group-title=" KIDS ",NICK JR
+http://thenew.tv:8000/chuck1/chuck2/212
+#EXTINF:-1,group-title=" KIDS ",Nicktoons
+http://thenew.tv:8000/chuck1/chuck2/93358
+#EXTINF:-1,group-title=" KIDS ",PBS Kids
+http://thenew.tv:8000/chuck1/chuck2/96076
+#EXTINF:-1,group-title=" KIDS ",TeenNick
+http://thenew.tv:8000/chuck1/chuck2/93360
