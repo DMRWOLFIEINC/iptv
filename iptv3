@@ -1,6 +1,30 @@
 #EXTM3U
 
-#EXTINF:0,group-title=" ANIMALS",ANIMAL PLANET
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET
 http://thenew.tv:8000/chuck1/chuck2/5
-#EXTINF:0,group-title=" ANIMALS",ANIMAL PLANET WEST (SD)
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET WEST (SD)
 http://thenew.tv:8000/chuck1/chuck2/1974
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Crime and Investigation
+http://thenew.tv:8000/chuck1/chuck2/84214
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Destination America
+http://thenew.tv:8000/chuck1/chuck2/36
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Destination America SD
+http://thenew.tv:8000/chuck1/chuck2/1982
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Channel
+http://thenew.tv:8000/chuck1/chuck2/37
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Channel SD
+http://thenew.tv:8000/chuck1/chuck2/1987
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Family
+http://thenew.tv:8000/chuck1/chuck2/38
+#EXTINF:-1,Ugroup-title=" ANIMALS & DOCUMENTARIES ",Discovery ID
+http://thenew.tv:8000/chuck1/chuck2/40
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES "Discovery Life Channel
+http://thenew.tv:8000/chuck1/chuck2/39
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Life Channel SD
+http://thenew.tv:8000/chuck1/chuck2/1986
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Science
+http://thenew.tv:8000/chuck1/chuck2/93254
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Science SD
+http://thenew.tv:8000/chuck1/chuck2/2024
+#EXTINF:-1,group-title=" ANIMALS & DOCUMENTARIES ",Discovery Velocity
+http://thenew.tv:8000/chuck1/chuck2/3041
