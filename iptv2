@@ -21,11 +21,11 @@ http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOSA3OjUyOjAwIFBNJmhhc2hfdmFsdWU9aWdla28vRlNwa3ZLWmxFNkd5WXhMdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTINF:0,BOOMERANG
-http://peer2.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6MzU6MDMgUE0maGFzaF92YWx1ZT1XemZlWVRYeGFFK09RcGxhczFIeUd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://peer3.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOSA4OjAyOjUzIFBNJmhhc2hfdmFsdWU9NVVEYm96eGJKbmN2dmJXTG15V0UrZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,CARTOON NETWORK
-http://peer2.savitar.tv/CN/myStream/chunks.m3u8?
+http://peer2.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOSA4OjA0OjUwIFBNJmhhc2hfdmFsdWU9dWlKRWlaZnB6bTI0bXI5WmUyTGpKQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY
-https://nl2.streamlive.to/vlc/2tag4dzgwof5ma2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxOSAyOjQ5OjU0IEFNJmhhc2hfdmFsdWU9bmhKYWl3M0xVbFA3OGVtNW9EVGxmUT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MTkmaWQ9MA==
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOSA3OjU5OjIwIFBNJmhhc2hfdmFsdWU9bmN6WWswRXptRXJEOEVLcERFKzV3UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY Junior
 http://peer2.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDc6MzY6MjkgUE0maGFzaF92YWx1ZT1TeWtLM3A2R0phaUVoT3RqeFNjd0dRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY XD
