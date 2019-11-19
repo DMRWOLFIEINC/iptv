@@ -4,7 +4,7 @@
 http://thenew.tv:8000/live/chuck1/chuck2/50.m3u8
 
 #EXTINF:0,BET
-http://peer1.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOSAyOjU2OjQyIEFNJmhhc2hfdmFsdWU9WU1MMmp6ODcvd3F0OVZGb2JPWEpGZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer3.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOSA0OjQ5OjAyIFBNJmhhc2hfdmFsdWU9ZnFKT1ZQUXRzbDVVdzdhcy8vZjYyUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,COMEDY CENTRAL
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOSAyOjU4OjExIEFNJmhhc2hfdmFsdWU9QTI2TTBuMmVzeVFiNVJiN2d2ZUNPUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,FREEFORM
