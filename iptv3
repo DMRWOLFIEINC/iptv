@@ -1,615 +1,192 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",A&E
-http://thenew.tv:8000/chuck1/chuck2/1.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",American Heroes Channel SD
-http://thenew.tv:8000/chuck1/chuck2/1972.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET
-http://thenew.tv:8000/chuck1/chuck2/5.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",ANIMAL PLANET WEST (SD)
-http://thenew.tv:8000/chuck1/chuck2/1974.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Blaze TV
-http://thenew.tv:8000/chuck1/chuck2/93555.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Crime and Investigation
-http://thenew.tv:8000/chuck1/chuck2/84214.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Destination America
-http://thenew.tv:8000/chuck1/chuck2/36.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Destination America SD
-http://thenew.tv:8000/chuck1/chuck2/1982.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Channel
-http://thenew.tv:8000/chuck1/chuck2/37.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Channel SD
-http://thenew.tv:8000/chuck1/chuck2/1987.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Family
-http://thenew.tv:8000/chuck1/chuck2/38.m3u8
-#EXTINF:-1 Ugroup-title=" ANIMALS & DOCUMENTARIES ",Discovery ID
-http://thenew.tv:8000/chuck1/chuck2/40.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES "Discovery Life Channel
-http://thenew.tv:8000/chuck1/chuck2/39.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Life Channel SD
-http://thenew.tv:8000/chuck1/chuck2/1986.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Science
-http://thenew.tv:8000/chuck1/chuck2/93254.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Science SD
-http://thenew.tv:8000/chuck1/chuck2/2024.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Discovery Velocity
-http://thenew.tv:8000/chuck1/chuck2/3041.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Dog TV
-http://thenew.tv:8000/chuck1/chuck2/3040.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",FISHING NETWORK
-http://thenew.tv:8000/chuck1/chuck2/93384.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",FYI 
-http://thenew.tv:8000/chuck1/chuck2/48.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",GONE FISHING
-http://thenew.tv:8000/chuck1/chuck2/3026.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Great Amerian Country
-http://thenew.tv:8000/chuck1/chuck2/93364.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",History
-http://thenew.tv:8000/chuck1/chuck2/23.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",HLN 
-http://thenew.tv:8000/chuck1/chuck2/3014.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",INVESTIGATION DISCOVERY
-http://thenew.tv:8000/chuck1/chuck2/1791.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Investigation Discovery SD
-http://thenew.tv:8000/chuck1/chuck2/2010.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo Mundo 
-http://thenew.tv:8000/chuck1/chuck2/2015.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo WIld
-http://thenew.tv:8000/chuck1/chuck2/86.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Nat Geo WILD SD
-http://thenew.tv:8000/chuck1/chuck2/2016.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",National Geographic
-http://thenew.tv:8000/chuck1/chuck2/85.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",National Geographic SD
-http://thenew.tv:8000/chuck1/chuck2/2017.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",National Geographic West SD
-http://thenew.tv:8000/chuck1/chuck2/2018.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",OUTDOOR CHANNEL
-http://thenew.tv:8000/chuck1/chuck2/3027.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Outside TV
-http://thenew.tv:8000/chuck1/chuck2/88.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Outside TV SD
-http://thenew.tv:8000/chuck1/chuck2/2019.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Ovation
-http://thenew.tv:8000/chuck1/chuck2/93365.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Own
-http://thenew.tv:8000/chuck1/chuck2/89.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",OWN SD
-http://thenew.tv:8000/chuck1/chuck2/2020.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",PBS
-http://thenew.tv:8000/chuck1/chuck2/93450.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",PBS
-http://thenew.tv:8000/chuck1/chuck2/465.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Smithsonian
-http://thenew.tv:8000/chuck1/chuck2/97.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Travel Channel
-http://thenew.tv:8000/chuck1/chuck2/107.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Travel Channel
-http://thenew.tv:8000/chuck1/chuck2/2040.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",Viceland
-http://thenew.tv:8000/chuck1/chuck2/116.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",World Fishing Network
-http://thenew.tv:8000/chuck1/chuck2/93350.m3u8
-#EXTINF:-1 group-title=" ANIMALS & DOCUMENTARIES ",WPIX 11
-http://thenew.tv:8000/chuck1/chuck2/97516.m3u8
-
-#EXTINF:-1 group-title=" KIDS ",BABY FIRST TV | HD
-http://thenew.tv:8000/chuck1/chuck2/196.m3u8
-#EXTINF:-1 group-title=" KIDS ",BabyTV SD
-http://thenew.tv:8000/chuck1/chuck2/2053.m3u8
-#EXTINF:-1 group-title=" KIDS ",BOOMERANG 
-http://thenew.tv:8000/chuck1/chuck2/197.m3u8
-#EXTINF:-1 group-title=" KIDS ",Boomerang SD
-http://thenew.tv:8000/chuck1/chuck2/2054.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoon Network
-http://thenew.tv:8000/chuck1/chuck2/156.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoon Network SD
-http://thenew.tv:8000/chuck1/chuck2/2055.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoon Network SD
-http://thenew.tv:8000/chuck1/chuck2/1977.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoon Network West SD
-http://thenew.tv:8000/chuck1/chuck2/2056.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoon Network West SD
-http://thenew.tv:8000/chuck1/chuck2/1978.m3u8
-#EXTINF:-1 group-title=" KIDS ",Cartoons 4U
-http://thenew.tv:8000/chuck1/chuck2/157.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY CHANNEL EAST
-http://thenew.tv:8000/chuck1/chuck2/198.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney Channel SD
-http://thenew.tv:8000/chuck1/chuck2/2057.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY CHANNEL WEST | HD
-http://thenew.tv:8000/chuck1/chuck2/200.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney Channel West SD
-http://thenew.tv:8000/chuck1/chuck2/2058.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY JR
-http://thenew.tv:8000/chuck1/chuck2/205.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY JR WEST 
-http://thenew.tv:8000/chuck1/chuck2/203.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney Junior SD
-http://thenew.tv:8000/chuck1/chuck2/2059.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney Junior West SD
-http://thenew.tv:8000/chuck1/chuck2/2060.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney West
-http://thenew.tv:8000/chuck1/chuck2/159.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY XD
-http://thenew.tv:8000/chuck1/chuck2/210.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney XD SD
-http://thenew.tv:8000/chuck1/chuck2/2061.m3u8
-#EXTINF:-1 group-title=" KIDS ",DISNEY XD WEST 
-http://thenew.tv:8000/chuck1/chuck2/208.m3u8
-#EXTINF:-1 group-title=" KIDS ",Disney XD West SD
-http://thenew.tv:8000/chuck1/chuck2/2062.m3u8
-#EXTINF:-1 group-title=" KIDS ",Nickelodeon
-http://thenew.tv:8000/chuck1/chuck2/93353.m3u8
-#EXTINF:-1 group-title=" KIDS ",NICK JR
-http://thenew.tv:8000/chuck1/chuck2/212.m3u8
-#EXTINF:-1 group-title=" KIDS ",Nicktoons
-http://thenew.tv:8000/chuck1/chuck2/93358.m3u8
-#EXTINF:-1 group-title=" KIDS ",PBS Kids
-http://thenew.tv:8000/chuck1/chuck2/96076.m3u8
-#EXTINF:-1 group-title=" KIDS ",TeenNick
-http://thenew.tv:8000/chuck1/chuck2/93360.m3u8
-#EXTINF:-1 group-title=" KIDS ",Universal Kids
-http://thenew.tv:8000/chuck1/chuck2/93466.m3u8
-
-#EXTINF:-1 group-title=" COMEDY ",Aspire TV
-http://thenew.tv:8000/chuck1/chuck2/7.m3u8
-#EXTINF:-1 group-title=" COMEDY ",BET
-http://thenew.tv:8000/chuck1/chuck2/9.m3u8
-#EXTINF:-1 group-title=" COMEDY ",CMT
-http://thenew.tv:8000/chuck1/chuck2/32.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Comedy Central
-http://thenew.tv:8000/chuck1/chuck2/14.m3u8
-#EXTINF:-1 group-title=" COMEDY ",IFC SD
-http://thenew.tv:8000/chuck1/chuck2/2009.m3u8
-#EXTINF:-1 group-title=" COMEDY ",LAFF TV
-http://thenew.tv:8000/chuck1/chuck2/93357.m3u8
-#EXTINF:-1 group-title=" COMEDY ",TBS
-http://thenew.tv:8000/chuck1/chuck2/429.m3u8
-#EXTINF:-1 group-title=" COMEDY ",TBS SD
-http://thenew.tv:8000/chuck1/chuck2/2033.m3u8
-#EXTINF:-1 group-title=" COMEDY ",TBS West SD
-http://thenew.tv:8000/chuck1/chuck2/2034.m3u8
-#EXTINF:-1 group-title=" COMEDY ",The CW
-http://thenew.tv:8000/chuck1/chuck2/103.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Tru TV East
-http://thenew.tv:8000/chuck1/chuck2/108.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Tv Land 
-http://thenew.tv:8000/chuck1/chuck2/109.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Tv Land 
-http://thenew.tv:8000/chuck1/chuck2/109.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Tv One
-http://thenew.tv:8000/chuck1/chuck2/110.m3u8
-#EXTINF:-1 group-title=" COMEDY ",Up Tv
-http://thenew.tv:8000/chuck1/chuck2/93386.m3u8
-#EXTINF:-1 group-title=" COMEDY ",VH1
-http://thenew.tv:8000/chuck1/chuck2/115.m3u8
-
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",Antenna TV
-http://thenew.tv:8000/chuck1/chuck2/6.m3u8
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",COZI TV SD
-http://thenew.tv:8000/chuck1/chuck2/1981.m3u8
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",Grit TV
-http://thenew.tv:8000/chuck1/chuck2/21.m3u8
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",INSP
-http://thenew.tv:8000/chuck1/chuck2/97590.m3u8
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",Me TV
-http://thenew.tv:8000/chuck1/chuck2/27.m3u8
-#EXTINF:-1 group-title=" CLASSIC COMEDY ",Retroplex
-http://thenew.tv:8000/chuck1/chuck2/96074.m3u8
-
-#EXTINF:-1 group-title=" ENTERTAINMENT ",AMC
-http://thenew.tv:8000/chuck1/chuck2/93228.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",BBC America
-http://thenew.tv:8000/chuck1/chuck2/8.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Bravo East
-http://thenew.tv:8000/chuck1/chuck2/11.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Bravo SD
-http://thenew.tv:8000/chuck1/chuck2/1975.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Bravo West
-http://thenew.tv:8000/chuck1/chuck2/12.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Bravo West SD
-http://thenew.tv:8000/chuck1/chuck2/1976.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CLEO TV
-http://thenew.tv:8000/chuck1/chuck2/93366.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Comet TV
-http://thenew.tv:8000/chuck1/chuck2/31.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Fuse
-http://89.187.174.87:80/I4PGuMZx7F/uRr1pg1W12/101535
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ION
-https://cvtv.cvalley.net/hls/KPXEION/KPXEION
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Logo
-http://thenew.tv:8000/chuck1/chuck2/54.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Oxygen
-http://thenew.tv:8000/chuck1/chuck2/90.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Oxygen SD
-http://thenew.tv:8000/chuck1/chuck2/2021.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Oxygen West SD
-http://thenew.tv:8000/chuck1/chuck2/2022.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Sundance TV
-http://thenew.tv:8000/chuck1/chuck2/99.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",SyFy East
-http://thenew.tv:8000/chuck1/chuck2/100.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",SyFy West
-http://thenew.tv:8000/chuck1/chuck2/101.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",TLC
-http://thenew.tv:8000/chuck1/chuck2/104.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",TLC West SD
-http://thenew.tv:8000/chuck1/chuck2/2037.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",TNT East
-http://thenew.tv:8000/chuck1/chuck2/105.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",TNT West
-http://thenew.tv:8000/chuck1/chuck2/106.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",USA Network East
-http://thenew.tv:8000/chuck1/chuck2/111.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",USA Network West
-http://thenew.tv:8000/chuck1/chuck2/113.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",USA SD
-http://thenew.tv:8000/chuck1/chuck2/2045.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",USA West SD
-http://thenew.tv:8000/chuck1/chuck2/2046.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Viceland
-http://thenew.tv:8000/chuck1/chuck2/116.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",WPIX 11
-http://thenew.tv:8000/chuck1/chuck2/97516.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",WWE Network
-http://thenew.tv:8000/chuck1/chuck2/1943.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC
-http://thenew.tv:8000/chuck1/chuck2/2.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Atlanta GA
-http://thenew.tv:8000/chuck1/chuck2/93277.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Augusta GA
-http://thenew.tv:8000/chuck1/chuck2/93325.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Baltimore MD
-http://thenew.tv:8000/chuck1/chuck2/93283.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Charlotte NC
-http://thenew.tv:8000/chuck1/chuck2/367.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Chicago IL
-http://thenew.tv:8000/chuck1/chuck2/93279.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Clarksburg WV
-http://thenew.tv:8000/chuck1/chuck2/93324.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Columbus OH
-http://thenew.tv:8000/chuck1/chuck2/334.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Corpus Christi TV
-http://thenew.tv:8000/chuck1/chuck2/93300.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Dallas TX
-http://thenew.tv:8000/chuck1/chuck2/360.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Denver CO
-http://thenew.tv:8000/chuck1/chuck2/352.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Des Moines IA
-http://thenew.tv:8000/chuck1/chuck2/93328.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Detriot MI
-http://thenew.tv:8000/chuck1/chuck2/341.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Durham NC
-http://thenew.tv:8000/chuck1/chuck2/93292.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Fort Wayne IN
-http://thenew.tv:8000/chuck1/chuck2/93329.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Fresno CA
-http://thenew.tv:8000/chuck1/chuck2/93263.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Greenwood MS
-http://thenew.tv:8000/chuck1/chuck2/93320.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Hartford CT
-http://thenew.tv:8000/chuck1/chuck2/93270.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Houston TX
-http://thenew.tv:8000/chuck1/chuck2/93305.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Indianapolis IN
-http://thenew.tv:8000/chuck1/chuck2/332.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Jackson TN
-http://thenew.tv:8000/chuck1/chuck2/93323.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Kansas City MO
-http://thenew.tv:8000/chuck1/chuck2/365.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Knoxville TN
-http://thenew.tv:8000/chuck1/chuck2/93322.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Laredo TX
-http://thenew.tv:8000/chuck1/chuck2/93315.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Meridian MS
-http://thenew.tv:8000/chuck1/chuck2/93330.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Miami FL
-http://thenew.tv:8000/chuck1/chuck2/93272.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Milwaukee WI
-http://thenew.tv:8000/chuck1/chuck2/93311.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Minneapolis MN
-http://thenew.tv:8000/chuck1/chuck2/93289.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Nashville TN
-http://thenew.tv:8000/chuck1/chuck2/93298.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC New Haven CT
-http://thenew.tv:8000/chuck1/chuck2/357.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC NYC
-http://thenew.tv:8000/chuck1/chuck2/93295.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Orlando
-http://thenew.tv:8000/chuck1/chuck2/362.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Philadelphia PA 
-http://thenew.tv:8000/chuck1/chuck2/329.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Portland OR
-http://thenew.tv:8000/chuck1/chuck2/93297.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Sacramento CA
-http://thenew.tv:8000/chuck1/chuck2/93264.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Salt Lake City UT
-http://thenew.tv:8000/chuck1/chuck2/93309.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC San Antonio TX
-http://thenew.tv:8000/chuck1/chuck2/97592.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC San Diego CA
-http://thenew.tv:8000/chuck1/chuck2/93265.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC San Francisco CA 
-http://thenew.tv:8000/chuck1/chuck2/339.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Savannah GA
-http://thenew.tv:8000/chuck1/chuck2/93326.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Seattle WA
-http://thenew.tv:8000/chuck1/chuck2/93310.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Sioux City IA
-http://thenew.tv:8000/chuck1/chuck2/93314.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC St. Louis MO
-http://thenew.tv:8000/chuck1/chuck2/93291.m3u8
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Tampa FL
-http://thenew.tv:8000/chuck1/chuck2/93261
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Tri-Cities TN
-http://thenew.tv:8000/chuck1/chuck2/93327
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Waco TX
-http://thenew.tv:8000/chuck1/chuck2/93319
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Washington DC
-http://thenew.tv:8000/chuck1/chuck2/336
-#EXTINF:-1 group-title=" ENTERTAINMENT ",ABC Weslaco TX
-http://thenew.tv:8000/chuck1/chuck2/93303
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS 2 NYC
-http://thenew.tv:8000/chuck1/chuck2/1939
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Baltimore MD
-http://thenew.tv:8000/chuck1/chuck2/93284
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Dallas TX
-http://thenew.tv:8000/chuck1/chuck2/93544
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Denver CO
-http://thenew.tv:8000/chuck1/chuck2/93268
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Des Moines IA
-http://thenew.tv:8000/chuck1/chuck2/94895
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Durham NC
-http://thenew.tv:8000/chuck1/chuck2/93293
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS East
-http://thenew.tv:8000/chuck1/chuck2/33
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS El Paso TX
-http://thenew.tv:8000/chuck1/chuck2/93331
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Grand Rapids MI
-http://thenew.tv:8000/chuck1/chuck2/93286
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Hartford CT
-http://thenew.tv:8000/chuck1/chuck2/93271
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Houston TX
-http://thenew.tv:8000/chuck1/chuck2/93306
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Juneau AK
-http://thenew.tv:8000/chuck1/chuck2/93337
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Kansas City MO
-http://thenew.tv:8000/chuck1/chuck2/594
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Little Rock AK
-http://thenew.tv:8000/chuck1/chuck2/93334
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Los Angeles
-http://thenew.tv:8000/chuck1/chuck2/593
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Miami FL 
-http://thenew.tv:8000/chuck1/chuck2/93273
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS News
-http://thenew.tv:8000/chuck1/chuck2/132
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Phoenix AZ
-http://thenew.tv:8000/chuck1/chuck2/601
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Providence RI
-http://thenew.tv:8000/chuck1/chuck2/93338
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS San Diego CA
-http://thenew.tv:8000/chuck1/chuck2/597
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS South Bend IN
-http://thenew.tv:8000/chuck1/chuck2/93336
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Sports Network
-http://thenew.tv:8000/chuck1/chuck2/1955
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Tampa FL
-http://thenew.tv:8000/chuck1/chuck2/93262
-#EXTINF:-1,group-title=" ENTERTAINMENT ",CBS Tucson AZ
-http://thenew.tv:8000/chuck1/chuck2/93333
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Wausau WI
-http://thenew.tv:8000/chuck1/chuck2/93335
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS Weslaco TX
-http://thenew.tv:8000/chuck1/chuck2/93304
-#EXTINF:-1 group-title=" ENTERTAINMENT ",CBS West
-http://thenew.tv:8000/chuck1/chuck2/34
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX 13 Tampa
-http://thenew.tv:8000/chuck1/chuck2/3043
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX 5 NYC 
-http://thenew.tv:8000/chuck1/chuck2/1937
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Atlanta GA
-http://thenew.tv:8000/chuck1/chuck2/93276
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Buffalo NY
-http://thenew.tv:8000/chuck1/chuck2/93296
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Charlottesville VA
-http://thenew.tv:8000/chuck1/chuck2/93307
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Denver CO
-http://thenew.tv:8000/chuck1/chuck2/93269
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Detroit MI
-http://thenew.tv:8000/chuck1/chuck2/93287
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Durham NC
-http://thenew.tv:8000/chuck1/chuck2/93294
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX East
-http://thenew.tv:8000/chuck1/chuck2/19
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Green Bay WI
-http://thenew.tv:8000/chuck1/chuck2/1767
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Harrisonburg VA 
-http://thenew.tv:8000/chuck1/chuck2/93308
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Hartford CT
-http://thenew.tv:8000/chuck1/chuck2/1771
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Jacksonville FL
-http://thenew.tv:8000/chuck1/chuck2/93274
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Fox Life
-http://thenew.tv:8000/chuck1/chuck2/1993
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Miami FL
-http://thenew.tv:8000/chuck1/chuck2/93275
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Minneapolis MN
-http://thenew.tv:8000/chuck1/chuck2/93290
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Nashville TN
-http://thenew.tv:8000/chuck1/chuck2/93299
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX New Orleans LA
-http://thenew.tv:8000/chuck1/chuck2/93280
-#EXTINF:-1 group-title=" ENTERTAINMENT ",Fox News
-http://thenew.tv:8000/chuck1/chuck2/140
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX News Channel SD
-http://thenew.tv:8000/chuck1/chuck2/2083
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Phoenix AZ
-http://thenew.tv:8000/chuck1/chuck2/1755
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Pittsburgh PA
-http://thenew.tv:8000/chuck1/chuck2/1769
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX San Diego CA
-http://thenew.tv:8000/chuck1/chuck2/93266
-#EXTINF:-1 group-title=" ENTERTAINMENT ",FOX Seattle WA
-http://thenew.tv:8000/chuck1/chuck2/175
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC 4 NYC
-http://thenew.tv:8000/chuck1/chuck2/1938
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Atlanta GA
-http://thenew.tv:8000/chuck1/chuck2/93278
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Baltimore MD
-http://thenew.tv:8000/chuck1/chuck2/93285
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Boston MA
-http://thenew.tv:8000/chuck1/chuck2/93282
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Corpus Christi TX
-http://thenew.tv:8000/chuck1/chuck2/93302
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Dallas TX
-http://thenew.tv:8000/chuck1/chuck2/94585
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Denver CO
-http://thenew.tv:8000/chuck1/chuck2/624
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC Detroit MI
-http://thenew.tv:8000/chuck1/chuck2/93288
-#EXTINF:-1 group-title=" ENTERTAINMENT ",NBC East
-http://thenew.tv:8000/chuck1/chuck2/87
-
-#EXTINF:-1 group-title=" MOVIES ",Audience Network
-http://thenew.tv:8000/chuck1/chuck2/97543
-#EXTINF:-1 group-title=" MOVIES ",CINE SONY SD
-http://thenew.tv:8000/chuck1/chuck2/2063
-#EXTINF:-1 group-title=" MOVIES ",CINEMAX 5 STARMAX | HD
-http://thenew.tv:8000/chuck1/chuck2/224
-#EXTINF:-1 group-title=" MOVIES ",CINEMAX ACTIONMAX | HD
-http://thenew.tv:8000/chuck1/chuck2/225
-#EXTINF:-1 group-title=" MOVIES ",CINEMAX EAST | HD
-http://thenew.tv:8000/chuck1/chuck2/226
-#EXTINF:-1 group-title=" MOVIES ",Cinemax Outermax
-http://thenew.tv:8000/chuck1/chuck2/96072
-#EXTINF:-1 group-title=" MOVIES ",Cinemax ThrillerMax
-http://thenew.tv:8000/chuck1/chuck2/93551
-#EXTINF:-1 group-title=" MOVIES ",CINEMAX WEST
-http://thenew.tv:8000/chuck1/chuck2/2065
-#EXTINF:-1 group-title=" MOVIES ",Epix
-http://thenew.tv:8000/chuck1/chuck2/62
-#EXTINF:-1 group-title=" MOVIES ",Epix 2
-http://thenew.tv:8000/chuck1/chuck2/65
-#EXTINF:-1 group-title=" MOVIES ",Epix Drive-In
-http://thenew.tv:8000/chuck1/chuck2/93383
-#EXTINF:-1 group-title=" MOVIES ",Epix Hits
-http://thenew.tv:8000/chuck1/chuck2/67
-#EXTINF:-1 group-title=" MOVIES ",EPIX Hits SD
-http://thenew.tv:8000/chuck1/chuck2/2066
-#EXTINF:-1 group-title=" MOVIES ",Epix SD
-http://thenew.tv:8000/chuck1/chuck2/2067
-#EXTINF:-1 group-title=" MOVIES ",FreeForm
-http://thenew.tv:8000/chuck1/chuck2/20
-#EXTINF:-1 group-title=" MOVIES ",Freeform West
-http://thenew.tv:8000/chuck1/chuck2/1995
-#EXTINF:-1 group-title=" MOVIES ",Fusion
-http://thenew.tv:8000/chuck1/chuck2/43
-#EXTINF:-1 group-title=" MOVIES ",FX East
-http://thenew.tv:8000/chuck1/chuck2/44
-#EXTINF:-1 group-title=" MOVIES ",FX SD
-http://thenew.tv:8000/chuck1/chuck2/1997
-#EXTINF:-1 group-title=" MOVIES ",FX West
-http://thenew.tv:8000/chuck1/chuck2/45
-#EXTINF:-1 group-title=" MOVIES ",FX West SD
-http://thenew.tv:8000/chuck1/chuck2/1998
-#EXTINF:-1 group-title=" MOVIES ",FXM
-http://thenew.tv:8000/chuck1/chuck2/46
-#EXTINF:-1 group-title=" MOVIES ",FXM SD
-http://thenew.tv:8000/chuck1/chuck2/1999
-#EXTINF:-1 group-title=" MOVIES ",FXX East
-http://thenew.tv:8000/chuck1/chuck2/47
-#EXTINF:-1 group-title=" MOVIES ",FXX SD
-http://thenew.tv:8000/chuck1/chuck2/2000
-#EXTINF:-1 group-title=" MOVIES ",FXX West SD
-http://thenew.tv:8000/chuck1/chuck2/2001
-#EXTINF:-1 group-title=" MOVIES ",Hallmark Channel
-http://thenew.tv:8000/chuck1/chuck2/50
-#EXTINF:-1 group-title=" MOVIES ",Hallmark Drama
-http://thenew.tv:8000/chuck1/chuck2/51
-#EXTINF:-1 group-title=" MOVIES ",Hallmark Drama SD
-http://thenew.tv:8000/chuck1/chuck2/2004
-#EXTINF:-1 group-title=" MOVIES ",Hallmark Movies and Mysteries
-http://thenew.tv:8000/chuck1/chuck2/52
-#EXTINF:-1 group-title=" MOVIES ",HBO
-http://thenew.tv:8000/chuck1/chuck2/70
-#EXTINF:-1 group-title=" MOVIES ",HBO 2
-http://thenew.tv:8000/chuck1/chuck2/93549
-#EXTINF:-1 group-title=" MOVIES ",HBO Comedy
-http://thenew.tv:8000/chuck1/chuck2/72
-#EXTINF:-1 group-title=" MOVIES ",HBO East SD
-http://thenew.tv:8000/chuck1/chuck2/2068
-#EXTINF:-1 group-title=" MOVIES ",HBO Family East
-http://thenew.tv:8000/chuck1/chuck2/74
-#EXTINF:-1 group-title=" MOVIES ",HBO Signature
-http://thenew.tv:8000/chuck1/chuck2/93550
-#EXTINF:-1 group-title=" MOVIES ",HBO West SD
-http://thenew.tv:8000/chuck1/chuck2/2069
-#EXTINF:-1 group-title=" MOVIES ",HBO Zone
-http://thenew.tv:8000/chuck1/chuck2/75
-#EXTINF:-1 group-title=" MOVIES ",HDNet Movies
-http://thenew.tv:8000/chuck1/chuck2/97542
-#EXTINF:-1 group-title=" MOVIES ",Independent Film Channel
-http://thenew.tv:8000/chuck1/chuck2/84
-#EXTINF:-1 group-title=" MOVIES ",Indieplex
-http://thenew.tv:8000/chuck1/chuck2/96075
-#EXTINF:-1 group-title=" MOVIES ",Lifetime
-http://thenew.tv:8000/chuck1/chuck2/25
-#EXTINF:-1 group-title=" MOVIES ",Lifetime Movies
-http://thenew.tv:8000/chuck1/chuck2/26
-#EXTINF:-1 group-title=" MOVIES ",Movieplex
-http://thenew.tv:8000/chuck1/chuck2/96073
-#EXTINF:-1 group-title=" MOVIES ",Paramount Network
-http://thenew.tv:8000/chuck1/chuck2/91
-#EXTINF:-1 group-title=" MOVIES ",Showtime 2
-http://thenew.tv:8000/chuck1/chuck2/77
-#EXTINF:-1 group-title=" MOVIES ",Showtime Beyond
-http://thenew.tv:8000/chuck1/chuck2/96106
-#EXTINF:-1 group-title=" MOVIES ",Showtime East
-http://thenew.tv:8000/chuck1/chuck2/76
-#EXTINF:-1 group-title=" MOVIES ",Showtime East SD
-http://thenew.tv:8000/chuck1/chuck2/2070
-#EXTINF:-1 group-title=" MOVIES ",Showtime Extreme
-http://thenew.tv:8000/chuck1/chuck2/96071
-#EXTINF:-1 group-title=" MOVIES ",Showtime Family Zone
-http://thenew.tv:8000/chuck1/chuck2/96109
-#EXTINF:-1 group-title=" MOVIES ",Showtime Next
-http://thenew.tv:8000/chuck1/chuck2/96107
-#EXTINF:-1 group-title=" MOVIES ",Showtime Showcase
-http://thenew.tv:8000/chuck1/chuck2/96108
-#EXTINF:-1 group-title=" MOVIES ",Showtime West
-http://thenew.tv:8000/chuck1/chuck2/78
-#EXTINF:-1 group-title=" MOVIES ",Showtime Women
-http://thenew.tv:8000/chuck1/chuck2/96110
-#EXTINF:-1 group-title=" MOVIES ",Sony Movie Channel
-http://thenew.tv:8000/chuck1/chuck2/2073
-#EXTINF:-1 group-title=" MOVIES ",Starz Cinema
-http://thenew.tv:8000/chuck1/chuck2/93370
-#EXTINF:-1 group-title=" MOVIES ",Starz Comedy
-http://thenew.tv:8000/chuck1/chuck2/79
-#EXTINF:-1 group-title=" MOVIES ",STARZ EAST 
-http://thenew.tv:8000/chuck1/chuck2/93260
-#EXTINF:-1 group-title=" MOVIES ",Starz Edge
-http://thenew.tv:8000/chuck1/chuck2/80
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore
-http://thenew.tv:8000/chuck1/chuck2/81
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore Action
-http://thenew.tv:8000/chuck1/chuck2/93547
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore Black
-http://thenew.tv:8000/chuck1/chuck2/93548
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore Classic
-http://thenew.tv:8000/chuck1/chuck2/93394
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore Suspense
-http://thenew.tv:8000/chuck1/chuck2/93546
-#EXTINF:-1 group-title=" MOVIES ",Starz Encore Westerns
-http://thenew.tv:8000/chuck1/chuck2/93545
-#EXTINF:-1 group-title=" MOVIES ",Starz In Black
-http://thenew.tv:8000/chuck1/chuck2/93397
-#EXTINF:-1 group-title=" MOVIES ",Starz Kids & Family
-http://thenew.tv:8000/chuck1/chuck2/82
-#EXTINF:-1 group-title=" MOVIES ",The Movie Channel
-http://thenew.tv:8000/chuck1/chuck2/93371
-#EXTINF:-1 group-title=" MOVIES ",The Movie Channel Xtra
-http://thenew.tv:8000/chuck1/chuck2/93372
-#EXTINF:-1 group-title=" MOVIES ",Turner Classic Movies
-http://thenew.tv:8000/chuck1/chuck2/93395
+#EXTINF:-1,RAFA USA ESTRELLATV
+http://23.237.122.154:25461/BUDTV/DFGHJ/614
+#EXTINF:-1,RAFA USA USA NET
+http://23.237.122.154:25461/BUDTV/DFGHJ/613
+#EXTINF:-1,RAFA USA TRUTV
+http://23.237.122.154:25461/BUDTV/DFGHJ/612
+#EXTINF:-1,RAFA USA TNT
+http://23.237.122.154:25461/BUDTV/DFGHJ/611
+#EXTINF:-1,RAFA USA TBS
+http://23.237.122.154:25461/BUDTV/DFGHJ/610
+#EXTINF:-1,RAFA USA SYFY
+http://23.237.122.154:25461/BUDTV/DFGHJ/609
+#EXTINF:-1,RAFA USA SHOWTIME WEST
+http://23.237.122.154:25461/BUDTV/DFGHJ/608
+#EXTINF:-1,RAFA USA SHOWTIME EAST
+http://23.237.122.154:25461/BUDTV/DFGHJ/607
+#EXTINF:-1,RAFA USA SHOWTIME2
+http://23.237.122.154:25461/BUDTV/DFGHJ/606
+#EXTINF:-1,RAFA SHOWTIME XTREME
+http://23.237.122.154:25461/BUDTV/DFGHJ/605
+#EXTINF:-1,RAFA USA SHOWTIME
+http://23.237.122.154:25461/BUDTV/DFGHJ/604
+#EXTINF:-1,RAFA USA NATGEO
+http://23.237.122.154:25461/BUDTV/DFGHJ/602
+#EXTINF:-1,RAFA USA MSNBC
+http://23.237.122.154:25461/BUDTV/DFGHJ/601
+#EXTINF:-1,RAFA USA HGTV
+http://23.237.122.154:25461/BUDTV/DFGHJ/600
+#EXTINF:-1,RAFA USA FOX NEWS
+http://23.237.122.154:25461/BUDTV/DFGHJ/599
+#EXTINF:-1,RAFA USA FOODNET
+http://23.237.122.154:25461/BUDTV/DFGHJ/598
+#EXTINF:-1,RAFA USA ESPN
+http://23.237.122.154:25461/BUDTV/DFGHJ/597
+#EXTINF:-1,RAFA USA Espn SEC
+http://23.237.122.154:25461/BUDTV/DFGHJ/596
+#EXTINF:-1,RAFA USA DISNEYCH
+http://23.237.122.154:25461/BUDTV/DFGHJ/595
+#EXTINF:-1,RAFA USA CNN
+http://23.237.122.154:25461/BUDTV/DFGHJ/594
+#EXTINF:-1,RAFA USA CARTOON NET
+http://23.237.122.154:25461/BUDTV/DFGHJ/593
+#EXTINF:-1,RAFA USA BBC America
+http://23.237.122.154:25461/BUDTV/DFGHJ/592
+#EXTINF:-1,RAFA USA AMC
+http://23.237.122.154:25461/BUDTV/DFGHJ/591
+#EXTINF:-1,RAFA USA HBO
+http://23.237.122.154:25461/BUDTV/DFGHJ/219
+#EXTINF:-1,RAFA USA HBO Signature
+http://23.237.122.154:25461/BUDTV/DFGHJ/220
+#EXTINF:-1,RAFA USA HBO Family
+http://23.237.122.154:25461/BUDTV/DFGHJ/221
+#EXTINF:-1,RAFA USA HBO 2
+http://23.237.122.154:25461/BUDTV/DFGHJ/222
+#EXTINF:-1,RAFA USA FXX
+http://23.237.122.154:25461/BUDTV/DFGHJ/223
+#EXTINF:-1,RAFA USA Yes
+http://23.237.122.154:25461/BUDTV/DFGHJ/224
+#EXTINF:-1,RAFA USA Nat Geo Wild
+http://23.237.122.154:25461/BUDTV/DFGHJ/228
+#EXTINF:-1,RAFA USA Fox Bussines
+http://23.237.122.154:25461/BUDTV/DFGHJ/229
+#EXTINF:-1,RAFA USA A&E
+http://23.237.122.154:25461/BUDTV/DFGHJ/231
+#EXTINF:-1,RAFA USA Outside
+http://23.237.122.154:25461/BUDTV/DFGHJ/232
+#EXTINF:-1,RAFA USA Fox Sports Indiana
+http://23.237.122.154:25461/BUDTV/DFGHJ/233
+#EXTINF:-1,RAFA USA Fox Sports South
+http://23.237.122.154:25461/BUDTV/DFGHJ/234
+#EXTINF:-1,RAFA USA Fox Sports Florida
+http://23.237.122.154:25461/BUDTV/DFGHJ/235
+#EXTINF:-1,RAFA USA Fox Sports Sun
+http://23.237.122.154:25461/BUDTV/DFGHJ/236
+#EXTINF:-1,RAFA USA Discovery Life
+http://23.237.122.154:25461/BUDTV/DFGHJ/238
+#EXTINF:-1,RAFA USA CMT
+http://23.237.122.154:25461/BUDTV/DFGHJ/239
+#EXTINF:-1,RAFA USA NBA Tv
+http://23.237.122.154:25461/BUDTV/DFGHJ/240
+#EXTINF:-1,RAFA USA TCM
+http://23.237.122.154:25461/BUDTV/DFGHJ/241
+#EXTINF:-1,RAFA USA MTV
+http://23.237.122.154:25461/BUDTV/DFGHJ/242
+#EXTINF:-1,RAFA USA MTV 2
+http://23.237.122.154:25461/BUDTV/DFGHJ/243
+#EXTINF:-1,RAFA USA CBS Houston
+http://23.237.122.154:25461/BUDTV/DFGHJ/245
+#EXTINF:-1,RAFA USA ABC Los Angeles
+http://23.237.122.154:25461/BUDTV/DFGHJ/247
+#EXTINF:-1,RAFA USA CBS Chicago
+http://23.237.122.154:25461/BUDTV/DFGHJ/248
+#EXTINF:-1,RAFA USA ABC New York
+http://23.237.122.154:25461/BUDTV/DFGHJ/249
+#EXTINF:-1,RAFA USA ABC Chicago
+http://23.237.122.154:25461/BUDTV/DFGHJ/251
+#EXTINF:-1,RAFA USA Univision
+http://23.237.122.154:25461/BUDTV/DFGHJ/252
+#EXTINF:-1,RAFA USA Hallmark MM
+http://23.237.122.154:25461/BUDTV/DFGHJ/253
+#EXTINF:-1,RAFA USA Viceland
+http://23.237.122.154:25461/BUDTV/DFGHJ/255
+#EXTINF:-1,RAFA USA American Horror
+http://23.237.122.154:25461/BUDTV/DFGHJ/256
+#EXTINF:-1,RAFA USA Unimas
+http://23.237.122.154:25461/BUDTV/DFGHJ/257
+#EXTINF:-1,RAFA USA Universal Kids
+http://23.237.122.154:25461/BUDTV/DFGHJ/260
+#EXTINF:-1,RAFA USA CBS Los Angeles
+http://23.237.122.154:25461/BUDTV/DFGHJ/264
+#EXTINF:-1,RAFA USA Telemundo Tucson
+http://23.237.122.154:25461/BUDTV/DFGHJ/265
+#EXTINF:-1,RAFA USA TVG
+http://23.237.122.154:25461/BUDTV/DFGHJ/267
+#EXTINF:-1,RAFA USA Telemundo San Francisco
+http://23.237.122.154:25461/BUDTV/DFGHJ/268
+#EXTINF:-1,RAFA USA Disney XD
+http://23.237.122.154:25461/BUDTV/DFGHJ/261
+#EXTINF:-1,RAFA USA DIscovery ID
+http://23.237.122.154:25461/BUDTV/DFGHJ/266
+#EXTINF:-1,RAFA USA Telemundo Phoenix
+http://23.237.122.154:25461/BUDTV/DFGHJ/269
+#EXTINF:-1,RAFA USA Eleven
+http://23.237.122.154:25461/BUDTV/DFGHJ/270
+#EXTINF:-1,RAFA USA Telemundo Dallas
+http://23.237.122.154:25461/BUDTV/DFGHJ/271
+#EXTINF:-1,RAFA USA Fox Sports 1
+http://23.237.122.154:25461/BUDTV/DFGHJ/272
+#EXTINF:-1,RAFA USA FYI
+http://23.237.122.154:25461/BUDTV/DFGHJ/277
+#EXTINF:-1,RAFA USA Sundance TV
+http://23.237.122.154:25461/BUDTV/DFGHJ/278
+#EXTINF:-1,RAFA USA History
+http://23.237.122.154:25461/BUDTV/DFGHJ/280
+#EXTINF:-1,RAFA USA Nick Jr
+http://23.237.122.154:25461/BUDTV/DFGHJ/282
+#EXTINF:-1,RAFA USA Nick
+http://23.237.122.154:25461/BUDTV/DFGHJ/283
+#EXTINF:-1,RAFA USA Hallmark
+http://23.237.122.154:25461/BUDTV/DFGHJ/285
+#EXTINF:-1,RAFA USA Cine Sony
+http://23.237.122.154:25461/BUDTV/DFGHJ/286
+#EXTINF:-1,RAFA USA FXM
+http://23.237.122.154:25461/BUDTV/DFGHJ/288
+#EXTINF:-1,RAFA USA Telemundo Boston
+http://23.237.122.154:25461/BUDTV/DFGHJ/290
+#EXTINF:-1,RAFA USA Telemundo New York
+http://23.237.122.154:25461/BUDTV/DFGHJ/291
+#EXTINF:-1,RAFA USA Telemundo 51
+http://23.237.122.154:25461/BUDTV/DFGHJ/293
+#EXTINF:-1,RAFA USA Comedy Central
+http://23.237.122.154:25461/BUDTV/DFGHJ/294
+#EXTINF:-1,RAFA USA Univision 65 Philadelphia
+http://23.237.122.154:25461/BUDTV/DFGHJ/295
+#EXTINF:-1,RAFA USA Unimas
+http://23.237.122.154:25461/BUDTV/DFGHJ/297
+#EXTINF:-1,RAFA USA Telemundo Chicago
+http://23.237.122.154:25461/BUDTV/DFGHJ/292
+#EXTINF:-1,RAFA USA Telemundo Bay Area
+http://23.237.122.154:25461/BUDTV/DFGHJ/296
+#EXTINF:-1,RAFA USA WWE
+http://23.237.122.154:25461/BUDTV/DFGHJ/299
+#EXTINF:-1,RAFA USA Fox Soccer Plus
+http://23.237.122.154:25461/BUDTV/DFGHJ/303
+#EXTINF:-1,RAFA USA Win Sports
+http://23.237.122.154:25461/BUDTV/DFGHJ/305
+#EXTINF:-1,RAFA USA Fox Deportes
+http://23.237.122.154:25461/BUDTV/DFGHJ/304
+#EXTINF:-1,RAFA USA GolTV
+http://23.237.122.154:25461/BUDTV/DFGHJ/306
+#EXTINF:-1,RAFA USA Bein Sports ESP
+http://23.237.122.154:25461/BUDTV/DFGHJ/307
+#EXTINF:-1,RAFA USA Tycs SPorts
+http://23.237.122.154:25461/BUDTV/DFGHJ/308
+#EXTINF:-1,RAFA USA TNT Sports Argentina
+http://23.237.122.154:25461/BUDTV/DFGHJ/309
+#EXTINF:-1,LAM USA NEW Outdoor Channel
+http://23.237.122.154:25461/BUDTV/DFGHJ/281
+#EXTINF:-1,RAF USA Fox Sports 2
+http://23.237.122.154:25461/BUDTV/DFGHJ/273
+#EXTINF:-1,RAFA USA ABC Houston
+http://23.237.122.154:25461/BUDTV/DFGHJ/590
+#EXTINF:-1,RAFA USA NFL NET
+http://23.237.122.154:25461/BUDTV/DFGHJ/603
+#EXTINF:-1,RAFA USA FS1
+http://23.237.122.154:25461/BUDTV/DFGHJ/619
+#EXTINF:-1,RAFA USA FS2
+http://23.237.122.154:25461/BUDTV/DFGHJ/620
+#EXTINF:-1,RAFA USA BEIN
+http://23.237.122.154:25461/BUDTV/DFGHJ/617
