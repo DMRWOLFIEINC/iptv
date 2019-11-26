@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,HALLMARK MOVIES AND MYSTERIES
-http://thenew.tv:8000/live/chuck1/chuck2/50.m3u8
+#EXTINF:0,USA NETWORK
+http://23.237.122.154:25461/BUDTV/DFGHJ/613
 
 #EXTINF:0,BET
 http://live.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSA1OjM5OjU3IEFNJmhhc2hfdmFsdWU9NlhRazI5M0Z6ZUc4WXZ5QW4xMGt1QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
