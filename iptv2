@@ -4,21 +4,21 @@
 http://23.237.122.154:25461/BUDTV/DFGHJ/613
 
 #EXTINF:0,BET
-http://live.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA0OjU4OjUwIEFNJmhhc2hfdmFsdWU9anR5MTB2cDl6NURIVXRpVVp3VVpFUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjA2OjI4IFBNJmhhc2hfdmFsdWU9ODRldnhFNGQ4MUdraHFudm13UkRMdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,COMEDY CENTRAL
 http://23.237.122.154:25461/BUDTV/DFGHJ/294
 #EXTINF:0,FREEFORM
-http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA0OjU5OjE1IEFNJmhhc2hfdmFsdWU9WUQvbzBSamhvNE5adGFmaWxLZzJsQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjEyOjE5IFBNJmhhc2hfdmFsdWU9Z1Q1RFVQSmNqRHdlbzltTmE1Mm5oUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,FXX
 http://23.237.122.154:25461/BUDTV/DFGHJ/223
 #EXTINF:0,TBS
 http://23.237.122.154:25461/BUDTV/DFGHJ/610
 #EXTINF:0,THE CW
-http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA1OjAwOjE5IEFNJmhhc2hfdmFsdWU9WS9kZDN3Qk9WWC95SWcyOTE1TmFEdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjEyOjE5IFBNJmhhc2hfdmFsdWU9Z1Q1RFVQSmNqRHdlbzltTmE1Mm5oUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TRUTV
 http://23.237.122.154:25461/BUDTV/DFGHJ/612
 #EXTINF:0,TV LAND
-http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA0OjU5OjU4IEFNJmhhc2hfdmFsdWU9NjhxVStVRSs2ZnVkc092MjRocDI0dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjE3OjE5IFBNJmhhc2hfdmFsdWU9aTVPVWh2RmJLN3lvb01QZ0FIVmZXdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTINF:0,BOOMERANG
 http://peer2.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA0OjU5OjQ4IEFNJmhhc2hfdmFsdWU9MGpHaFZodUJTSElOMlJvcS82MThWZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
@@ -27,9 +27,9 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/593
 #EXTINF:0,DISNEY
 http://23.237.122.154:25461/BUDTV/DFGHJ/595
 #EXTINF:0,DISNEY (Backup)
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA1OjAwOjI5IEFNJmhhc2hfdmFsdWU9d1J6ZkRXeHJPSlFwcGlhYXFPd1RQQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjEyOjMzIFBNJmhhc2hfdmFsdWU9NWp2d1JUK2QrRkd5Y1NLOTFJVzJSUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY Junior
-http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA0OjU5OjM5IEFNJmhhc2hfdmFsdWU9OU9IRm9SWXRMRU1IcGhkb1JJc1Rldz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOSA4OjEwOjA1IFBNJmhhc2hfdmFsdWU9WU5uY3F6UWxFRi96SHhOaDRlaTFMdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY XD
 http://23.237.122.154:25461/BUDTV/DFGHJ/261
 #EXTINF:0,NICKELODEON
