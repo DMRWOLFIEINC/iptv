@@ -4,7 +4,7 @@
 http://23.237.122.154:25461/BUDTV/DFGHJ/613
 
 #EXTINF:0,BET
-http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=129609011&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDI6Mjc6MjkgQU0maGFzaF92YWx1ZT1ReUdTUmdvVHVUaWM1YkhjRlVKa1J3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=129626391
 #EXTINF:0,COMEDY CENTRAL
 http://23.237.122.154:25461/BUDTV/DFGHJ/294
 #EXTINF:0,FREEFORM
