@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1,HBO
-https://macan.live/hbo.m3u8
-#EXTINF:-1,HBO Signature
-https://macan.live/hbo_signature.m3u8
-#EXTINF:-1,HBO Hits
-https://macan.live/hbo_hits.m3u8
-#EXTINF:-1,HBO Family
-https://macan.live/hbo_family.m3u8
-#EXTINF:-1,Cinemax
-https://macan.live/cinemax.m3u8
+
 #EXTINF:-1,USA:WWE NETWORK
 http://saba12.com:80/berat/berat/6309
 #EXTINF:-1,USA: ABC EAST
