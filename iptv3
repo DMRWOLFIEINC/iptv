@@ -1,204 +1,479 @@
-#EXTM3U
-
-#EXTINF:-1,USA NETWORK
-http://23.237.122.154:25461/BUDTV/DFGHJ/613
-#EXTINF:-1,TRUTV
-http://23.237.122.154:25461/BUDTV/DFGHJ/612
-#EXTINF:-1,TNT
-http://23.237.122.154:25461/BUDTV/DFGHJ/611
-#EXTINF:-1,TBS
-http://23.237.122.154:25461/BUDTV/DFGHJ/610
-#EXTINF:-1,SYFY
-http://23.237.122.154:25461/BUDTV/DFGHJ/609
-#EXTINF:-1,SHOWTIME WEST
-http://23.237.122.154:25461/BUDTV/DFGHJ/608
-#EXTINF:-1,SHOWTIME EAST
-http://23.237.122.154:25461/BUDTV/DFGHJ/607
-#EXTINF:-1,SHOWTIME2
-http://23.237.122.154:25461/BUDTV/DFGHJ/606
-#EXTINF:-1,RAFA SHOWTIME XTREME
-http://23.237.122.154:25461/BUDTV/DFGHJ/605
-#EXTINF:-1,SHOWTIME
-http://23.237.122.154:25461/BUDTV/DFGHJ/604
-#EXTINF:-1,NATGEO
-http://23.237.122.154:25461/BUDTV/DFGHJ/602
-#EXTINF:-1,MSNBC
-http://23.237.122.154:25461/BUDTV/DFGHJ/601
-#EXTINF:-1,HGTV
-http://23.237.122.154:25461/BUDTV/DFGHJ/600
-#EXTINF:-1,FOX NEWS
-http://23.237.122.154:25461/BUDTV/DFGHJ/599
-#EXTINF:-1,FOODNET
-http://23.237.122.154:25461/BUDTV/DFGHJ/598
-#EXTINF:-1,ESPN
-http://23.237.122.154:25461/BUDTV/DFGHJ/597
-#EXTINF:-1,Espn SEC
-http://23.237.122.154:25461/BUDTV/DFGHJ/596
-#EXTINF:-1,DISNEY
-http://23.237.122.154:25461/BUDTV/DFGHJ/595
-#EXTINF:-1,CNN
-http://23.237.122.154:25461/BUDTV/DFGHJ/594
-#EXTINF:-1,CARTOON NETWORK
-http://23.237.122.154:25461/BUDTV/DFGHJ/593
-#EXTINF:-1,BBC America
-http://23.237.122.154:25461/BUDTV/DFGHJ/592
-#EXTINF:-1,AMC
-http://23.237.122.154:25461/BUDTV/DFGHJ/591
-#EXTINF:-1,HBO
-http://23.237.122.154:25461/BUDTV/DFGHJ/219
-#EXTINF:-1,HBO Signature
-http://23.237.122.154:25461/BUDTV/DFGHJ/220
-#EXTINF:-1,HBO Family
-http://23.237.122.154:25461/BUDTV/DFGHJ/221
-#EXTINF:-1,HBO 2
-http://23.237.122.154:25461/BUDTV/DFGHJ/222
-#EXTINF:-1,FXX
-http://23.237.122.154:25461/BUDTV/DFGHJ/223
-#EXTINF:-1,Yes
-http://23.237.122.154:25461/BUDTV/DFGHJ/224
-#EXTINF:-1,Nat Geo Wild
-http://23.237.122.154:25461/BUDTV/DFGHJ/228
-#EXTINF:-1,Fox Bussines
-http://23.237.122.154:25461/BUDTV/DFGHJ/229
-#EXTINF:-1,A&E
-http://23.237.122.154:25461/BUDTV/DFGHJ/231
-#EXTINF:-1,Outside
-http://23.237.122.154:25461/BUDTV/DFGHJ/232
-#EXTINF:-1,Fox Sports Indiana
-http://23.237.122.154:25461/BUDTV/DFGHJ/233
-#EXTINF:-1,Fox Sports South
-http://23.237.122.154:25461/BUDTV/DFGHJ/234
-#EXTINF:-1,Fox Sports Florida
-http://23.237.122.154:25461/BUDTV/DFGHJ/235
-#EXTINF:-1,Fox Sports Sun
-http://23.237.122.154:25461/BUDTV/DFGHJ/236
-#EXTINF:-1,Discovery Life
-http://23.237.122.154:25461/BUDTV/DFGHJ/238
-#EXTINF:-1,CMT
-http://23.237.122.154:25461/BUDTV/DFGHJ/239
-#EXTINF:-1,NBA Tv
-http://23.237.122.154:25461/BUDTV/DFGHJ/240
-#EXTINF:-1,TCM
-http://23.237.122.154:25461/BUDTV/DFGHJ/241
-#EXTINF:-1,MTV
-http://23.237.122.154:25461/BUDTV/DFGHJ/242
-#EXTINF:-1,MTV 2
-http://23.237.122.154:25461/BUDTV/DFGHJ/243
-#EXTINF:-1,CBS Houston
-http://23.237.122.154:25461/BUDTV/DFGHJ/245
-#EXTINF:-1,ABC Los Angeles
-http://23.237.122.154:25461/BUDTV/DFGHJ/247
-#EXTINF:-1,CBS Chicago
-http://23.237.122.154:25461/BUDTV/DFGHJ/248
-#EXTINF:-1,ABC New York
-http://23.237.122.154:25461/BUDTV/DFGHJ/249
-#EXTINF:-1,ABC Chicago
-http://23.237.122.154:25461/BUDTV/DFGHJ/251
-#EXTINF:-1,Univision
-http://23.237.122.154:25461/BUDTV/DFGHJ/252
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://23.237.122.154:25461/BUDTV/DFGHJ/253
-#EXTINF:-1,Viceland
-http://23.237.122.154:25461/BUDTV/DFGHJ/255
-#EXTINF:-1,American Horror
-http://23.237.122.154:25461/BUDTV/DFGHJ/256
-#EXTINF:-1,Unimas
-http://23.237.122.154:25461/BUDTV/DFGHJ/257
-#EXTINF:-1,Universal Kids
-http://23.237.122.154:25461/BUDTV/DFGHJ/260
-#EXTINF:-1,CBS Los Angeles
-http://23.237.122.154:25461/BUDTV/DFGHJ/264
-#EXTINF:-1,Telemundo Tucson
-http://23.237.122.154:25461/BUDTV/DFGHJ/265
-#EXTINF:-1,TVG
-http://23.237.122.154:25461/BUDTV/DFGHJ/267
-#EXTINF:-1,Telemundo San Francisco
-http://23.237.122.154:25461/BUDTV/DFGHJ/268
-#EXTINF:-1,Disney XD
-http://23.237.122.154:25461/BUDTV/DFGHJ/261
-#EXTINF:-1,Discovery ID
-http://23.237.122.154:25461/BUDTV/DFGHJ/266
-#EXTINF:-1,Telemundo Phoenix
-http://23.237.122.154:25461/BUDTV/DFGHJ/269
-#EXTINF:-1,Eleven
-http://23.237.122.154:25461/BUDTV/DFGHJ/270
-#EXTINF:-1,Telemundo Dallas
-http://23.237.122.154:25461/BUDTV/DFGHJ/271
-#EXTINF:-1,Fox Sports 1
-http://23.237.122.154:25461/BUDTV/DFGHJ/272
-#EXTINF:-1,FYI
-http://23.237.122.154:25461/BUDTV/DFGHJ/277
-#EXTINF:-1,Sundance TV
-http://23.237.122.154:25461/BUDTV/DFGHJ/278
-#EXTINF:-1,History
-http://23.237.122.154:25461/BUDTV/DFGHJ/280
-#EXTINF:-1,Nick Jr
-http://23.237.122.154:25461/BUDTV/DFGHJ/282
-#EXTINF:-1,Nick
-http://23.237.122.154:25461/BUDTV/DFGHJ/283
-#EXTINF:-1,Hallmark
-http://23.237.122.154:25461/BUDTV/DFGHJ/285
-#EXTINF:-1,Cine Sony
-http://23.237.122.154:25461/BUDTV/DFGHJ/286
-#EXTINF:-1,FXM
-http://23.237.122.154:25461/BUDTV/DFGHJ/288
-#EXTINF:-1,Telemundo Boston
-http://23.237.122.154:25461/BUDTV/DFGHJ/290
-#EXTINF:-1,Telemundo New York
-http://23.237.122.154:25461/BUDTV/DFGHJ/291
-#EXTINF:-1,Telemundo 51
-http://23.237.122.154:25461/BUDTV/DFGHJ/293
-#EXTINF:-1,Comedy Central
-http://23.237.122.154:25461/BUDTV/DFGHJ/294
-#EXTINF:-1,Univision 65 Philadelphia
-http://23.237.122.154:25461/BUDTV/DFGHJ/295
-#EXTINF:-1,Unimas
-http://23.237.122.154:25461/BUDTV/DFGHJ/297
-#EXTINF:-1,Telemundo Chicago
-http://23.237.122.154:25461/BUDTV/DFGHJ/292
-#EXTINF:-1,Telemundo Bay Area
-http://23.237.122.154:25461/BUDTV/DFGHJ/296
-#EXTINF:-1,WWE
-http://23.237.122.154:25461/BUDTV/DFGHJ/299
-#EXTINF:-1,Fox Soccer Plus
-http://23.237.122.154:25461/BUDTV/DFGHJ/303
-#EXTINF:-1,Win Sports
-http://23.237.122.154:25461/BUDTV/DFGHJ/305
-#EXTINF:-1,Fox Deportes
-http://23.237.122.154:25461/BUDTV/DFGHJ/304
-#EXTINF:-1,USA GolTV
-http://23.237.122.154:25461/BUDTV/DFGHJ/306
-#EXTINF:-1,Bein Sports ESP
-http://23.237.122.154:25461/BUDTV/DFGHJ/307
-#EXTINF:-1,Tycs SPorts
-http://23.237.122.154:25461/BUDTV/DFGHJ/308
-#EXTINF:-1,TNT Sports Argentina
-http://23.237.122.154:25461/BUDTV/DFGHJ/309
-#EXTINF:-1,NEW Outdoor Channel
-http://23.237.122.154:25461/BUDTV/DFGHJ/281
-#EXTINF:-1,Fox Sports 2
-http://23.237.122.154:25461/BUDTV/DFGHJ/273
-#EXTINF:-1,ABC Houston
-http://23.237.122.154:25461/BUDTV/DFGHJ/590
-#EXTINF:-1,NFL NET
-http://23.237.122.154:25461/BUDTV/DFGHJ/603
-#EXTINF:-1,FS1
-http://23.237.122.154:25461/BUDTV/DFGHJ/619
-#EXTINF:-1,FS2
-http://23.237.122.154:25461/BUDTV/DFGHJ/620
-#EXTINF:-1,BEIN
-http://23.237.122.154:25461/BUDTV/DFGHJ/617
-#EXTINF:-1,A&E SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/2
-#EXTINF:-1,AMC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/6
-#EXTINF:-1,FOOD NETWORK SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/60
-#EXTINF:-1,FOX PREMIUM CLASSICS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/65
-#EXTINF:-1,FOX PREMIUM SERIES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/67
-#EXTINF:-1,HBO 1
-http://23.237.122.154:25461/BUDTV/DFGHJ/83
-#EXTINF:-1,SYFY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/129
+#EXTM3U https://hdbox.ws/ 
+#EXTINF:-1,|UK| BBC 1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3024
+#EXTINF:-1,|UK| BBC 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3025
+#EXTINF:-1,|UK| BBC 3/CBBC FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3026
+#EXTINF:-1,|UK| BBC FHD 4/CBEEBIES
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3027
+#EXTINF:-1,|UK| BBC NEWS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3028
+#EXTINF:-1,|UK| BBC SCOTLAND FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3029
+#EXTINF:-1,|UK| BLOOMBERG FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3030
+#EXTINF:-1,|UK| BT 1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3031
+#EXTINF:-1,|UK| BT 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3032
+#EXTINF:-1,|UK| BT 3 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3033
+#EXTINF:-1,|UK| BT ESPN FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3034
+#EXTINF:-1,|UK| CAPITAL TV
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3035
+#EXTINF:-1,|UK| CARTOON NETWORK FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3036
+#EXTINF:-1,|UK| CHANNEL 4 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3037
+#EXTINF:-1,|UK| CHANNEL 5 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3038
+#EXTINF:-1,|UK| CHELSEA TV (Live On Matches) HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3039
+#EXTINF:-1,|UK| CRIME & INVESTIGATION FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3040
+#EXTINF:-1,|UK| COLORS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3041
+#EXTINF:-1,|UK| CNN FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3042
+#EXTINF:-1,|UK| DISNEY CHANNEL FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3043
+#EXTINF:-1,|UK| DISNEY JUNIOR FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3044
+#EXTINF:-1,|UK| DISNEY XD FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3045
+#EXTINF:-1,|UK| COMEDY CENTRAL FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3046
+#EXTINF:-1,|UK| DAVE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3047
+#EXTINF:-1,|UK| DISCOVERY FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3048
+#EXTINF:-1,|UK| E4 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3049
+#EXTINF:-1,|UK| EDEN FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3050
+#EXTINF:-1,|UK| EUROSPORTS 1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3051
+#EXTINF:-1,|UK| EUROSPORTS 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3052
+#EXTINF:-1,|UK| EIR SPORTS FHD 1
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3053
+#EXTINF:-1,|UK| EIR SPORTS FHD 2
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3054
+#EXTINF:-1,|UK| ELEVEN SPORTS 1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3055
+#EXTINF:-1,|UK| ELEVEN SPORTS 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3056
+#EXTINF:-1,|UK| ELEVEN LALIGA FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3057
+#EXTINF:-1,|UK| FILM 4 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3058
+#EXTINF:-1,|UK| FOX FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3059
+#EXTINF:-1,|UK| FRANCE 24 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3060
+#EXTINF:-1,|UK| FREE SPORTS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3061
+#EXTINF:-1,|UK| GOLD FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3062
+#EXTINF:-1,|UK| FOX SPORTS ASIA HD 1
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3063
+#EXTINF:-1,|UK| FOX SPORTS ASIA HD 2
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3064
+#EXTINF:-1,|UK| FOX SPORTS ASIA HD 3
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3065
+#EXTINF:-1,|UK| HISTORY FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3066
+#EXTINF:-1,|UK| H2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3067
+#EXTINF:-1,|UK| FNTV FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3068
+#EXTINF:-1,|UK| ITV FHD 1
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3069
+#EXTINF:-1,|UK| ITV FHD 2
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3070
+#EXTINF:-1,|UK| ITV FHD 3
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3071
+#EXTINF:-1,|UK| ITV FHD 4
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3072
+#EXTINF:-1,|UK| ITV BE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3073
+#EXTINF:-1,|UK| GOOD FOOD FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3074
+#EXTINF:-1,|UK| LIFETIME FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3075
+#EXTINF:-1,|UK| LFC FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3076
+#EXTINF:-1,|UK| E! ENTERTAINMENT FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3077
+#EXTINF:-1,|UK| LOVE NATURE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3078
+#EXTINF:-1,|UK| MORE 4 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3079
+#EXTINF:-1,|UK| MTV FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3080
+#EXTINF:-1,|UK| MTV LIVE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3081
+#EXTINF:-1,|UK| NAT GEO FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3082
+#EXTINF:-1,|UK| NAT GEO WILD FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3083
+#EXTINF:-1,|UK| NICK FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3084
+#EXTINF:-1,|UK| PARAMOUNT FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3085
+#EXTINF:-1,|UK| PREMIER SPORTS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3086
+#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3087
+#EXTINF:-1,|UK| QUEST FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3088
+#EXTINF:-1,|UK| RACING UK FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3089
+#EXTINF:-1,IR FHD : RTE ONE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3090
+#EXTINF:-1,IR FHD : RTE TWO FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3091
+#EXTINF:-1,|UK| S4C FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3092
+#EXTINF:-1,|UK| 5 MOVIES FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3093
+#EXTINF:-1,|UK| ATLANTIC FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3094
+#EXTINF:-1,|UK| ARTS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3095
+#EXTINF:-1,|UK| CINEMA ACTION FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3096
+#EXTINF:-1,|UK| CINEMA COMEDY FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3097
+#EXTINF:-1,|UK| CINEMA DISNEY FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3098
+#EXTINF:-1,|UK| CINEMA ANIMATION FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3099
+#EXTINF:-1,|UK| CINEMA SUPERHEROES FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3100
+#EXTINF:-1,|UK| CINEMA PREMIER FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3101
+#EXTINF:-1,|UK| CINEMA SKI-FI FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3102
+#EXTINF:-1,|UK| CINEMA MUSICALS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3103
+#EXTINF:-1,|UK| CINEMA THRILLER FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3104
+#EXTINF:-1,|UK|  DRAMA FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3105
+#EXTINF:-1,|UK| HITS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3106
+#EXTINF:-1,|UK| ONE FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3107
+#EXTINF:-1,|UK| NEWS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3108
+#EXTINF:-1,|UK| WITNESS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3109
+#EXTINF:-1,|UK| SPORTS RACING FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3110
+#EXTINF:-1,|UK| SPORTS MIX FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3111
+#EXTINF:-1,|UK| SPORTS NEWS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3112
+#EXTINF:-1,|UK| SPORTS ACTION FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3113
+#EXTINF:-1,|UK| SPORTS ARENA FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3114
+#EXTINF:-1,|UK| SPORTS CRICKET FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3115
+#EXTINF:-1,|UK| SPORTS F1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3116
+#EXTINF:-1,|UK| STAR GOLD FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3121
+#EXTINF:-1,|UK| STAR PLUS FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3122
+#EXTINF:-1,|UK| SONY MAX FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3123
+#EXTINF:-1,|UK| SONY TV FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3124
+#EXTINF:-1,|UK| SYFY FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3125
+#EXTINF:-1,|UK| SMITHSONIAN CHANNEL HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3126
+#EXTINF:-1,|UK| TCM FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3127
+#EXTINF:-1,|UK| TG 4 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3128
+#EXTINF:-1,|UK| TLC FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3129
+#EXTINF:-1,|UK| UTV FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3130
+#EXTINF:-1,|UK| UNIVERSAL FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3131
+#EXTINF:-1,|UK| WATCH FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3132
+#EXTINF:-1,|UK| ZEE TV FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3133
+#EXTINF:-1,|UK| ZEE CINEMA FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3134
+#EXTINF:-1,|UK| ZOOMOO FHD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3135
+#EXTINF:-1,|UK| CHANNEL 4 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3136
+#EXTINF:-1,|UK| CHANNEL 5 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3137
+#EXTINF:-1,|UK| CHANNEL 5 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3138
+#EXTINF:-1,|UK| CHELSEA TV SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3139
+#EXTINF:-1,|UK| CITV SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3140
+#EXTINF:-1,|UK| CNN SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3141
+#EXTINF:-1,|UK| COMEDY CENTRAL SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3142
+#EXTINF:-1,|UK| CRIME AND INVESTIGATION HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3143
+#EXTINF:-1,|UK| DAVE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3144
+#EXTINF:-1,|UK| DISCOVERY CHANNEL SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3145
+#EXTINF:-1,|UK| DISCOVERY HISTORY SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3146
+#EXTINF:-1,|UK| DISCOVERY SCIENCE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3147
+#EXTINF:-1,|UK| DISCOVERY SHED HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3148
+#EXTINF:-1,|UK| DISNEY CHANNEL HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3149
+#EXTINF:-1,|UK| DISNEY JUNIOR HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3150
+#EXTINF:-1,|UK| DISNEY XD SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3151
+#EXTINF:-1,|UK| DRAMA SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3152
+#EXTINF:-1,|UK| E! HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3153
+#EXTINF:-1,|UK| E4 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3154
+#EXTINF:-1,|UK| EDEN HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3155
+#EXTINF:-1,|UK| EIR SPORT 1 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3156
+#EXTINF:-1,|UK| EIR SPORT 2 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3157
+#EXTINF:-1,|UK| EUROSPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3158
+#EXTINF:-1,|UK| EUROSPORT 2 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3159
+#EXTINF:-1,|UK| FILM 4 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3160
+#EXTINF:-1,|UK| FINE LIVING SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3161
+#EXTINF:-1,|UK| FOOD NETWORK HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3162
+#EXTINF:-1,|UK| FOX HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3163
+#EXTINF:-1,|UK| FOX NEWS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3164
+#EXTINF:-1,|UK| FREE SPORTS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3165
+#EXTINF:-1,|UK| GOLD SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3166
+#EXTINF:-1,|UK| GOOD FOOD HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3167
+#EXTINF:-1,|UK| H & H SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3168
+#EXTINF:-1,|UK| H2 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3169
+#EXTINF:-1,|UK| HISTORY CHANNEL SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3170
+#EXTINF:-1,|UK| HOME SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3171
+#EXTINF:-1,|UK| INVESTIGATION DISCOVERY SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3172
+#EXTINF:-1,|UK| ITV SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3173
+#EXTINF:-1,|UK| ITV HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3174
+#EXTINF:-1,|UK| ITV 2 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3175
+#EXTINF:-1,|UK| ITV 2 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3176
+#EXTINF:-1,|UK| ITV 3 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3177
+#EXTINF:-1,|UK| ITV 3 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3178
+#EXTINF:-1,|UK| ITV 4 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3179
+#EXTINF:-1,|UK| ITV 4 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3180
+#EXTINF:-1,|UK| ITV Be HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3181
+#EXTINF:-1,|UK| LFCTV HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3182
+#EXTINF:-1,|UK| LIVING SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3183
+#EXTINF:-1,|UK| MORE 4 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3184
+#EXTINF:-1,|UK| MOVIES4MEN SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3185
+#EXTINF:-1,|UK| MUTV HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3186
+#EXTINF:-1,|UK| NAT GEO HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3187
+#EXTINF:-1,|UK| NICK JR SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3188
+#EXTINF:-1,|UK| NICKELODEON SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3189
+#EXTINF:-1,|UK| PARAMOUNT HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3190
+#EXTINF:-1,|UK| PICK SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3191
+#EXTINF:-1,|UK| POP (CHILDREN) SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3192
+#EXTINF:-1,|UK| PREMIER SPORTS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3193
+#EXTINF:-1,|UK| QUEST SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3194
+#EXTINF:-1,|UK| RACING UK HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3195
+#EXTINF:-1,|UK| RTE ONE HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3196
+#EXTINF:-1,|UK| RTE TWO HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3197
+#EXTINF:-1,|UK| 1 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3198
+#EXTINF:-1,|UK| 2 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3199
+#EXTINF:-1,|UK| ARTS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3200
+#EXTINF:-1,|UK| ATLANTIC HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3201
+#EXTINF:-1,|UK| DRAMA HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3202
+#EXTINF:-1,|UK| LIVING SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3203
+#EXTINF:-1,|UK| MOVIES ACTION SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3204
+#EXTINF:-1,|UK| MOVIES ACTION & ADVENTURE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3205
+#EXTINF:-1,|UK| MOVIES COMEDY SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3206
+#EXTINF:-1,|UK| MOVIES DISNEY HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3207
+#EXTINF:-1,|UK| MOVIES DRAMA & ROMANCE HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3208
+#EXTINF:-1,|UK| MOVIES FAMILY HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3209
+#EXTINF:-1,|UK| MOVIES PREMIER HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3210
+#EXTINF:-1,|UK| MOVIES SCI-FI & HORROR HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3211
+#EXTINF:-1,|UK| MOVIES THRILLER HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3212
+#EXTINF:-1,|UK| NEWS SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3213
+#EXTINF:-1,|UK| NEWS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3214
+#EXTINF:-1,|UK| SPORTS ACTION HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3215
+#EXTINF:-1,|UK| SPORTS ARENA
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3216
+#EXTINF:-1,|UK| SPORTS CRICKET HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3217
+#EXTINF:-1,|UK| SPORTS CRICKET SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3218
+#EXTINF:-1,|UK| SPORTS F1 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3219
+#EXTINF:-1,|UK| SPORTS FOOTBALL SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3220
+#EXTINF:-1,|UK| SPORTS GOLF HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3221
+#EXTINF:-1,|UK| SPORTS MAIN EVENT HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3222
+#EXTINF:-1,|UK| SPORTS MIX HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3223
+#EXTINF:-1,|UK| SPORTS NEWS SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3224
+#EXTINF:-1,|UK| SPORTS PREMIER LEAGUE HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3225
+#EXTINF:-1,|UK| SPORTS RACING HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3226
+#EXTINF:-1,|UK| SONY BBC EARTH HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3227
+#EXTINF:-1,|UK| SONY CHANNEL SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3228
+#EXTINF:-1,|UK| SONY MOVIES CHRISTMAS SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3229
+#EXTINF:-1,|UK| SYFY HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3230
+#EXTINF:-1,|UK| TCM HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3231
+#EXTINF:-1,|UK| TRUE CRIME SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3232
+#EXTINF:-1,|UK| UNIVERSAL CHANNEL HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3233
+#EXTINF:-1,|UK| VH 1 CLASSIC SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3234
+#EXTINF:-1,|UK| YESTERDAY SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3235
+#EXTINF:-1,|UK| 4 SEVEN SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3236
+#EXTINF:-1,|UK| 5 STAR SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3237
+#EXTINF:-1,|UK| 5 USA SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3238
+#EXTINF:-1,|UK| ALIBI HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3239
+#EXTINF:-1,|UK| AMC SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3240
+#EXTINF:-1,|UK| ANIMAL PLANET HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3241
+#EXTINF:-1,|UK| BABY TV SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3242
+#EXTINF:-1,|UK| BBC FIRST HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3243
+#EXTINF:-1,|UK| BBC FOUR HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3244
+#EXTINF:-1,|UK| BBC NEWS SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3245
+#EXTINF:-1,|UK| BBC ONE HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3246
+#EXTINF:-1,|UK| BBC ONE (SCOTLAND) HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3247
+#EXTINF:-1,|UK| BBC ONE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3248
+#EXTINF:-1,|UK| BBC THREE/CBeebies SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3249
+#EXTINF:-1,|UK| BBC TWO HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3250
+#EXTINF:-1,|UK| BBC TWO (SCOTLAND) SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3251
+#EXTINF:-1,|UK| BBC WORLD NEWS SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3252
+#EXTINF:-1,|UK| BET SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3253
+#EXTINF:-1,|UK| BLOOMBERG NEWS HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3254
+#EXTINF:-1,|UK| BT SPORT / ESPN HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3255
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3256
+#EXTINF:-1,|UK| BT SPORT 1 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3257
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3258
+#EXTINF:-1,|UK| BT SPORT 2 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3259
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3260
+#EXTINF:-1,|UK| BT SPORT 3 SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3261
+#EXTINF:-1,|UK| CBS DRAMA SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3262
+#EXTINF:-1,|UK| CBS JUSTICE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3263
+#EXTINF:-1,|UK| CELTIC TV (MATCH TIME) SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3264
+#EXTINF:-1,|UK| CHALLANGE SD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3265
+#EXTINF:-1,|UK| CHANNEL 4 HD
+http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3266
