@@ -704,1585 +704,732 @@ https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
 
 
-#EXTINF:-1,ABC 7 NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1598.ts
-#EXTINF:-1,ABC 2 ATLANTA GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1521.ts
-#EXTINF:-1,ABC 5 BOSTON MA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1431.ts
-#EXTINF:-1,ABC 2 NASHVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/597.ts
-#EXTINF:-1,ABC 2 BALTIMORE MD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/600.ts
-#EXTINF:-1,ABC 7 LOS ANGELES CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/599.ts
-#EXTINF:-1,ABC 5 CLEVELAND OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1323.ts
-#EXTINF:-1,ABC 4 PITTSBURGH PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/598.ts
-#EXTINF:-1,ABC 9 ORLANDO FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/14.ts
-#EXTINF:-1,ABC 9 KANSAS CITY MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/13.ts
-#EXTINF:-1,ABC 9 CHARLOTTE NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/12.ts
-#EXTINF:-1,ABC 8 NEW HAVEN CT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/11.ts
-#EXTINF:-1,ABC 8 DALLAS TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/10.ts
-#EXTINF:-1,ABC 7 WASHINGTON  D.C.
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/6.ts
-#EXTINF:-1,ABC 7 SAN FRANCISCO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/9.ts
-#EXTINF:-1,ABC 7 DETROIT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/8.ts
-#EXTINF:-1,ABC 7 DENVER CO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/7.ts
-#EXTINF:-1,ABC 7 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/5.ts
-#EXTINF:-1,ABC 6 PHILADELPHIA PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/4.ts
-#EXTINF:-1,ABC 6 INDIANAPOLIS IN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/3.ts
-#EXTINF:-1,ABC 6 COLUMBUS OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2.ts
-#EXTINF:-1,ABC 30 ST LOUIS MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/24.ts
-#EXTINF:-1,ABC 30 FRESNO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/23.ts
-#EXTINF:-1,ABC 28 TAMPA BAY FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/25.ts
-#EXTINF:-1,ABC 15 PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/22.ts
-#EXTINF:-1,ABC 13 HOUSTON TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/21.ts
-#EXTINF:-1,ABC 12 SAN ANTONIO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/20.ts
-#EXTINF:-1,ABC 12 MILWAUKEE WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/19.ts
-#EXTINF:-1,ABC 10 SACRAMENTO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/16.ts
-#EXTINF:-1,ABC 10 MIAMI FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/15.ts
-#EXTINF:-1,ABC 10 SAN DIEGO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/17.ts
-#EXTINF:-1,ABC 11 RALEIGH NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/18.ts
-#EXTINF:-1,CBS 22 WILKES BARRE PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1580.ts
-#EXTINF:-1,CBS 9 OKLAHOMA CITY OK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1554.ts
-#EXTINF:-1,CBS 9 BATON ROUGE LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1552.ts
-#EXTINF:-1,CBS 8 MONTGOMERY AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1550.ts
-#EXTINF:-1,CBS 8 KNOXVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1577.ts
-#EXTINF:-1,CBS 8 DES MOINES IA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1548.ts
-#EXTINF:-1,CBS 7 ROANOKE VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1568.ts
-#EXTINF:-1,CBS 7 GREENVILLE SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1591.ts
-#EXTINF:-1,CBS 7 DAYTON OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1546.ts
-#EXTINF:-1,CBS 6 ALBANY NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1556.ts
-#EXTINF:-1,CBS 5 WILMINGTON NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1595.ts
-#EXTINF:-1,CBS 44 EVANSVILLE IN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1562.ts
-#EXTINF:-1,CBS 4 FARGO VALLEY CITY ND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1543.ts
-#EXTINF:-1,CBS 3 OMAHA NE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1540.ts
-#EXTINF:-1,CBS 3 MADISON WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1565.ts
-#EXTINF:-1,CBS 3 BURLINGTON VT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1537.ts
-#EXTINF:-1,CBS 2 RENO NV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1535.ts
-#EXTINF:-1,CBS 19 LONGVIEW TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1533.ts
-#EXTINF:-1,CBS 12 CHATTANOOGA TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1559.ts
-#EXTINF:-1,CBS 11 FT MYERS FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1563.ts
-#EXTINF:-1,CBS 10 WACO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1528.ts
-#EXTINF:-1,CBS 4 BUFFALO NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1522.ts
-#EXTINF:-1,CBS 22 SCRANTON PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1348.ts
-#EXTINF:-1,CBS 5 GREEN BAY WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1336.ts
-#EXTINF:-1,CBS 5 FLINT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1340.ts
-#EXTINF:-1,CBS 42 AUSTIN TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1338.ts
-#EXTINF:-1,CBS 32 LOUISVILLE KY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1342.ts
-#EXTINF:-1,CBS 10 CORPUS CHRISTI TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1332.ts
-#EXTINF:-1,CBS 12 JACKSON MS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1329.ts
-#EXTINF:-1,CBS 19 CLEVELAND OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1324.ts
-#EXTINF:-1,CBS 11 TOLEDO OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1327.ts
-#EXTINF:-1,CBS 11 LITTLE ROCK AK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1320.ts
-#EXTINF:-1,CBS 9 HONOLULU HI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1308.ts
-#EXTINF:-1,CBS 5 SYRACUSE NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1311.ts
-#EXTINF:-1,CBS 12 SHREVEPORT LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1318.ts
-#EXTINF:-1,CBS 11 SAVANNAH GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1315.ts
-#EXTINF:-1,CBS 8 LAS VEGAS NV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1301.ts
-#EXTINF:-1,CBS 47 FRESNO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1299.ts
-#EXTINF:-1,CBS 42 BIRMINGHAM AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1302.ts
-#EXTINF:-1,CBS 3 GRAND RAPIDS MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1199.ts
-#EXTINF:-1,CBS 19 COLUMBIA SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1288.ts
-#EXTINF:-1,CBS 17 RALEIGH NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1294.ts
-#EXTINF:-1,CBS 11 SIOUX FALLS SD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1289.ts
-#EXTINF:-1,CBS 4 ST. LOUIS MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1279.ts
-#EXTINF:-1,CBS 7 SEATTLE WA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/43.ts
-#EXTINF:-1,CBS 62 DETROIT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/56.ts
-#EXTINF:-1,CBS 6 ORLANDO FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/42.ts
-#EXTINF:-1,CBS 58 MILWAUKEE WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/55.ts
-#EXTINF:-1,CBS 5 SAN FRANCISCO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/59.ts
-#EXTINF:-1,CBS 5 SAN ANTONIO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/41.ts
-#EXTINF:-1,CBS 5 PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/40.ts
-#EXTINF:-1,CBS 5 NASHVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/39.ts
-#EXTINF:-1,CBS 5 KANSAS CITY MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/38.ts
-#EXTINF:-1,CBS 47 JACKSONVILLE FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/54.ts
-#EXTINF:-1,CBS 46 ATLANTA GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/53.ts
-#EXTINF:-1,CBS 4 NEW ORLEANS LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/37.ts
-#EXTINF:-1,CBS 4 MINNEAPOLIS MN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/36.ts
-#EXTINF:-1,CBS 4 MIAMI FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/35.ts
-#EXTINF:-1,CBS 4 DENVER CO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/34.ts
-#EXTINF:-1,CBS 4 BOSTON MA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/33.ts
-#EXTINF:-1,CBS 3 PHILADELPHIA PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/32.ts
-#EXTINF:-1,CBS 3 HARTFORD CT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/31.ts
-#EXTINF:-1,CBS 3 CHARLOTTE NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/30.ts
-#EXTINF:-1,CBS 21 HARRISBURG PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/61.ts
-#EXTINF:-1,CBS 2 SALT LAKE CITY UT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/52.ts
-#EXTINF:-1,CBS 2 PITTSBURGH PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/58.ts
-#EXTINF:-1,CBS 2 NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/26.ts
-#EXTINF:-1,CBS 2 LOS ANGELES CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/27.ts
-#EXTINF:-1,CBS 2 GREENSBORO NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/29.ts
-#EXTINF:-1,CBS 2 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/28.ts
-#EXTINF:-1,CBS 13 SACRAMENTO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/50.ts
-#EXTINF:-1,CBS 13 BALTIMORE MD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/49.ts
-#EXTINF:-1,CBS 12 WEST PALM BEACH FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/51.ts
-#EXTINF:-1,CBS 12 CINCINNATI OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/48.ts
-#EXTINF:-1,CBS 11 HOUSTON TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/60.ts
-#EXTINF:-1,CBS 11 DALLAS TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/47.ts
-#EXTINF:-1,CBS 10 TAMPA FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/46.ts
-#EXTINF:-1,CBS 10 COLUMBUS OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/57.ts
-#EXTINF:-1,CBS 9 WASHINGTON D.C.
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/45.ts
-#EXTINF:-1,CBS 8 SAN DIEGO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/44.ts
-#EXTINF:-1,FOX 56 WILKES BARRE PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1581.ts
-#EXTINF:-1,FOX 11 CHARLESTON WV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1583.ts
-#EXTINF:-1,FOX 61 CHATTANOOGA TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1560.ts
-#EXTINF:-1,FOX 51 LONGVIEW TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1534.ts
-#EXTINF:-1,FOX 5 HUNTSVILLE AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1585.ts
-#EXTINF:-1,FOX 47 MADISON WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1566.ts
-#EXTINF:-1,FOX 45 DAYTON OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1547.ts
-#EXTINF:-1,FOX 44 WACO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1529.ts
-#EXTINF:-1,FOX 44 BURLINGTON VT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1538.ts
-#EXTINF:-1,FOX 44 BATON ROUGE LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1553.ts
-#EXTINF:-1,FOX 43 KNOXVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1578.ts
-#EXTINF:-1,FOX 42 OMAHA NE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1541.ts
-#EXTINF:-1,FOX 36 FT MYERS FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1564.ts
-#EXTINF:-1,FOX 35 RICHMOND VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1587.ts
-#EXTINF:-1,FOX 31 ROCHESTER NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1589.ts
-#EXTINF:-1,FOX 27 ROANOKE VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1569.ts
-#EXTINF:-1,FOX 25 OKLAHOMA CITY OK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1555.ts
-#EXTINF:-1,FOX 24 MACON GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1532.ts
-#EXTINF:-1,FOX 23 PORTLAND ME
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1575.ts
-#EXTINF:-1,FOX 23 ALBANY NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1557.ts
-#EXTINF:-1,FOX 21 GREENVILLE SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1592.ts
-#EXTINF:-1,FOX 17 DES MOINES IA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1549.ts
-#EXTINF:-1,FOX 16 ALBUQUERQUE NM
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1571.ts
-#EXTINF:-1,FOX 15 FARGO VALLEY CITY ND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1544.ts
-#EXTINF:-1,FOX 13 MEMPHIS TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1573.ts
-#EXTINF:-1,FOX 11 RENO NV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1536.ts
-#EXTINF:-1,FOX 56 SCRANTON PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1347.ts
-#EXTINF:-1,FOX 66 FLINT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1341.ts
-#EXTINF:-1,FOX 41 LOUISVILLE KY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1343.ts
-#EXTINF:-1,FOX 11 GREEN BAY WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1337.ts
-#EXTINF:-1,FOX 38 CORPUS CHRISTI TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1333.ts
-#EXTINF:-1,FOX 40 JACKSON MS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1330.ts
-#EXTINF:-1,FOX 33 TOLEDO OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1328.ts
-#EXTINF:-1,FOX 16 LITTLE ROCK AK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1321.ts
-#EXTINF:-1,FOX 8 GREENSBORO NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1305.ts
-#EXTINF:-1,FOX 68 SYRACUSE NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1312.ts
-#EXTINF:-1,FOX 33 SHREVEPORT LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1319.ts
-#EXTINF:-1,FOX 29 WEST PALM BEACH FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1313.ts
-#EXTINF:-1,FOX 28 SAVANNAH GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1316.ts
-#EXTINF:-1,FOX 2 HONOLULU HI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1309.ts
-#EXTINF:-1,FOX 7 SACRAMENTO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1292.ts
-#EXTINF:-1,FOX 6 BIRMINGHAM AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1303.ts
-#EXTINF:-1,FOX 5 SAN DIEGO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1293.ts
-#EXTINF:-1,FOX 26 FRESNO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1298.ts
-#EXTINF:-1,FOX 17 SIOUX FALLS SD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1290.ts
-#EXTINF:-1,FOX 57 COLUMBIA SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1274.ts
-#EXTINF:-1,FOX 43 NORFOLK VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1259.ts
-#EXTINF:-1,FOX 9 + MINNEAPOLIS MN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/434.ts
-#EXTINF:-1,FOX 9  MINNEAPOLIS MN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/435.ts
-#EXTINF:-1,FOX 8 NEW ORLEANS LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/433.ts
-#EXTINF:-1,FOX 8 CLEVELAND OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/432.ts
-#EXTINF:-1,FOX 7 MIAMI FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/431.ts
-#EXTINF:-1,FOX 7 AUSTIN TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/430.ts
-#EXTINF:-1,FOX 61 HARTFORD CT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/457.ts
-#EXTINF:-1,FOX 6 MILWAUKEE WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/429.ts
-#EXTINF:-1,FOX 59 INDIANAPOLIS IN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/456.ts
-#EXTINF:-1,FOX 53 PITTSBURGH PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/458.ts
-#EXTINF:-1,FOX 51 GAINSVILLE FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/455.ts
-#EXTINF:-1,FOX 50 RALEIGH NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/454.ts
-#EXTINF:-1,FOX 5 WASHINGTON D.C.
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/427.ts
-#EXTINF:-1,FOX 5 PLUS WASHINGTON D.C.
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/428.ts
-#EXTINF:-1,FOX 5 ATLANTA GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/426.ts
-#EXTINF:-1,FOX 46 CHARLOTTE NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/453.ts
-#EXTINF:-1,FOX 45 BALTIMORE MD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/452.ts
-#EXTINF:-1,FOX 4 MORE DALLAS TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/425.ts
-#EXTINF:-1,FOX 4 KANSAS CITY MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/424.ts
-#EXTINF:-1,FOX 4 DALLAS TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/423.ts
-#EXTINF:-1,FOX 35 ORLANDO FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/451.ts
-#EXTINF:-1,FOX 32 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/450.ts
-#EXTINF:-1,FOX 31 DENVER CO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/449.ts
-#EXTINF:-1,FOX 30 JACKSONVILLE FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/448.ts
-#EXTINF:-1,FOX 29 SAN ANTONIO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/447.ts
-#EXTINF:-1,FOX 29 PHILADELPHIA PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/446.ts
-#EXTINF:-1,FOX 29 BUFFALO NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/445.ts
-#EXTINF:-1,FOX 28 COLUMBUS OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/461.ts
-#EXTINF:-1,FOX 26 HOUSTON TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/444.ts
-#EXTINF:-1,FOX 25 BOSTON MA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/443.ts
-#EXTINF:-1,FOX 2 ST. LOUIS MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/422.ts
-#EXTINF:-1,FOX 2 SAN FRANCISCO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/459.ts
-#EXTINF:-1,FOX 2 DETROIT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/421.ts
-#EXTINF:-1,FOX 19 CINCINNATI OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/442.ts
-#EXTINF:-1,FOX 17 NASHVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/441.ts
-#EXTINF:-1,FOX 13 TAMPA FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/440.ts
-#EXTINF:-1,FOX 13 SEATTLE WA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/439.ts
-#EXTINF:-1,FOX 13 SALT LAKE CITY UT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/438.ts
-#EXTINF:-1,FOX 12 PORTLAND OR
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/460.ts
-#EXTINF:-1,FOX 10 XTRA PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/437.ts
-#EXTINF:-1,FOX 10 PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/436.ts
-#EXTINF:-1,FOX 5 NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/376.ts
-#EXTINF:-1,FOX 11 LOS ANGELES CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/377.ts
-#EXTINF:-1,NBC 9 DENVER CO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1728.ts
-#EXTINF:-1,NBC 3 CHARLESTON WV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1584.ts
-#EXTINF:-1,NBC 28 WILKES BARRE PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1582.ts
-#EXTINF:-1,NBC 7 PANAMA CITY FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1594.ts
-#EXTINF:-1,NBC 6 WILMINGTON NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1596.ts
-#EXTINF:-1,NBC 6 WACO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1530.ts
-#EXTINF:-1,NBC 6 PORTLAND ME
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1576.ts
-#EXTINF:-1,NBC 6 OMAHA NE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1542.ts
-#EXTINF:-1,NBC 5 MEMPHIS TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1574.ts
-#EXTINF:-1,NBC 5 BURLINGTON VT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1539.ts
-#EXTINF:-1,NBC 48 HUNTSVILLE AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1586.ts
-#EXTINF:-1,NBC 4 GREENVILLE SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1593.ts
-#EXTINF:-1,NBC 4 ALBUQUERQUE NM
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1572.ts
-#EXTINF:-1,NBC 3 LAS VEGAS NV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1510.ts
-#EXTINF:-1,NBC 3 CHATTANOOGA TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1561.ts
-#EXTINF:-1,NBC 15 MADISON WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1567.ts
-#EXTINF:-1,NBC 13 ALBANY NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1558.ts
-#EXTINF:-1,NBC 12 RICHMOND VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1588.ts
-#EXTINF:-1,NBC 11 FARGO VALLEY CITY ND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1545.ts
-#EXTINF:-1,NBC 10 ROCHESTER NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1590.ts
-#EXTINF:-1,NBC 10 ROANOKE VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1570.ts
-#EXTINF:-1,NBC 10 KNOXVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1579.ts
-#EXTINF:-1,NBC 6 SHREVEPORT LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1350.ts
-#EXTINF:-1,NBC 28 SCRANTON PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1349.ts
-#EXTINF:-1,NBC 36 AUSTIN TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1339.ts
-#EXTINF:-1,NBC 3 LOUISVILLE KY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1344.ts
-#EXTINF:-1,NBC 10 COLUMBIA SC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1335.ts
-#EXTINF:-1,NBC 6 CORPUS CHRISTI TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1334.ts
-#EXTINF:-1,NBC 3 JACKSON MS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1331.ts
-#EXTINF:-1,NBC 4 LITTLE ROCK AK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1322.ts
-#EXTINF:-1,NBC 4 COLUMBUS OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1325.ts
-#EXTINF:-1,NBC 5 WEST PALM BEACH FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1314.ts
-#EXTINF:-1,NBC 4 NASHVILLE TN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1307.ts
-#EXTINF:-1,NBC 3 SAVANNAH GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1317.ts
-#EXTINF:-1,NBC 13 HONOLULU HI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1310.ts
-#EXTINF:-1,NBC 12 GREENSBORO NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1306.ts
-#EXTINF:-1,NBC 46 SIOUX FALLS SD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1291.ts
-#EXTINF:-1,NBC 4 SAN ANTONIO TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1297.ts
-#EXTINF:-1,NBC 4 MILWAUKEE WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1295.ts
-#EXTINF:-1,NBC 24 FRESNO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1300.ts
-#EXTINF:-1,NBC 13 BIRMINGHAM AL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1304.ts
-#EXTINF:-1,NBC 5 ST. LOUIS MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1280.ts
-#EXTINF:-1,NBC 10 NORFOLK VA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1260.ts
-#EXTINF:-1,NBC 6 NEW ORLEANS LA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/478.ts
-#EXTINF:-1,NBC 6 MIAMI FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/476.ts
-#EXTINF:-1,NBC 5 SEATTLE WA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/473.ts
-#EXTINF:-1,NBC 5 SALT LAKE CITY UT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/475.ts
-#EXTINF:-1,NBC 5 RALEIGH NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/487.ts
-#EXTINF:-1,NBC 5 DALLAS TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/474.ts
-#EXTINF:-1,NBC 5 CINCINNATI OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/477.ts
-#EXTINF:-1,NBC 5 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/472.ts
-#EXTINF:-1,NBC 41 KANSAS CITY MO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/490.ts
-#EXTINF:-1,NBC 4 NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/463.ts
-#EXTINF:-1,NBC 4 LOS ANGELES CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/464.ts
-#EXTINF:-1,NBC 4 DETROIT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/471.ts
-#EXTINF:-1,NBC 36 CHARLOTTE NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/489.ts
-#EXTINF:-1,NBC 3 SACRAMENTO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/469.ts
-#EXTINF:-1,NBC 3 CLEVELAND OH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/492.ts
-#EXTINF:-1,NBC 26 GREEN BAY WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/488.ts
-#EXTINF:-1,NBC 2 ORLANDO FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/468.ts
-#EXTINF:-1,NBC 2 HOUSTON TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/466.ts
-#EXTINF:-1,NBC 2 BUFFALO NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/465.ts
-#EXTINF:-1,NBC 13 INDIANAPOLIS IN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/486.ts
-#EXTINF:-1,NBC 12 PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/485.ts
-#EXTINF:-1,NBC 12 JACKSONVILLE FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/467.ts
-#EXTINF:-1,NBC 11 SAN FRANCISCO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/491.ts
-#EXTINF:-1,NBC 11 PITTSBURGH PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/493.ts
-#EXTINF:-1,NBC 11 MINNEAPOLIS MN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/484.ts
-#EXTINF:-1,NBC 11 BALTIMORE MD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/483.ts
-#EXTINF:-1,NBC 11 ATLANTA GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/482.ts
-#EXTINF:-1,NBC 10 PHILADELPHIA PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/481.ts
-#EXTINF:-1,NBC 10 BOSTON MA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/480.ts
-#EXTINF:-1,NBC 7 SAN DIEGO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/479.ts
-#EXTINF:-1,NBC 4 WASHINGTON D.C.
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/470.ts
-#EXTINF:-1,PPV 1 |
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/552.ts
-#EXTINF:-1,PPV 2 |
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/232.ts
-#EXTINF:-1,PPV 3 |
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/553.ts
-#EXTINF:-1,PPV 4 |
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1508.ts
-#EXTINF:-1,CINEMAX EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/71.ts
-#EXTINF:-1,CINEMAX WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/72.ts
-#EXTINF:-1,CINEMAX 5STAR MAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1164.ts
-#EXTINF:-1,CINEMAX ACTIONMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1163.ts
-#EXTINF:-1,CINEMAX MOREMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1655.ts
-#EXTINF:-1,CINEMAX MOVIEMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1656.ts
-#EXTINF:-1,CINEMAX OUTERMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1657.ts
-#EXTINF:-1,CINEMAX THRILLERMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1658.ts
-#EXTINF:-1,EPIX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/374.ts
-#EXTINF:-1,EPIX 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/375.ts
-#EXTINF:-1,EPIX DRIVE-IN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1205.ts
-#EXTINF:-1,EPIX HITS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/76.ts
-#EXTINF:-1,HBO EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/69.ts
-#EXTINF:-1,HBO WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/70.ts
-#EXTINF:-1,HBO COMEDY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1659.ts
-#EXTINF:-1,HBO FAMILY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1207.ts
-#EXTINF:-1,HBO SIGNATURE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1432.ts
-#EXTINF:-1,HBO ZONE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1660.ts
-#EXTINF:-1,HDNET MOVIES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1208.ts
-#EXTINF:-1,INDIE PLEX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1209.ts
-#EXTINF:-1,MOVIE PLEX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1212.ts
-#EXTINF:-1,RETRO PLEX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1230.ts
-#EXTINF:-1,SHOWTIME EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/73.ts
-#EXTINF:-1,SHOWTIME WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/74.ts
-#EXTINF:-1,SHOWTIME 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1231.ts
-#EXTINF:-1,SHOWTIME BEYOND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1232.ts
-#EXTINF:-1,SHOWTIME EXTREME
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1233.ts
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1234.ts
-#EXTINF:-1,SHOWTIME NEXT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1235.ts
-#EXTINF:-1,SHOWTIME SHOWCASE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1236.ts
-#EXTINF:-1,SHOWTIME WOMEN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1237.ts
-#EXTINF:-1,SONY MOVIE CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/75.ts
-#EXTINF:-1,STARZ EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/373.ts
-#EXTINF:-1,STARZ WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1254.ts
-#EXTINF:-1,STARZ CINEMA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1240.ts
-#EXTINF:-1,STARZ COMEDY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1241.ts
-#EXTINF:-1,STARZ EDGE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1242.ts
-#EXTINF:-1,STARZ IN BLACK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1252.ts
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1253.ts
-#EXTINF:-1,STARZ ENCORE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1243.ts
-#EXTINF:-1,STARZ ENCORE ACTION
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1244.ts
-#EXTINF:-1,STARZ ENCORE BLACK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1245.ts
-#EXTINF:-1,STARZ ENCORE CLASSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1246.ts
-#EXTINF:-1,STARZ ENCORE FAMILY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1248.ts
-#EXTINF:-1,STARZ ENCORE SUSPENSE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1249.ts
-#EXTINF:-1,STARZ ENCORE WESTERNS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1251.ts
-#EXTINF:-1,THE MOVIE CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1661.ts
-#EXTINF:-1,THE MOVIE CHANNEL XTRA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1664.ts
-#EXTINF:-1,A & E
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/316.ts
-#EXTINF:-1,ADULT SWIM
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2220.ts
-#EXTINF:-1,AMC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/317.ts
-#EXTINF:-1,ASPIRE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1200.ts
-#EXTINF:-1,AUDIENCE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1201.ts
-#EXTINF:-1,AWE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1275.ts
-#EXTINF:-1,AXS TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1202.ts
-#EXTINF:-1,AMERICAN HEROS CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/318.ts
-#EXTINF:-1,BBC AMERICA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/319.ts
-#EXTINF:-1,BOUNCE TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1662.ts
-#EXTINF:-1,BET EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/320.ts
-#EXTINF:-1,BET WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1512.ts
-#EXTINF:-1,BET GOSPEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1663.ts
-#EXTINF:-1,BET HER
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/321.ts
-#EXTINF:-1,BET JAMS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/496.ts
-#EXTINF:-1,BET SOUL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/497.ts
-#EXTINF:-1,BRAVO EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/322.ts
-#EXTINF:-1,BRAVO WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/323.ts
-#EXTINF:-1,BUZZR
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1776.ts
-#EXTINF:-1,CLEO TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1255.ts
-#EXTINF:-1,CMT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/324.ts
-#EXTINF:-1,COMEDY CENTRAL EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/325.ts
-#EXTINF:-1,COMEDY CENTRAL WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1520.ts
-#EXTINF:-1,COMET TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/326.ts
-#EXTINF:-1,COZI TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/327.ts
-#EXTINF:-1,COMEDY TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1779.ts
-#EXTINF:-1,CW11 SEATTLE WA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1287.ts
-#EXTINF:-1,CW19 PITTSBURGH PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1285.ts
-#EXTINF:-1,CW31 SACRAMENTO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1286.ts
-#EXTINF:-1,CW44 SAN FRANCISCO CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1760.ts
-#EXTINF:-1,CW50 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1278.ts
-#EXTINF:-1,CW50 DETROIT MI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1283.ts
-#EXTINF:-1,CW69 ATLANTA GA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1282.ts
-#EXTINF:-1,CW57 PHILADELPHIA PA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1284.ts
-#EXTINF:-1,DESTINATION AMERICA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/328.ts
-#EXTINF:-1,E! EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/329.ts
-#EXTINF:-1,E! WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/330.ts
-#EXTINF:-1,El REY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1204.ts
-#EXTINF:-1,FREEFORM EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/331.ts
-#EXTINF:-1,FREEFORM WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/332.ts
-#EXTINF:-1,FUSE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/333.ts
-#EXTINF:-1,FUSION
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/334.ts
-#EXTINF:-1,FX EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/335.ts
-#EXTINF:-1,FX WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/336.ts
-#EXTINF:-1,FXX EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/337.ts
-#EXTINF:-1,FXX WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/338.ts
-#EXTINF:-1,FXM
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/339.ts
-#EXTINF:-1,FYI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1206.ts
-#EXTINF:-1,GAME SHOW NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1263.ts
-#EXTINF:-1,GRIT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2230.ts
-#EXTINF:-1,HALLMARK CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/340.ts
-#EXTINF:-1,HALLMARK DRAMA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/341.ts
-#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/342.ts
-#EXTINF:-1,HLN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/234.ts
-#EXTINF:-1,HSN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2047.ts
-#EXTINF:-1,IFC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/343.ts
-#EXTINF:-1,INSP
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/344.ts
-#EXTINF:-1,ION
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2223.ts
-#EXTINF:-1,KTLA 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1238.ts
-#EXTINF:-1,LIFETIME
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/345.ts
-#EXTINF:-1,LIFETIME MOVIES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/346.ts
-#EXTINF:-1,LOGO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1210.ts
-#EXTINF:-1,MTV EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/347.ts
-#EXTINF:-1,MTV WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1515.ts
-#EXTINF:-1,MTV 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/494.ts
-#EXTINF:-1,MTV CLASSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1516.ts
-#EXTINF:-1,MTV LIVE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1517.ts
-#EXTINF:-1,MTV U
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1518.ts
-#EXTINF:-1,MY9 NEW JERSEY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1265.ts
-#EXTINF:-1,MY12 CHARLOTTE NC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1266.ts
-#EXTINF:-1,MY13 LOS ANGELES CA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1267.ts
-#EXTINF:-1,MY20 HOUSTON TX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1268.ts
-#EXTINF:-1,MY24 MILWAUKEE WI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1296.ts
-#EXTINF:-1,MY45 PHOENIX AZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1269.ts
-#EXTINF:-1,MY50 CHICAGO IL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1270.ts
-#EXTINF:-1,MY65 ORLANDO FL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1271.ts
-#EXTINF:-1,OVATION
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1219.ts
-#EXTINF:-1,OWN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/348.ts
-#EXTINF:-1,OXYGEN EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/349.ts
-#EXTINF:-1,OXYGEN WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/350.ts
-#EXTINF:-1,PARAMOUNT NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/351.ts
-#EXTINF:-1,PBS NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2234.ts
-#EXTINF:-1,PEOPLE TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1227.ts
-#EXTINF:-1,PIX 11
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1497.ts
-#EXTINF:-1,PIXL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1228.ts
-#EXTINF:-1,POP
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/352.ts
-#EXTINF:-1,QVC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/233.ts
-#EXTINF:-1,REELZ
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1229.ts
-#EXTINF:-1,REVOLT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/353.ts
-#EXTINF:-1,START TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/354.ts
-#EXTINF:-1,SUNDANCE TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/355.ts
-#EXTINF:-1,SYFY EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/356.ts
-#EXTINF:-1,SYFY WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/357.ts
-#EXTINF:-1,TBS EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/358.ts
-#EXTINF:-1,TBS WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/359.ts
-#EXTINF:-1,TCM
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/360.ts
-#EXTINF:-1,TLC EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/361.ts
-#EXTINF:-1,TLC WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/362.ts
-#EXTINF:-1,TNT EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/363.ts
-#EXTINF:-1,TNT WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/364.ts
-#EXTINF:-1,TRU TV EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/365.ts
-#EXTINF:-1,TRU TV WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/366.ts
-#EXTINF:-1,TV LAND EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/367.ts
-#EXTINF:-1,TV LAND WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1519.ts
-#EXTINF:-1,TV ONE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1162.ts
-#EXTINF:-1,UP TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1257.ts
-#EXTINF:-1,USA NETWORK EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/368.ts
-#EXTINF:-1,USA NETWORK WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/369.ts
-#EXTINF:-1,VH1 EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/371.ts
-#EXTINF:-1,VH1 WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1511.ts
-#EXTINF:-1,VICELAND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1491.ts
-#EXTINF:-1,WE TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/495.ts
-#EXTINF:-1,WGN AMERICA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1622.ts
-#EXTINF:-1,WLNY NEW YORK NY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1597.ts
-#EXTINF:-1,ACC NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/170.ts
-#EXTINF:-1,AT&T SPORTSNET
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/548.ts
-#EXTINF:-1,bEINSPORTS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1466.ts
-#EXTINF:-1,bEINSPORTS 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1606.ts
-#EXTINF:-1,bEINSPORTS 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1607.ts
-#EXTINF:-1,bEINSPORTS 6
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1608.ts
-#EXTINF:-1,bEINSPORTS 7
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1609.ts
-#EXTINF:-1,bEINSPORTS 8
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1610.ts
-#EXTINF:-1,bEINSPORTS LA LIGA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1605.ts
-#EXTINF:-1,BIG TEN NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/171.ts
-#EXTINF:-1,BIG TEN NETWORK 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/172.ts
-#EXTINF:-1,BIG TEN NETWORK 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/173.ts
-#EXTINF:-1,BIG TEN NETWORK 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/174.ts
-#EXTINF:-1,CBS SPORTS NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/175.ts
-#EXTINF:-1,ELEVEN SPORTS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/176.ts
-#EXTINF:-1,ESPN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/177.ts
-#EXTINF:-1,ESPN 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/178.ts
-#EXTINF:-1,ESPN CLASSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1725.ts
-#EXTINF:-1,ESPN NEWS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/179.ts
-#EXTINF:-1,ESPN U
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/180.ts
-#EXTINF:-1,ESPN DEPORTES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/181.ts
-#EXTINF:-1,ESPN GOAL LINE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/182.ts
-#EXTINF:-1,ESPN LONGHORN NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/183.ts
-#EXTINF:-1,ESPN SEC NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/184.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/185.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/186.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/187.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/188.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/189.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 6
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/190.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 7
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/191.ts
-#EXTINF:-1,ESPN COLLEGE EXTRA 8
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/192.ts
-#EXTINF:-1,FS1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/195.ts
-#EXTINF:-1,FS2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/196.ts
-#EXTINF:-1,FOX SOCCER PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/200.ts
-#EXTINF:-1,FOX COLLEGE SPORTS ATLANTIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/197.ts
-#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/198.ts
-#EXTINF:-1,FOX COLLEGE SPORTS PACIFIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/199.ts
-#EXTINF:-1,FOX SPORTS ATLANTA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/202.ts
-#EXTINF:-1,FOX SPORTS ARIZONA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/201.ts
-#EXTINF:-1,FOX SPORTS ARIZONA PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1771.ts
-#EXTINF:-1,FOX SPORTS CAROLINAS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/203.ts
-#EXTINF:-1,FOX SPORTS CHARLOTTE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/204.ts
-#EXTINF:-1,FOX SPORTS CINCINNATI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/205.ts
-#EXTINF:-1,FOX SPORTS DEPORTES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/206.ts
-#EXTINF:-1,FOX SPORTS DETROIT PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1772.ts
-#EXTINF:-1,FOX SPORTS DETROIT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/207.ts
-#EXTINF:-1,FOX SPORTS FLORIDA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/208.ts
-#EXTINF:-1,FOX SPORTS HOUSTON
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/209.ts
-#EXTINF:-1,FOX SPORTS INDIANA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/210.ts
-#EXTINF:-1,FOX SPORTS KANSAS CITY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/211.ts
-#EXTINF:-1,FOX SPORTS MID-WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/212.ts
-#EXTINF:-1,FOX SPORTS NEW ORLEANS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/213.ts
-#EXTINF:-1,FOX SPORTS NORTH CAROLINA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/215.ts
-#EXTINF:-1,FOX SPORTS NORTH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/214.ts
-#EXTINF:-1,FOX SPORTS NORTH PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/216.ts
-#EXTINF:-1,FOX SPORTS OHIO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/217.ts
-#EXTINF:-1,FOX SPORTS OHIO PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/218.ts
-#EXTINF:-1,FOX SPORTS PRIME TICKET
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/219.ts
-#EXTINF:-1,FOX SPORTS WISCONSIN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/231.ts
-#EXTINF:-1,FOX SPORTS SAN ANTONIO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/220.ts
-#EXTINF:-1,FOX SPORTS SOUTH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/222.ts
-#EXTINF:-1,FOX SPORTS SOUTH CAROLINA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/223.ts
-#EXTINF:-1,FOX SPORTS SOUTHWEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/225.ts
-#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/226.ts
-#EXTINF:-1,FOX SPORTS SOUTHEAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/224.ts
-#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/227.ts
-#EXTINF:-1,FOX SPORTS SAN DIEGO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/221.ts
-#EXTINF:-1,FOX SPORTS SUN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/228.ts
-#EXTINF:-1,FOX SPORTS TENNESSEE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/229.ts
-#EXTINF:-1,FOX SPORTS WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/230.ts
-#EXTINF:-1,MAV TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1211.ts
-#EXTINF:-1,MOTORTREND
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/258.ts
-#EXTINF:-1,MLB NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/237.ts
-#EXTINF:-1,MSG
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1213.ts
-#EXTINF:-1,MSG PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1216.ts
-#EXTINF:-1,MSG 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1214.ts
-#EXTINF:-1,MSG BUFFALO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1513.ts
-#EXTINF:-1,MSG BUFFALO PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1514.ts
-#EXTINF:-1,MSG SYRACUSE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1726.ts
-#EXTINF:-1,MSG SYRACUSE PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1727.ts
-#EXTINF:-1,NBA TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/238.ts
-#EXTINF:-1,NFL NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/252.ts
-#EXTINF:-1,NHL NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/253.ts
-#EXTINF:-1,NESN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/521.ts
-#EXTINF:-1,NESN PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/522.ts
-#EXTINF:-1,NBCSN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/239.ts
-#EXTINF:-1,NBCSN BAY AREA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/240.ts
-#EXTINF:-1,NBCSN BAY AREA PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1773.ts
-#EXTINF:-1,NBCSN BOSTON
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/242.ts
-#EXTINF:-1,NBCSN CALIFORNIA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/243.ts
-#EXTINF:-1,NBCSN CHICAGO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/245.ts
-#EXTINF:-1,NBCSN CHICAGO PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/246.ts
-#EXTINF:-1,NBCSN NORTHWEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/248.ts
-#EXTINF:-1,NBCSN PHILADELPHIA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/247.ts
-#EXTINF:-1,NBCSN PHILADELPHIA PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1774.ts
-#EXTINF:-1,NBCSN WASHINGTON
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/249.ts
-#EXTINF:-1,NBCSN WASHINGTON PLUS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/250.ts
-#EXTINF:-1,NBC GOLF
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/251.ts
-#EXTINF:-1,OLYMIC CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/254.ts
-#EXTINF:-1,OUTDOOR CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1218.ts
-#EXTINF:-1,PAC12 ARIZONA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1220.ts
-#EXTINF:-1,PAC12 BAY AREA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1221.ts
-#EXTINF:-1,PAC12 LOS ANGELES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1222.ts
-#EXTINF:-1,PAC12 MOUNTAIN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1223.ts
-#EXTINF:-1,PAC12 NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1224.ts
-#EXTINF:-1,PAC12 OREGON
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1225.ts
-#EXTINF:-1,PAC12 WASHINGTON
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1226.ts
-#EXTINF:-1,SNY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/255.ts
-#EXTINF:-1,SPECTRUM SPORTSNET LA LAKERS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1345.ts
-#EXTINF:-1,SPECTRUM SPORTSNET LA DODGERS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1346.ts
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1239.ts
-#EXTINF:-1,TENNIS CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1525.ts
-#EXTINF:-1,TUDNxtra 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1611.ts
-#EXTINF:-1,TUDNxtra 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1612.ts
-#EXTINF:-1,TUDNxtra 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1613.ts
-#EXTINF:-1,TUDNxtra 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1614.ts
-#EXTINF:-1,TUDNxtra 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1615.ts
-#EXTINF:-1,TUDNxtra 6
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1616.ts
-#EXTINF:-1,TUDNxtra 7
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1617.ts
-#EXTINF:-1,TUDNxtra 8
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1618.ts
-#EXTINF:-1,TUDNxtra 9
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1619.ts
-#EXTINF:-1,TUDNxtra 10
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1620.ts
-#EXTINF:-1,TUDNxtra 11
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1621.ts
-#EXTINF:-1,TVG
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1256.ts
-#EXTINF:-1,TVG 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1602.ts
-#EXTINF:-1,UFC FIGHT PASS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/596.ts
-#EXTINF:-1,WORLD FISHING NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1258.ts
-#EXTINF:-1,WWE NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1264.ts
-#EXTINF:-1,YES NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/236.ts
-#EXTINF:-1,BOOMERANG
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/78.ts
-#EXTINF:-1,BABY FIRST TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/77.ts
-#EXTINF:-1,CARTOON NETWORK EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/79.ts
-#EXTINF:-1,CARTOON NETWORK  WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/80.ts
-#EXTINF:-1,DISNEY XD WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/85.ts
-#EXTINF:-1,DISNEY XD EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/84.ts
-#EXTINF:-1,DISNEY JR WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/87.ts
-#EXTINF:-1,DISNEY JR EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/86.ts
-#EXTINF:-1,DISNEY CHANNEL WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/83.ts
-#EXTINF:-1,DISNEY CHANNEL EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/82.ts
-#EXTINF:-1,DISCOVERY FAMILY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/81.ts
-#EXTINF:-1,NICKELODEON EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1526.ts
-#EXTINF:-1,NICKELODEON WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1527.ts
-#EXTINF:-1,NICKTOONS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/498.ts
-#EXTINF:-1,NICK MUSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/500.ts
-#EXTINF:-1,PBS KIDS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/2182.ts
-#EXTINF:-1,TEENNICK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/499.ts
-#EXTINF:-1,UNIVERSAL KIDS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/88.ts
-#EXTINF:-1,ANIMAL PLANET EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/523.ts
-#EXTINF:-1,ANIMAL PLANET WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/524.ts
-#EXTINF:-1,COOKING CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/525.ts
-#EXTINF:-1,DIY NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/529.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/528.ts
-#EXTINF:-1,DISCOVERY CHANNEL EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/526.ts
-#EXTINF:-1,DISCOVERY CHANNEL WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/527.ts
-#EXTINF:-1,HISTORY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/534.ts
-#EXTINF:-1,HGTV EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/532.ts
-#EXTINF:-1,HGTV WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/533.ts
-#EXTINF:-1,FOOD NETWORK EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/530.ts
-#EXTINF:-1,FOOD NETWORK WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/531.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/535.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/536.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/539.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/537.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/538.ts
-#EXTINF:-1,OUTSIDE TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/540.ts
-#EXTINF:-1,PURSUIT CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1778.ts
-#EXTINF:-1,SMITHSONIAN CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/541.ts
-#EXTINF:-1,TRAVEL CHANNEL EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/543.ts
-#EXTINF:-1,TRAVEL CHANNEL WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/544.ts
-#EXTINF:-1,ABC NEWS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/235.ts
-#EXTINF:-1,BBC WORLD NEWS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1272.ts
-#EXTINF:-1,CNN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/62.ts
-#EXTINF:-1,CNN INTERNATIONAL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1523.ts
-#EXTINF:-1,CNBC WORLD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/64.ts
-#EXTINF:-1,CNBC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/63.ts
-#EXTINF:-1,CHEADDAR BUSINESS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/67.ts
-#EXTINF:-1,FOX BUSINESS NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/65.ts
-#EXTINF:-1,FOX NEWS CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/90.ts
-#EXTINF:-1,MSNBC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/547.ts
-#EXTINF:-1,NECN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/68.ts
-#EXTINF:-1,NEWS 12 HUDSON VALLEY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1470.ts
-#EXTINF:-1,NEWS 12 NEW JERSEY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1469.ts
-#EXTINF:-1,NEWS 12 WESTCHESTER
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1471.ts
-#EXTINF:-1,ONE AMERICAN NEWS NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1217.ts
-#EXTINF:-1,THE WEATHER CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1165.ts
+#EXTM3U
 
-
-#EXTINF:-1,A & E
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1498.ts
-#EXTINF:-1,CA | ABC SPARK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/874.ts
-#EXTINF:-1,AMC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/863.ts
-#EXTINF:-1,bEINSPORTS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1603.ts
-#EXTINF:-1,CBC NEWS NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/850.ts
-#EXTINF:-1,CBC OTTAWA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/851.ts
-#EXTINF:-1,CHCH
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/852.ts
-#EXTINF:-1,CITY TV CALGARY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/853.ts
-#EXTINF:-1,CP24
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/856.ts
-#EXTINF:-1,CRAVE 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1502.ts
-#EXTINF:-1,CRAVE 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1503.ts
-#EXTINF:-1,CRAVE 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1504.ts
-#EXTINF:-1,CRAVE 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1505.ts
-#EXTINF:-1,CTV LIFE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1499.ts
-#EXTINF:-1,CTV NEWS CHANNEL
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/860.ts
-#EXTINF:-1,CTV OTTAWA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/858.ts
-#EXTINF:-1,CTV SUDBURY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1524.ts
-#EXTINF:-1,CTV2 BARRIE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/865.ts
-#EXTINF:-1,DEJAVIEW
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/866.ts
-#EXTINF:-1,DTOUR
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/867.ts
-#EXTINF:-1,GLOBAL TV CALGARY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/868.ts
-#EXTINF:-1,HBO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/869.ts
-#EXTINF:-1,HBO 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/870.ts
-#EXTINF:-1,HIFI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/871.ts
-#EXTINF:-1,LEAFS TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/872.ts
-#EXTINF:-1,LOVE NATURE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/873.ts
-#EXTINF:-1,MOVIETIME
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/864.ts
-#EXTINF:-1,MUCH MUSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1501.ts
-#EXTINF:-1,NBA TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/876.ts
-#EXTINF:-1,OUTDOOR LIFE NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/855.ts
-#EXTINF:-1,PARAMOUNT NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1500.ts
-#EXTINF:-1,PEACHTREE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/879.ts
-#EXTINF:-1,SHOWCASE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/875.ts
-#EXTINF:-1,SILVER SCREEN CLASSIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/880.ts
-#EXTINF:-1,SLICE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/881.ts
-#EXTINF:-1,SPACE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/882.ts
-#EXTINF:-1,SPORTSNET EAST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1262.ts
-#EXTINF:-1,SPORTSNET WEST
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1261.ts
-#EXTINF:-1,SPORTSNET PACIFIC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/886.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/885.ts
-#EXTINF:-1,SPORTSNET ONE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/884.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/897.ts
-#EXTINF:-1,SPORTSNET 360
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/883.ts
-#EXTINF:-1,TREEHOUSE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/889.ts
-#EXTINF:-1,TSN 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/890.ts
-#EXTINF:-1,TSN 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/891.ts
-#EXTINF:-1,TSN 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/892.ts
-#EXTINF:-1,TSN 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/893.ts
-#EXTINF:-1,TSN 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/894.ts
-#EXTINF:-1,W NETWORK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/896.ts
-#EXTINF:-1,YTV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1273.ts
-
-
-#EXTINF:-1,4seven
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1078.ts
+#EXTINF:-1,3E Ireland
+http://exnovo.li:3388/giulio/giulio/91698
 #EXTINF:-1,5 USA
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1079.ts
-#EXTINF:-1,5SELECT
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1080.ts
-#EXTINF:-1,5Spike
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1081.ts
-#EXTINF:-1,5 STAR
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1082.ts
-#EXTINF:-1,Alibi
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1083.ts
-#EXTINF:-1,BBC 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1084.ts
-#EXTINF:-1,BBC 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1085.ts
-#EXTINF:-1,BBC News
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1086.ts
-#EXTINF:-1,Boomerang
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1737.ts
-#EXTINF:-1,Box Nation
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1087.ts
-#EXTINF:-1,BT Sport 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1088.ts
-#EXTINF:-1,BT Sport 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1089.ts
-#EXTINF:-1,BT Sport 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1090.ts
-#EXTINF:-1,BT Sport ESPN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1091.ts
+http://exnovo.li:3388/giulio/giulio/91699
+#EXTINF:-1,Al Jazeera English FHD
+http://exnovo.li:3388/giulio/giulio/91700
+#EXTINF:-1,Animal Planet
+http://exnovo.li:3388/giulio/giulio/91701
+#EXTINF:-1,Baby TV
+http://exnovo.li:3388/giulio/giulio/91702
+#EXTINF:-1,BBC 4 HD
+http://exnovo.li:3388/giulio/giulio/91703
+#EXTINF:-1,BBC alba HD
+http://exnovo.li:3388/giulio/giulio/91704
+#EXTINF:-1,BBC CBeebies HD
+http://exnovo.li:3388/giulio/giulio/91705
+#EXTINF:-1,BBC entertainment HD
+http://exnovo.li:3388/giulio/giulio/91706
+#EXTINF:-1,BBC one FHD
+http://exnovo.li:3388/giulio/giulio/91707
+#EXTINF:-1,BBC two HD
+http://exnovo.li:3388/giulio/giulio/91708
+#EXTINF:-1,BBC World News HD
+http://exnovo.li:3388/giulio/giulio/91709
+#EXTINF:-1,BET Star
+http://exnovo.li:3388/giulio/giulio/91710
+#EXTINF:-1,Blaze
+http://exnovo.li:3388/giulio/giulio/91711
+#EXTINF:-1,BoomeRang
+http://exnovo.li:3388/giulio/giulio/91712
+#EXTINF:-1,Box Hits HD
+http://exnovo.li:3388/giulio/giulio/91713
+#EXTINF:-1,BT Sport 1 HD
+http://exnovo.li:3388/giulio/giulio/91714
+#EXTINF:-1,BT Sport 2 HD
+http://exnovo.li:3388/giulio/giulio/91715
+#EXTINF:-1,BT Sport 3 HD
+http://exnovo.li:3388/giulio/giulio/91716
+#EXTINF:-1,BT Sport ESPN HD
+http://exnovo.li:3388/giulio/giulio/91717
+#EXTINF:-1,BT Sport Extra 1
+http://exnovo.li:3388/giulio/giulio/91718
+#EXTINF:-1,BT Sport Extra 2
+http://exnovo.li:3388/giulio/giulio/91719
+#EXTINF:-1,BT Sport Extra 3
+http://exnovo.li:3388/giulio/giulio/91720
+#EXTINF:-1,BT Sport Extra 4
+http://exnovo.li:3388/giulio/giulio/91721
+#EXTINF:-1,BT Sport Extra 5
+http://exnovo.li:3388/giulio/giulio/91722
+#EXTINF:-1,Cartoon Network
+http://exnovo.li:3388/giulio/giulio/91723
 #EXTINF:-1,Cartoonito
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1092.ts
-#EXTINF:-1,Cbeebies
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1093.ts
+http://exnovo.li:3388/giulio/giulio/91724
+#EXTINF:-1,CBBC three FHD
+http://exnovo.li:3388/giulio/giulio/91725
+#EXTINF:-1,CBS Action
+http://exnovo.li:3388/giulio/giulio/91726
 #EXTINF:-1,CBS Drama
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1094.ts
-#EXTINF:-1,CBS Justice
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1095.ts
+http://exnovo.li:3388/giulio/giulio/91727
 #EXTINF:-1,CBS Reality
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1096.ts
-#EXTINF:-1,Challenge
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1097.ts
+http://exnovo.li:3388/giulio/giulio/91728
 #EXTINF:-1,Channel 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1098.ts
-#EXTINF:-1,Channel 5
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1099.ts
+http://exnovo.li:3388/giulio/giulio/91729
+#EXTINF:-1,CHANNEL 5
+http://exnovo.li:3388/giulio/giulio/91730
+#EXTINF:-1,Chart Show Hits
+http://exnovo.li:3388/giulio/giulio/91731
+#EXTINF:-1,Chelsea TV
+http://exnovo.li:3388/giulio/giulio/91732
+#EXTINF:-1,China History Channel
+http://exnovo.li:3388/giulio/giulio/91733
 #EXTINF:-1,Comedy Central Extra
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1749.ts
+http://exnovo.li:3388/giulio/giulio/91734
 #EXTINF:-1,Dave
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1101.ts
-#EXTINF:-1,Disney Channel
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1734.ts
-#EXTINF:-1,Disney Jr
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1735.ts
-#EXTINF:-1,Disney XD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1736.ts
-#EXTINF:-1,Discovery Home & Health
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1747.ts
+http://exnovo.li:3388/giulio/giulio/91735
+#EXTINF:-1,Discovery Channel
+http://exnovo.li:3388/giulio/giulio/91737
+#EXTINF:-1,Discovery
+http://exnovo.li:3388/giulio/giulio/91736
 #EXTINF:-1,Discovery History
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1102.ts
+http://exnovo.li:3388/giulio/giulio/91738
+#EXTINF:-1,Discovery History 1
+http://exnovo.li:3388/giulio/giulio/91739
 #EXTINF:-1,Discovery Science
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1748.ts
-#EXTINF:-1,Discovery Shed
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1103.ts
+http://exnovo.li:3388/giulio/giulio/91740
 #EXTINF:-1,Discovery Turbo
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1104.ts
-#EXTINF:-1,DMAX
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1105.ts
-#EXTINF:-1,Drama
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1106.ts
-#EXTINF:-1,E4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1107.ts
-#EXTINF:-1,Eden
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1108.ts
-#EXTINF:-1,Eurosport 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1109.ts
-#EXTINF:-1,Eurosport 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1110.ts
-#EXTINF:-1,Food Network
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1750.ts
-#EXTINF:-1,Fox
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1111.ts
-#EXTINF:-1,Gold
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1112.ts
-#EXTINF:-1,Horror Channel
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1114.ts
+http://exnovo.li:3388/giulio/giulio/91741
+#EXTINF:-1,Disney Junior
+http://exnovo.li:3388/giulio/giulio/91742
+#EXTINF:-1,Disney XD
+http://exnovo.li:3388/giulio/giulio/91743
+#EXTINF:-1,DRAMA
+http://exnovo.li:3388/giulio/giulio/91744
+#EXTINF:-1,DW English
+http://exnovo.li:3388/giulio/giulio/91745
+#EXTINF:-1,E.
+http://exnovo.li:3388/giulio/giulio/91746
+#EXTINF:-1,EDGE SPORT HD
+http://exnovo.li:3388/giulio/giulio/91747
+#EXTINF:-1,Eir Sport 1
+http://exnovo.li:3388/giulio/giulio/91748
+#EXTINF:-1,Eir Sport 2
+http://exnovo.li:3388/giulio/giulio/91749
+#EXTINF:-1,EUROSPORT 1
+http://exnovo.li:3388/giulio/giulio/91750
+#EXTINF:-1,EuroSport 2
+http://exnovo.li:3388/giulio/giulio/91751
+#EXTINF:-1,Film 4 HD
+http://exnovo.li:3388/giulio/giulio/91752
+#EXTINF:-1,FOX FHD
+http://exnovo.li:3388/giulio/giulio/91753
+#EXTINF:-1,Ginx Esports
+http://exnovo.li:3388/giulio/giulio/91755
+#EXTINF:-1,Gold TV
+http://exnovo.li:3388/giulio/giulio/91756
+#EXTINF:-1,Good Food
+http://exnovo.li:3388/giulio/giulio/91757
+#EXTINF:-1,HBO
+http://exnovo.li:3388/giulio/giulio/91758
+#EXTINF:-1,Free Sports
+http://exnovo.li:3388/giulio/giulio/91754
+#EXTINF:-1,HBO Comedy HD
+http://exnovo.li:3388/giulio/giulio/91759
+#EXTINF:-1,Hunting Channel
+http://exnovo.li:3388/giulio/giulio/91761
+#EXTINF:-1,History Channel
+http://exnovo.li:3388/giulio/giulio/91760
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://exnovo.li:3388/giulio/giulio/91762
 #EXTINF:-1,ITV 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1115.ts
-#EXTINF:-1,ITV 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1116.ts
+http://exnovo.li:3388/giulio/giulio/91763
+#EXTINF:-1,ITV 2 HD
+http://exnovo.li:3388/giulio/giulio/91764
 #EXTINF:-1,ITV 3
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1117.ts
+http://exnovo.li:3388/giulio/giulio/91765
 #EXTINF:-1,ITV 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1118.ts
-#EXTINF:-1,ItvBE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1119.ts
-#EXTINF:-1,Lifetime
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1754.ts
-#EXTINF:-1,LFC TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1120.ts
-#EXTINF:-1,More 4
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1121.ts
-#EXTINF:-1,movies4men
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1122.ts
-#EXTINF:-1,MTV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1738.ts
+http://exnovo.li:3388/giulio/giulio/91766
+#EXTINF:-1,ITV Box Office UK:
+http://exnovo.li:3388/giulio/giulio/91767
+#EXTINF:-1,Itv Encore
+http://exnovo.li:3388/giulio/giulio/91768
+#EXTINF:-1,ITVBE
+http://exnovo.li:3388/giulio/giulio/91769
+#EXTINF:-1,Keep It Country
+http://exnovo.li:3388/giulio/giulio/91770
+#EXTINF:-1,Kerrang.
+http://exnovo.li:3388/giulio/giulio/91771
+#EXTINF:-1,Kiss UK:
+http://exnovo.li:3388/giulio/giulio/91772
+#EXTINF:-1,Liverpool FC
+http://exnovo.li:3388/giulio/giulio/91773
+#EXTINF:-1,Magic TV
+http://exnovo.li:3388/giulio/giulio/91774
+#EXTINF:-1,Manchester United TV
+http://exnovo.li:3388/giulio/giulio/91775
+#EXTINF:-1,More4
+http://exnovo.li:3388/giulio/giulio/91776
+#EXTINF:-1,Movies 4 Men
+http://exnovo.li:3388/giulio/giulio/91777
+#EXTINF:-1,Movies24
+http://exnovo.li:3388/giulio/giulio/91778
+#EXTINF:-1,Movies4Man1
+http://exnovo.li:3388/giulio/giulio/91779
 #EXTINF:-1,MTV Base
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1739.ts
-#EXTINF:-1,MTV Classic
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1740.ts
-#EXTINF:-1,MTV Club
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1741.ts
+http://exnovo.li:3388/giulio/giulio/91781
+#EXTINF:-1,MTV
+http://exnovo.li:3388/giulio/giulio/91780
 #EXTINF:-1,MTV Hits
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1742.ts
+http://exnovo.li:3388/giulio/giulio/91782
 #EXTINF:-1,MTV Music
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1743.ts
+http://exnovo.li:3388/giulio/giulio/91783
 #EXTINF:-1,MTV OMG
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1744.ts
-#EXTINF:-1,MTV Rocks
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1745.ts
-#EXTINF:-1,MUTV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1755.ts
-#EXTINF:-1,Nickelodeon
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1730.ts
-#EXTINF:-1,Nicktoons
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1733.ts
+http://exnovo.li:3388/giulio/giulio/91784
+#EXTINF:-1,MTV XMAS
+http://exnovo.li:3388/giulio/giulio/91785
+#EXTINF:-1,Nat Geo Wild HD
+http://exnovo.li:3388/giulio/giulio/91786
+#EXTINF:-1,National Geographic Channel
+http://exnovo.li:3388/giulio/giulio/91787
 #EXTINF:-1,Nick Jr
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1731.ts
-#EXTINF:-1,Nick Jr Too
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1732.ts
-#EXTINF:-1,Paramount
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1124.ts
-#EXTINF:-1,POP
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1756.ts
-#EXTINF:-1,Premier Sports 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1125.ts
-#EXTINF:-1,Premier Sports 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1126.ts
+http://exnovo.li:3388/giulio/giulio/91788
+#EXTINF:-1,Nick Jr Peppa
+http://exnovo.li:3388/giulio/giulio/91789
+#EXTINF:-1,Nickelodeon
+http://exnovo.li:3388/giulio/giulio/91790
+#EXTINF:-1,Nicktoons
+http://exnovo.li:3388/giulio/giulio/91791
+#EXTINF:-1,PICK
+http://exnovo.li:3388/giulio/giulio/91792
+#EXTINF:-1,Premier Sports
+http://exnovo.li:3388/giulio/giulio/91793
 #EXTINF:-1,Quest
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1127.ts
-#EXTINF:-1,Racing TV
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1128.ts
-#EXTINF:-1,Really
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1129.ts
-#EXTINF:-1,Sky 1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1130.ts
-#EXTINF:-1,Sky 2
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1131.ts
-#EXTINF:-1,Sky Arts
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1132.ts
-#EXTINF:-1,Sky Atlantic
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1133.ts
-#EXTINF:-1,SKY Crime
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1759.ts
-#EXTINF:-1,Sky Cinema Action
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1134.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1135.ts
-#EXTINF:-1,Sky Cinema Thriller
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1136.ts
-#EXTINF:-1,Sky Cinema Disney
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1137.ts
-#EXTINF:-1,Sky Cinema Drama
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1138.ts
-#EXTINF:-1,Sky Cinema Family
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1139.ts
-#EXTINF:-1,Sky Cinema Greats
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1140.ts
-#EXTINF:-1,Sky Cinema Hits
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1141.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1142.ts
-#EXTINF:-1,Sky Cinema Sci-fi
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1143.ts
-#EXTINF:-1,Sky Cinema Select
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1144.ts
-#EXTINF:-1,Sky News
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1145.ts
-#EXTINF:-1,Sky Sports Action
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1146.ts
-#EXTINF:-1,Sky Sports Arena
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1147.ts
-#EXTINF:-1,Sky Sports Cricket
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1148.ts
-#EXTINF:-1,Sky Sports F1
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1149.ts
-#EXTINF:-1,Sky Sports Football
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1150.ts
-#EXTINF:-1,Sky Sports Golf
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1151.ts
-#EXTINF:-1,Sky Sports Main Event
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1152.ts
-#EXTINF:-1,Sky Sports Mix
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1153.ts
-#EXTINF:-1,Sky Sports News
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1154.ts
-#EXTINF:-1,Sky Sports Premiere League
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1155.ts
-#EXTINF:-1,Sky Sports Races
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1156.ts
-#EXTINF:-1,Tiny Pop
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1746.ts
-#EXTINF:-1,TCM Movies
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1757.ts
-#EXTINF:-1,TLC
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1758.ts
-#EXTINF:-1,True Entertainment
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1157.ts
-#EXTINF:-1,True Movies
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1158.ts
-#EXTINF:-1,Universal
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1159.ts
+http://exnovo.li:3388/giulio/giulio/91794
+#EXTINF:-1,Racing (Full HD)
+http://exnovo.li:3388/giulio/giulio/91795
+#EXTINF:-1,REALLY
+http://exnovo.li:3388/giulio/giulio/91796
+#EXTINF:-1,RTE Junior
+http://exnovo.li:3388/giulio/giulio/91797
+#EXTINF:-1,UK:Life Time
+http://exnovo.li:3388/giulio/giulio/91867
+#EXTINF:-1,UK:Film 4
+http://exnovo.li:3388/giulio/giulio/91866
+#EXTINF:-1,UK:Alibi
+http://exnovo.li:3388/giulio/giulio/91865
+#EXTINF:-1,Yesterday TV
+http://exnovo.li:3388/giulio/giulio/91864
 #EXTINF:-1,Watch
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1160.ts
-#EXTINF:-1,Yesterday
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1161.ts
+http://exnovo.li:3388/giulio/giulio/91863
+#EXTINF:-1,Viceland
+http://exnovo.li:3388/giulio/giulio/91862
+#EXTINF:-1,VH1 Classis
+http://exnovo.li:3388/giulio/giulio/91861
+#EXTINF:-1,VH1
+http://exnovo.li:3388/giulio/giulio/91860
+#EXTINF:-1,True Movies 1
+http://exnovo.li:3388/giulio/giulio/91858
+#EXTINF:-1,True Movies 2
+http://exnovo.li:3388/giulio/giulio/91859
+#EXTINF:-1,Travel
+http://exnovo.li:3388/giulio/giulio/91857
+#EXTINF:-1,Trace Urban
+http://exnovo.li:3388/giulio/giulio/91856
+#EXTINF:-1,Trace Tropical
+http://exnovo.li:3388/giulio/giulio/91855
+#EXTINF:-1,Trace Toca
+http://exnovo.li:3388/giulio/giulio/91854
+#EXTINF:-1,Trace Naija
+http://exnovo.li:3388/giulio/giulio/91853
+#EXTINF:-1,Trace Mziki
+http://exnovo.li:3388/giulio/giulio/91852
+#EXTINF:-1,Trace Latina
+http://exnovo.li:3388/giulio/giulio/91851
+#EXTINF:-1,Trace Kitoko
+http://exnovo.li:3388/giulio/giulio/91850
+#EXTINF:-1,Trace Gospel
+http://exnovo.li:3388/giulio/giulio/91849
+#EXTINF:-1,Trace Ayiti
+http://exnovo.li:3388/giulio/giulio/91848
+#EXTINF:-1,Trace Africa
+http://exnovo.li:3388/giulio/giulio/91847
+#EXTINF:-1,TLC-IRELAND
+http://exnovo.li:3388/giulio/giulio/91846
+#EXTINF:-1,TLC
+http://exnovo.li:3388/giulio/giulio/91845
+#EXTINF:-1,The Vault
+http://exnovo.li:3388/giulio/giulio/91844
+#EXTINF:-1,SYFY
+http://exnovo.li:3388/giulio/giulio/91842
+#EXTINF:-1,TCM (film)
+http://exnovo.li:3388/giulio/giulio/91843
+#EXTINF:-1,STARZ TV
+http://exnovo.li:3388/giulio/giulio/91841
+#EXTINF:-1,Star LifeOK (hindi)
+http://exnovo.li:3388/giulio/giulio/91840
+#EXTINF:-1,Star Gold UK:
+http://exnovo.li:3388/giulio/giulio/91839
+#EXTINF:-1,Star Bharat UK:
+http://exnovo.li:3388/giulio/giulio/91838
+#EXTINF:-1,SONY TV
+http://exnovo.li:3388/giulio/giulio/91837
+#EXTINF:-1,Sony Sab UK:
+http://exnovo.li:3388/giulio/giulio/91836
+#EXTINF:-1,Sony Movie
+http://exnovo.li:3388/giulio/giulio/91835
+#EXTINF:-1,Sony Max
+http://exnovo.li:3388/giulio/giulio/91834
+#EXTINF:-1,SKY Two HD
+http://exnovo.li:3388/giulio/giulio/91832
+#EXTINF:-1,SKY SPORTS THE ASHES
+http://exnovo.li:3388/giulio/giulio/91831
+#EXTINF:-1,Sky Witness
+http://exnovo.li:3388/giulio/giulio/91833
+#EXTINF:-1,SKY SPORTS RACING
+http://exnovo.li:3388/giulio/giulio/91830
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://exnovo.li:3388/giulio/giulio/91829
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://exnovo.li:3388/giulio/giulio/91828
+#EXTINF:-1,SKY SPORTS NEWS
+http://exnovo.li:3388/giulio/giulio/91827
+#EXTINF:-1,SKY SPORTS MIX
+http://exnovo.li:3388/giulio/giulio/91826
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://exnovo.li:3388/giulio/giulio/91825
+#EXTINF:-1,SKY SPORTS GOLF
+http://exnovo.li:3388/giulio/giulio/91824
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://exnovo.li:3388/giulio/giulio/91823
+#EXTINF:-1,SKY SPORTS F1 HD
+http://exnovo.li:3388/giulio/giulio/91822
+#EXTINF:-1,SKY SPORTS ARENA
+http://exnovo.li:3388/giulio/giulio/91821
+#EXTINF:-1,SKY SPORTS ACTION
+http://exnovo.li:3388/giulio/giulio/91820
+#EXTINF:-1,Sky Sports 5
+http://exnovo.li:3388/giulio/giulio/91819
+#EXTINF:-1,Sky Sports 4
+http://exnovo.li:3388/giulio/giulio/91818
+#EXTINF:-1,Sky One HD
+http://exnovo.li:3388/giulio/giulio/91817
+#EXTINF:-1,Sky News HD
+http://exnovo.li:3388/giulio/giulio/91816
+#EXTINF:-1,Sky Cinema Select
+http://exnovo.li:3388/giulio/giulio/91815
+#EXTINF:-1,Sky Cinema Sci-fi e Horror HD
+http://exnovo.li:3388/giulio/giulio/91814
+#EXTINF:-1,Sky Cinema Premier HD
+http://exnovo.li:3388/giulio/giulio/91813
+#EXTINF:-1,Sky Cinema Hits HD
+http://exnovo.li:3388/giulio/giulio/91812
+#EXTINF:-1,Sky Cinema Greats HD
+http://exnovo.li:3388/giulio/giulio/91811
+#EXTINF:-1,Sky Cinema Family HD
+http://exnovo.li:3388/giulio/giulio/91810
+#EXTINF:-1,Sky Cinema Drama e Romance HD
+http://exnovo.li:3388/giulio/giulio/91809
+#EXTINF:-1,Sky Cinema Crime e Thriller HD
+http://exnovo.li:3388/giulio/giulio/91807
+#EXTINF:-1,Sky Cinema Comedy HD
+http://exnovo.li:3388/giulio/giulio/91806
+#EXTINF:-1,Sky Cinema Disney HD
+http://exnovo.li:3388/giulio/giulio/91808
+#EXTINF:-1,Sky Cinema Action e Adventure
+http://exnovo.li:3388/giulio/giulio/91805
+#EXTINF:-1,Sky Box Nation
+http://exnovo.li:3388/giulio/giulio/91804
+#EXTINF:-1,SKY Atlantic HD
+http://exnovo.li:3388/giulio/giulio/91803
+#EXTINF:-1,Russia Today News
+http://exnovo.li:3388/giulio/giulio/91802
+#EXTINF:-1,Russia Today Documetary
+http://exnovo.li:3388/giulio/giulio/91801
+#EXTINF:-1,RTE Two
+http://exnovo.li:3388/giulio/giulio/91800
+#EXTINF:-1,RTE One
+http://exnovo.li:3388/giulio/giulio/91799
 
+
+#EXTINF:-1,ABC HD
+http://exnovo.li:3388/giulio/giulio/92886
+#EXTINF:-1,AR: beOUT Q Sports 2 HD
+http://exnovo.li:3388/giulio/giulio/92884
+#EXTINF:-1,Bravo
+http://exnovo.li:3388/giulio/giulio/92887
+#EXTINF:-1,USArtoon Network
+http://exnovo.li:3388/giulio/giulio/92888
+#EXTINF:-1,CBC Toronto
+http://exnovo.li:3388/giulio/giulio/92889
+#EXTINF:-1,CHCH HD
+http://exnovo.li:3388/giulio/giulio/92890
+#EXTINF:-1,City TV
+http://exnovo.li:3388/giulio/giulio/92891
+#EXTINF:-1,Cottage Life
+http://exnovo.li:3388/giulio/giulio/92892
+#EXTINF:-1,Country Music Television
+http://exnovo.li:3388/giulio/giulio/92893
+#EXTINF:-1,CP 24 HD News
+http://exnovo.li:3388/giulio/giulio/92894
+#EXTINF:-1,CTV Toronto
+http://exnovo.li:3388/giulio/giulio/92895
+#EXTINF:-1,E. HD
+http://exnovo.li:3388/giulio/giulio/92896
+#EXTINF:-1,Fox 25
+http://exnovo.li:3388/giulio/giulio/92897
+#EXTINF:-1,Fox News
+http://exnovo.li:3388/giulio/giulio/92898
+#EXTINF:-1,FXX HD
+http://exnovo.li:3388/giulio/giulio/92899
+#EXTINF:-1,Golf Channel
+http://exnovo.li:3388/giulio/giulio/92900
+#EXTINF:-1,GSN
+http://exnovo.li:3388/giulio/giulio/92901
+#EXTINF:-1,HBO 2 USAnada
+http://exnovo.li:3388/giulio/giulio/92902
+#EXTINF:-1,HBO USAnada
+http://exnovo.li:3388/giulio/giulio/92903
+#EXTINF:-1,History
+http://exnovo.li:3388/giulio/giulio/92904
+#EXTINF:-1,MTV 2 USAnada
+http://exnovo.li:3388/giulio/giulio/92905
+#EXTINF:-1,MTV USAnada
+http://exnovo.li:3388/giulio/giulio/92906
+#EXTINF:-1,NBA TV
+http://exnovo.li:3388/giulio/giulio/92907
+#EXTINF:-1,Nick
+http://exnovo.li:3388/giulio/giulio/92908
+#EXTINF:-1,omni 1
+http://exnovo.li:3388/giulio/giulio/92909
+#EXTINF:-1,omni 2
+http://exnovo.li:3388/giulio/giulio/92910
+#EXTINF:-1,RDS2 TV
+http://exnovo.li:3388/giulio/giulio/92911
+#EXTINF:-1,Silver Screen Classics
+http://exnovo.li:3388/giulio/giulio/92912
+#EXTINF:-1,Slice
+http://exnovo.li:3388/giulio/giulio/92913
+#EXTINF:-1,Spike HD
+http://exnovo.li:3388/giulio/giulio/92914
+#EXTINF:-1,Sportnet Ontario HD
+http://exnovo.li:3388/giulio/giulio/92915
+#EXTINF:-1,Sportnet Pacific HD
+http://exnovo.li:3388/giulio/giulio/92916
+#EXTINF:-1,SportsNet 360
+http://exnovo.li:3388/giulio/giulio/92917
+#EXTINF:-1,SportsNet East
+http://exnovo.li:3388/giulio/giulio/92918
+#EXTINF:-1,Sportsnet One HD
+http://exnovo.li:3388/giulio/giulio/92919
+#EXTINF:-1,Sportsnet World HD
+http://exnovo.li:3388/giulio/giulio/92920
+#EXTINF:-1,Teletoon HD
+http://exnovo.li:3388/giulio/giulio/92921
+#EXTINF:-1,TMN ACTION TV
+http://exnovo.li:3388/giulio/giulio/92922
+#EXTINF:-1,Travel Channel HD
+http://exnovo.li:3388/giulio/giulio/92923
+#EXTINF:-1,Treehouse
+http://exnovo.li:3388/giulio/giulio/92924
+#EXTINF:-1,USArtoonNetwork
+http://exnovo.li:3388/giulio/giulio/92925
+#EXTINF:-1,V Montreal
+http://exnovo.li:3388/giulio/giulio/92926
+#EXTINF:-1,World Fishing TV
+http://exnovo.li:3388/giulio/giulio/92927
+#EXTINF:-1,YTV HD
+http://exnovo.li:3388/giulio/giulio/92928
+#EXTINF:-1,AeE HD
+http://exnovo.li:3388/giulio/giulio/92929
+#EXTINF:-1,ABC FAMILY/SPARK
+http://exnovo.li:3388/giulio/giulio/92930
+#EXTINF:-1,ABC HD
+http://exnovo.li:3388/giulio/giulio/92931
+#EXTINF:-1,ABC News HD
+http://exnovo.li:3388/giulio/giulio/92932
+#EXTINF:-1,ABC News HD
+http://exnovo.li:3388/giulio/giulio/92933
+#EXTINF:-1,ABC Spark
+http://exnovo.li:3388/giulio/giulio/92934
+#EXTINF:-1,AFN Family Movie
+http://exnovo.li:3388/giulio/giulio/92935
+#EXTINF:-1,AFN Movie
+http://exnovo.li:3388/giulio/giulio/92936
+#EXTINF:-1,AFN News
+http://exnovo.li:3388/giulio/giulio/92937
+#EXTINF:-1,AFN Prime Atlantic
+http://exnovo.li:3388/giulio/giulio/92938
+#EXTINF:-1,AFN Prime Pacific
+http://exnovo.li:3388/giulio/giulio/92939
+#EXTINF:-1,AFN Sports HD
+http://exnovo.li:3388/giulio/giulio/92940
+#EXTINF:-1,AMC
+http://exnovo.li:3388/giulio/giulio/92941
+#EXTINF:-1,ANIMAL PLANET
+http://exnovo.li:3388/giulio/giulio/92942
+#EXTINF:-1,BBC WORLD NEWS
+http://exnovo.li:3388/giulio/giulio/92943
+#EXTINF:-1,beIN SPORTS HD
+http://exnovo.li:3388/giulio/giulio/92944
+#EXTINF:-1,BET
+http://exnovo.li:3388/giulio/giulio/92945
+#EXTINF:-1,BET HER
+http://exnovo.li:3388/giulio/giulio/92946
+#EXTINF:-1,Big Ten Network HD
+http://exnovo.li:3388/giulio/giulio/92947
+#EXTINF:-1,Bounce TV
+http://exnovo.li:3388/giulio/giulio/92948
+#EXTINF:-1,BOX OFFICE MOVIES
+http://exnovo.li:3388/giulio/giulio/92949
+#EXTINF:-1,Bravo HD
+http://exnovo.li:3388/giulio/giulio/92950
+#EXTINF:-1,BUZZR TV
+http://exnovo.li:3388/giulio/giulio/92951
+#EXTINF:-1,C Toon Kids
+http://exnovo.li:3388/giulio/giulio/92952
+#EXTINF:-1,C-SPAN 1 HD
+http://exnovo.li:3388/giulio/giulio/92953
+#EXTINF:-1,C-SPAN 2 HD
+http://exnovo.li:3388/giulio/giulio/92954
+#EXTINF:-1,C-SPAN 3 HD
+http://exnovo.li:3388/giulio/giulio/92955
+#EXTINF:-1,USALIFORNIA MUSIC CHANNEL
+http://exnovo.li:3388/giulio/giulio/92956
+#EXTINF:-1,USArtoon Network HD
+http://exnovo.li:3388/giulio/giulio/92957
+#EXTINF:-1,CBS HD-US
+http://exnovo.li:3388/giulio/giulio/92958
+#EXTINF:-1,CBS News
+http://exnovo.li:3388/giulio/giulio/92959
+#EXTINF:-1,CBSN News
+http://exnovo.li:3388/giulio/giulio/92960
+#EXTINF:-1,Cinemax 5 Max
+http://exnovo.li:3388/giulio/giulio/92961
+#EXTINF:-1,Cinemax 5 Star Max
+http://exnovo.li:3388/giulio/giulio/92962
+#EXTINF:-1,Cinemax ActionMax
+http://exnovo.li:3388/giulio/giulio/92963
+#EXTINF:-1,Cinemax East
+http://exnovo.li:3388/giulio/giulio/92964
+#EXTINF:-1,Cinemax Moremax
+http://exnovo.li:3388/giulio/giulio/92965
+#EXTINF:-1,CMT HD
+http://exnovo.li:3388/giulio/giulio/92966
+#EXTINF:-1,CNBC HD
+http://exnovo.li:3388/giulio/giulio/92967
+#EXTINF:-1,CNN
+http://exnovo.li:3388/giulio/giulio/92968
+#EXTINF:-1,CNN HD
+http://exnovo.li:3388/giulio/giulio/92969
+#EXTINF:-1,COMEDY CENTRAL
+http://exnovo.li:3388/giulio/giulio/92970
+#EXTINF:-1,CW 11 HD
+http://exnovo.li:3388/giulio/giulio/92971
+#EXTINF:-1,CW Channel 11
+http://exnovo.li:3388/giulio/giulio/92972
+#EXTINF:-1,Destination AmeriHD
+http://exnovo.li:3388/giulio/giulio/92973
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://exnovo.li:3388/giulio/giulio/92974
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://exnovo.li:3388/giulio/giulio/92975
+#EXTINF:-1,DISCOVERY VELOCITY
+http://exnovo.li:3388/giulio/giulio/92976
+#EXTINF:-1,Disney Channel HD
+http://exnovo.li:3388/giulio/giulio/92977
+#EXTINF:-1,DISNEY JR HD
+http://exnovo.li:3388/giulio/giulio/92978
+#EXTINF:-1,Disney XD HD
+http://exnovo.li:3388/giulio/giulio/92979
+#EXTINF:-1,E. Network HD
+http://exnovo.li:3388/giulio/giulio/92980
+#EXTINF:-1,ESPN
+http://exnovo.li:3388/giulio/giulio/92981
+#EXTINF:-1,ESPN 1
+http://exnovo.li:3388/giulio/giulio/92982
+#EXTINF:-1,ESPN 2 HD
+http://exnovo.li:3388/giulio/giulio/92983
+#EXTINF:-1,ESPN 3 TRE
+http://exnovo.li:3388/giulio/giulio/92984
+#EXTINF:-1,ESPN NEWS
+http://exnovo.li:3388/giulio/giulio/92985
+#EXTINF:-1,FASHION 4K
+http://exnovo.li:3388/giulio/giulio/92986
+#EXTINF:-1,Fight BOX
+http://exnovo.li:3388/giulio/giulio/92987
+#EXTINF:-1,Fight Network / MMA Network
+http://exnovo.li:3388/giulio/giulio/92988
+#EXTINF:-1,Fight Sport 1
+http://exnovo.li:3388/giulio/giulio/92989
+#EXTINF:-1,FOOD NETWORK
+http://exnovo.li:3388/giulio/giulio/92990
+#EXTINF:-1,FOX DEPORTES HD
+http://exnovo.li:3388/giulio/giulio/92991
+#EXTINF:-1,Fox News
+http://exnovo.li:3388/giulio/giulio/92992
+#EXTINF:-1,FOX NY
+http://exnovo.li:3388/giulio/giulio/92993
+#EXTINF:-1,FOX SOCCER PLUS HD
+http://exnovo.li:3388/giulio/giulio/92994
+#EXTINF:-1,Fox Sport 1 HD (FS1)
+http://exnovo.li:3388/giulio/giulio/92995
+#EXTINF:-1,Fox Sport 2 HD (FS2)
+http://exnovo.li:3388/giulio/giulio/92996
+#EXTINF:-1,Freeform Channel
+http://exnovo.li:3388/giulio/giulio/92997
+#EXTINF:-1,FX HD
+http://exnovo.li:3388/giulio/giulio/92998
+#EXTINF:-1,GRIT TV MOVIES
+http://exnovo.li:3388/giulio/giulio/92999
+#EXTINF:-1,GSN TV
+http://exnovo.li:3388/giulio/giulio/93000
+#EXTINF:-1,HALLMARK HD
+http://exnovo.li:3388/giulio/giulio/93001
+#EXTINF:-1,Hallmark MovieseMysteries HD
+http://exnovo.li:3388/giulio/giulio/93002
+#EXTINF:-1,HBO 2 COMEDY
+http://exnovo.li:3388/giulio/giulio/93003
+#EXTINF:-1,HBO Family HD
+http://exnovo.li:3388/giulio/giulio/93004
+#EXTINF:-1,HBO HD
+http://exnovo.li:3388/giulio/giulio/93005
+#EXTINF:-1,HBO SIGNATURE
+http://exnovo.li:3388/giulio/giulio/93006
+#EXTINF:-1,HBO ZONE
+http://exnovo.li:3388/giulio/giulio/93007
+#EXTINF:-1,HGTV HD
+http://exnovo.li:3388/giulio/giulio/93008
+#EXTINF:-1,HISTORY HD
+http://exnovo.li:3388/giulio/giulio/93009
+#EXTINF:-1,KIDS READING TV
+http://exnovo.li:3388/giulio/giulio/93010
+#EXTINF:-1,LIFE TIME
+http://exnovo.li:3388/giulio/giulio/93011
+#EXTINF:-1,LIFETIME HD
+http://exnovo.li:3388/giulio/giulio/93012
+#EXTINF:-1,LMN HDTV
+http://exnovo.li:3388/giulio/giulio/93013
+#EXTINF:-1,MLB HD
+http://exnovo.li:3388/giulio/giulio/93014
+#EXTINF:-1,MSNBC HD
+http://exnovo.li:3388/giulio/giulio/93015
+#EXTINF:-1,MTV HD
+http://exnovo.li:3388/giulio/giulio/93016
+#EXTINF:-1,MTV LIVE
+http://exnovo.li:3388/giulio/giulio/93017
+#EXTINF:-1,My Nursery Rhymes (Baby Songs) HD
+http://exnovo.li:3388/giulio/giulio/93018
+#EXTINF:-1,NAT GEO HD
+http://exnovo.li:3388/giulio/giulio/93019
+#EXTINF:-1,NBA TV
+http://exnovo.li:3388/giulio/giulio/93020
+#EXTINF:-1,NBC (EAST)
+http://exnovo.li:3388/giulio/giulio/93021
+#EXTINF:-1,NBC GOLF
+http://exnovo.li:3388/giulio/giulio/93022
+#EXTINF:-1,NBC GOLF HD
+http://exnovo.li:3388/giulio/giulio/93023
+#EXTINF:-1,NBC Sports HD (Premier League)
+http://exnovo.li:3388/giulio/giulio/93024
+#EXTINF:-1,NBCSN HD
+http://exnovo.li:3388/giulio/giulio/93025
+#EXTINF:-1,NFL Network HD
+http://exnovo.li:3388/giulio/giulio/93026
+#EXTINF:-1,NFL Network HDTV 1080i
+http://exnovo.li:3388/giulio/giulio/93027
+#EXTINF:-1,NFL Now
+http://exnovo.li:3388/giulio/giulio/93028
+#EXTINF:-1,NHL NETWORK
+http://exnovo.li:3388/giulio/giulio/93029
+#EXTINF:-1,NHLTV NETWORK HD
+http://exnovo.li:3388/giulio/giulio/93030
+#EXTINF:-1,NICK HD (kids)
+http://exnovo.li:3388/giulio/giulio/93031
+#EXTINF:-1,Nickelodeon
+http://exnovo.li:3388/giulio/giulio/93032
+#EXTINF:-1,NICKTOONS
+http://exnovo.li:3388/giulio/giulio/93033
+#EXTINF:-1,OWN HD (Oprah Winfrey TV)
+http://exnovo.li:3388/giulio/giulio/93034
+#EXTINF:-1,P.B.S Kids
+http://exnovo.li:3388/giulio/giulio/93035
+#EXTINF:-1,Peppa Pig Channel FHD
+http://exnovo.li:3388/giulio/giulio/93036
+#EXTINF:-1,QVC Beauty IQ
+http://exnovo.li:3388/giulio/giulio/93037
+#EXTINF:-1,QVC Live
+http://exnovo.li:3388/giulio/giulio/93038
+#EXTINF:-1,QVC Plus
+http://exnovo.li:3388/giulio/giulio/93039
+#EXTINF:-1,Reelz HD
+http://exnovo.li:3388/giulio/giulio/93040
+#EXTINF:-1,Showtime 2 HD
+http://exnovo.li:3388/giulio/giulio/93041
+#EXTINF:-1,Showtime Extreme HD
+http://exnovo.li:3388/giulio/giulio/93042
+#EXTINF:-1,Showtime HD
+http://exnovo.li:3388/giulio/giulio/93043
+#EXTINF:-1,Showtime ShowUSAse
+http://exnovo.li:3388/giulio/giulio/93044
+#EXTINF:-1,SPIKE TV
+http://exnovo.li:3388/giulio/giulio/93045
+#EXTINF:-1,SportsNet One HD
+http://exnovo.li:3388/giulio/giulio/93046
+#EXTINF:-1,SportsNet Ontario HD (Premier League)
+http://exnovo.li:3388/giulio/giulio/93047
+#EXTINF:-1,Starz Cinema
+http://exnovo.li:3388/giulio/giulio/93048
+#EXTINF:-1,Starz Comedy
+http://exnovo.li:3388/giulio/giulio/93049
+#EXTINF:-1,Starz East
+http://exnovo.li:3388/giulio/giulio/93050
+#EXTINF:-1,Starz Edge HD
+http://exnovo.li:3388/giulio/giulio/93051
+#EXTINF:-1,Starz Encore East
+http://exnovo.li:3388/giulio/giulio/93052
+#EXTINF:-1,Starz Encore HD
+http://exnovo.li:3388/giulio/giulio/93053
+#EXTINF:-1,Starz West
+http://exnovo.li:3388/giulio/giulio/93054
+#EXTINF:-1,SYFY HD
+http://exnovo.li:3388/giulio/giulio/93055
+#EXTINF:-1,T.N.T
+http://exnovo.li:3388/giulio/giulio/93056
+#EXTINF:-1,TBS
+http://exnovo.li:3388/giulio/giulio/93057
+#EXTINF:-1,TBS HD
+http://exnovo.li:3388/giulio/giulio/93058
+#EXTINF:-1,TENNIS HD
+http://exnovo.li:3388/giulio/giulio/93059
+#EXTINF:-1,The Weather Channel
+http://exnovo.li:3388/giulio/giulio/93060
+#EXTINF:-1,TLC
+http://exnovo.li:3388/giulio/giulio/93061
+#EXTINF:-1,TRAVEL CHANNEL
+http://exnovo.li:3388/giulio/giulio/93062
+#EXTINF:-1,TRU TV
+http://exnovo.li:3388/giulio/giulio/93063
+#EXTINF:-1,TRUE MOVIES
+http://exnovo.li:3388/giulio/giulio/93064
+#EXTINF:-1,Tsn-Sport 1 HD
+http://exnovo.li:3388/giulio/giulio/93065
+#EXTINF:-1,Tsn-Sport 2 HD
+http://exnovo.li:3388/giulio/giulio/93066
+#EXTINF:-1,Tsn-Sport 3 HD
+http://exnovo.li:3388/giulio/giulio/93067
+#EXTINF:-1,Tsn-Sport 4 HD
+http://exnovo.li:3388/giulio/giulio/93068
+#EXTINF:-1,Tsn-Sport 5 HD
+http://exnovo.li:3388/giulio/giulio/93069
+#EXTINF:-1,Universal Kids HD
+http://exnovo.li:3388/giulio/giulio/93070
+#EXTINF:-1,Network
+http://exnovo.li:3388/giulio/giulio/93071
+#EXTINF:-1,Versus | NBA
+http://exnovo.li:3388/giulio/giulio/93072
+#EXTINF:-1,VH1 HD
+http://exnovo.li:3388/giulio/giulio/93073
+#EXTINF:-1,Viceland HD
+http://exnovo.li:3388/giulio/giulio/93074
+#EXTINF:-1,WWE Network
+http://exnovo.li:3388/giulio/giulio/93076
+#EXTINF:-1,WEATHERNATION
+http://exnovo.li:3388/giulio/giulio/93075
 
 
 #EXTINF:-1,SKY SPORT NEWS.
@@ -2507,83 +1654,6 @@ http://5.9.186.139:8080/cengiz/10012019/11964
 http://5.9.186.139:8080/cengiz/10012019/11965
 #EXTINF:-1,VH1 CLASSIC
 http://5.9.186.139:8080/cengiz/10012019/11966
-
-
-
-#EXTINF:-1,24/7 GOLDEN GIRLS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1729.ts
-#EXTINF:-1,24/7 AMERICAN HORROR STORY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1392.ts
-#EXTINF:-1,24/7 ANDY GRIFFITH SHOW
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1393.ts
-#EXTINF:-1,24/7 AMERICAN DAD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1394.ts
-#EXTINF:-1,24/7 BERNIE MAC SHOW
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1395.ts
-#EXTINF:-1,24/7 CRIMINAL MINDS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1398.ts
-#EXTINF:-1,24/7 CSI MIAMI
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1399.ts
-#EXTINF:-1,24/7 DESPERATE HOUSEWIVES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1400.ts
-#EXTINF:-1,24/7 DIFF'RENT STROKES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1402.ts
-#EXTINF:-1,24/7 EVERYBODY HATES CHRIS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1403.ts
-#EXTINF:-1,24/7 FAMILY MATTERS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1404.ts
-#EXTINF:-1,24/7 FLINTSTONES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1405.ts
-#EXTINF:-1,24/7 GAME OF THRONES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1406.ts
-#EXTINF:-1,24/7 GIRLFRIENDS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1407.ts
-#EXTINF:-1,24/7 GREYS ANATOMY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1408.ts
-#EXTINF:-1,24/7 JAMIE FOXX SHOW
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1409.ts
-#EXTINF:-1,24/7 LIVE PD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1410.ts
-#EXTINF:-1,24/7 LIVING SINGLE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1411.ts
-#EXTINF:-1,24/7 MARTIN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1412.ts
-#EXTINF:-1,24/7 CHARLIES ANGELES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1413.ts
-#EXTINF:-1,24/7 BIG BANG THEORY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1414.ts
-#EXTINF:-1,24/7 BATMAN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1415.ts
-#EXTINF:-1,24/7 TWILIGHT ZONE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1416.ts
-#EXTINF:-1,24/7 TOM & JERRY
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1417.ts
-#EXTINF:-1,24/7 THE WALKING DEAD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1418.ts
-#EXTINF:-1,24/7 THE JETSONS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1419.ts
-#EXTINF:-1,24/7 SMALLVILLE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1420.ts
-#EXTINF:-1,24/7 STARGATE ATLANTIS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1421.ts
-#EXTINF:-1,24/7 SOUTH PARK
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1422.ts
-#EXTINF:-1,24/7 SEINFELD
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1423.ts
-#EXTINF:-1,24/7 POWER
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1424.ts
-#EXTINF:-1,24/7 LITTLE HOUSE ON THE PRAIRIE
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1425.ts
-#EXTINF:-1,24/7 FRIENDS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1426.ts
-#EXTINF:-1,24/7 MARRIED WITH CHILDREN
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1427.ts
-#EXTINF:-1,24/7 THREE STOOGES
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1428.ts
-#EXTINF:-1,24/7 THE JEFFERSONS
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1429.ts
-#EXTINF:-1,24/7 THE FRESH PRINCE OF BEL-AIR
-http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/1430.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" ,24/7 The Big Bang Theory
