@@ -1,47 +1,47 @@
 #EXTM3U
 
 #EXTINF:0,USA NETWORK
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1727.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1727.m3u8
 
 #EXTINF:0,BET
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1812.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1812.m3u8
 #EXTINF:0,COMEDY CENTRAL
 https://peer3.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MTk6MzIgQU0maGFzaF92YWx1ZT16YTQ3azJwSVIrc1FyNTJiOFVUZDlnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,FREEFORM
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1764.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1764.m3u8
 #EXTINF:0,FXX
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1762.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1762.m3u8
 #EXTINF:0,TBS
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1816.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1816.m3u8
 #EXTINF:0,THE CW
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1793.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1793.m3u8
 #EXTINF:0,TRUTV
 https://peer1.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjI6MTYgQU0maGFzaF92YWx1ZT1OT3RVWGh5cTBNQjI0UUVJaDVsSEpBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,TV LAND
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1729.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1729.m3u8
 #EXTINF:0,VH1
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1723.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1723.m3u8
 #EXTINF:0,WGN 9 
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1722.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1722.m3u8
 
 #EXTINF:0,BOOMERANG
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1810.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1810.m3u8
 #EXTINF:0,CARTOON NETWORK
 https://peer3.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjQ6NTggQU0maGFzaF92YWx1ZT1ORm16bUl0b252Yi9iNjV2a3EyUk9nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,DISNEY
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1787.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1787.m3u8
 #EXTINF:0,DISNEY Junior
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1786.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1786.m3u8
 #EXTINF:0,DISNEY XD
 https://peer1.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjY6MDggQU0maGFzaF92YWx1ZT10OGlLWCtLVU8xcEtOemVodHAyek5RPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,NICKELODEON
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1744.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1744.m3u8
 #EXTINF:-1,NICK
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1745.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1745.m3u8
 #EXTINF:0,NICK TOONS
 https://peer2.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6Mjc6MTkgQU0maGFzaF92YWx1ZT1halViVFgrTjlFQkxSSituWUZucmJ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,PBS
-http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1742.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1742.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
