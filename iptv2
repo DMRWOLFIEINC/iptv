@@ -1281,314 +1281,280 @@ http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1855.m3u8
 
 
 #EXTINF:-1,##### COMEDY #####
-#EXTINF:-1,ANTENNA TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48117.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48098.m3u8
-#EXTINF:-1,FUSE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48083.m3u8
-#EXTINF:-1,FX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48081.m3u8
-#EXTINF:-1,GRIT TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48074.m3u8
-#EXTINF:-1,LAFF TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48052.m3u8
-#EXTINF:-1,POP
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48018.m3u8
+#EXTINF:-1,BET
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1812.m3u8
+#EXTINF:-1,FREEFORM
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1764.m3u8
 #EXTINF:-1,TBS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47992.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1816.m3u8
 #EXTINF:-1,THE CW
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47986.m3u8
-#EXTINF:-1,THE CW - PIX 11
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47987.m3u8
-#EXTINF:-1,TRU TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47981.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1793.m3u8
 #EXTINF:-1,TV LAND
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47980.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1729.m3u8
 #EXTINF:-1,VH1
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47971.m3u8
-
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1723.m3u8
+#EXTINF:-1,WGN 9
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1722.m3u8
 
 #EXTINF:-1,##### KIDS #####
-#EXTINF:-1,BABY TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48114.m3u8
-#EXTINF:-1,BABY TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56872.m3u8
 #EXTINF:-1,BOOMERANG
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48112.m3u8
-#EXTINF:-1,BOOMERANG
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56888.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48108.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56887.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1810.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48089.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56882.m3u8
-#EXTINF:-1,DISNEY JNR
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48088.m3u8
-#EXTINF:-1,DISNEY JR
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56881.m3u8
-#EXTINF:-1,DISNEY XD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48087.m3u8
-#EXTINF:-1,DISNEY XD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56880.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1787.m3u8
+#EXTINF:-1,DISNEY Jr.
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1786.m3u8
 #EXTINF:-1,NICK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48037.m3u8
-#EXTINF:-1,NICK HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56879.m3u8
-#EXTINF:-1,NICK JR
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48036.m3u8
-#EXTINF:-1,NICK JR
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56878.m3u8
-#EXTINF:-1,NICK JR.TOO
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48035.m3u8
-#EXTINF:-1,NICK JR. TOO
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56877.m3u8
-#EXTINF:-1,NICKTOONS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48034.m3u8
-#EXTINF:-1,NICKTOONS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56876.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1745.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1744.m3u8
 #EXTINF:-1,PBS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48021.m3u8
-#EXTINF:-1,PBS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56885.m3u8
-#EXTINF:-1,PBS KIDS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48020.m3u8
-#EXTINF:-1,PBS KIDS EAST
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56884.m3u8
-#EXTINF:-1,PBS WLIW 21
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48019.m3u8
-#EXTINF:-1,PBS WLIW 21
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56883.m3u8
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47995.m3u8
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56875.m3u8
-#EXTINF:-1,TEEN NICK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47990.m3u8
-#EXTINF:-1,TEEN NICK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56874.m3u8
-#EXTINF:-1,UNIVERSAL KIDS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47975.m3u8
-#EXTINF:-1,UNIVERSAL KIDS HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/56873.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1742.m3u8
 
 
 #EXTINF:-1,##### ACTION #####
-#EXTINF:-1,ABC WEST
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48121.m3u8
-#EXTINF:-1,AMC
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48120.m3u8
 #EXTINF:-1,BBC AMERICA
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48113.m3u8
-#EXTINF:-1,BOUNCE TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48111.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1813.m3u8
 #EXTINF:-1,BRAVO
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48110.m3u8
-#EXTINF:-1,FUSION
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48082.m3u8
-#EXTINF:-1,IFC
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48057.m3u8
-#EXTINF:-1,ION TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48053.m3u8
-#EXTINF:-1,OVATION
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48030.m3u8
-#EXTINF:-1,OXYGEN
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48028.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1809.m3u8
+#EXTINF:-1,CW
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1793.m3u8
+#EXTINF:-1,FOX
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1775.m3u8
+#EXTINF:-1,FX
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1763.m3u8
 #EXTINF:-1,REELZ
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48014.m3u8
-#EXTINF:-1,REVOLT
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48013.m3u8
-#EXTINF:-1,SPIKE/PARAMOUNT
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48005.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1741.m3u8
+#EXTINF:-1,SPIKE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1738.m3u8
+#EXTINF:-1,SUNDANCE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1736.m3u8
 #EXTINF:-1,SYFY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47994.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1735.m3u8
 #EXTINF:-1,TBS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47992.m3u8
-#EXTINF:-1,THE CW
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47986.m3u8
-#EXTINF:-1,THE CW - PIX 11
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47987.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1816.m3u8
 #EXTINF:-1,TNT
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47983.m3u8
-#EXTINF:-1,TVONE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47978.m3u8
-#EXTINF:-1,UNIVERSAL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47976.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1731.m3u8
 #EXTINF:-1,USA NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47972.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1727.m3u8
 
 
 #EXTINF:-1,##### MOVIES #####
-#EXTINF:-1,CINEMAX ACTION MAX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48107.m3u8
+#EXTINF:-1,ACTION MAX
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1815.m3u8
+#EXTINF:-1,AFN Prime Pacific
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1814.m3u8
 #EXTINF:-1,CINEMAX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48106.m3u8
-#EXTINF:-1,CINEMAX MOVIEMAX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48105.m3u8
-#EXTINF:-1,CINEMAX OUTER MAX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48104.m3u8
-#EXTINF:-1,CINEMAX THRILLERMAX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48103.m3u8
-#EXTINF:-1,CINEMAXX MORE MAXX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48102.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1799.m3u8
+#EXTINF:-1,CINEMAX 5
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1800.m3u8
+#EXTINF:-1,CINE Sony
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1798.m3u8
+#EXTINF:-1,FREEFORM
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1764.m3u8
 #EXTINF:-1,FX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48081.m3u8
-#EXTINF:-1,FXM
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48080.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1763.m3u8
 #EXTINF:-1,FXX
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48079.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1762.m3u8
 #EXTINF:-1,HALLMARK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48072.m3u8
-#EXTINF:-1,HALLMARK DRAMA
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48073.m3u8
-#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48071.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1758.m3u8
 #EXTINF:-1,HBO
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48067.m3u8
-#EXTINF:-1,HBO 2
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48070.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1755.m3u8
 #EXTINF:-1,HBO COMEDY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48069.m3u8
-#EXTINF:-1,HBO FAMILY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48068.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48066.m3u8
-#EXTINF:-1,HBO ZONE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48065.m3u8
-#EXTINF:-1,LIFETIME
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48051.m3u8
-#EXTINF:-1,LIFETIME MOVIES
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48050.m3u8
-#EXTINF:-1,LONGHORN NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48049.m3u8
-#EXTINF:-1,SHOWTIME
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48008.m3u8
-#EXTINF:-1,SHOWTIME 2
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48010.m3u8
-#EXTINF:-1,SHOWTIME EXTREME
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48009.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48007.m3u8
-#EXTINF:-1,STARZ
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48001.m3u8
-#EXTINF:-1,STARZ COMEDY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48000.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1757.m3u8
+#EXTINF:-1,HBO Family
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1818.m3u8
+#EXTINF:-1,HBO PACIFIC
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1756.m3u8
+#EXTINF:-1,IFC
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1754.m3u8
+#EXTINF:-1,LOGHORN NETWORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1753.m3u8
+#EXTINF:-1,MORE MAX
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1751.m3u8
+#EXTINF:-1,REELZ
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1741.m3u8
+#EXTINF:-1,SHOWTIME 
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1740.m3u8
+#EXTINF:-1,SHOWTIME PACIFIC
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1739.m3u8
+#EXTINF:-1,SPIKE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1738.m3u8
 #EXTINF:-1,STARZ EDGE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47999.m3u8
-#EXTINF:-1,STARZ ENCORE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47998.m3u8
-#EXTINF:-1,STARZ ENCORE WESTERNS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47997.m3u8
-#EXTINF:-1,STARZ IN BLACK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47996.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1737.m3u8
 
 
 #EXTINF:-1,##### DOCUMENTARIES #####
-#EXTINF:-1,AMERICAN HEROES CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48119.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48118.m3u8
-#EXTINF:-1,COUNTRY NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48095.m3u8
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48094.m3u8
 #EXTINF:-1,DESTINATION AMERICA
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48093.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1792.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48092.m3u8
-#EXTINF:-1,DISCOVERY LIFE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48091.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1791.m3u8
+#EXTINF:-1,DISCOVERY FAMILY
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1790.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48090.m3u8
-#EXTINF:-1,DIY NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48086.m3u8
-#EXTINF:-1,DOG TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48085.m3u8
-#EXTINF:-1,HEROS & ICONS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48064.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1789.m3u8
+#EXTINF:-1,DISCOVERY VELOCITY
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1788.m3u8
 #EXTINF:-1,HGTV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48062.m3u8
-#EXTINF:-1,HGTV FHD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48063.m3u8
-#EXTINF:-1,HISTORY 2
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48061.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48060.m3u8
-#EXTINF:-1,HISTORY CHANNEL FHD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48059.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48054.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY FHD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48055.m3u8
-#EXTINF:-1,NAT GEO USA
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48038.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48032.m3u8
-#EXTINF:-1,OUTSIDE TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48031.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1817.m3u8
+#EXTINF:-1,H2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1759.m3u8
+#EXTINF:-1,LAW AND CRIME
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1752.m3u8
+#EXTINF:-1,NAT GEO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1749.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1748.m3u8
 #EXTINF:-1,TRAVEL CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47982.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1730.m3u8
+
+
+#EXTINF:-1,##### SPORTS #####
+#EXTINF:-1,BEIN SPORTS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1820.m3u8
+#EXTINF:-1,BTN
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1808.m3u8
+#EXTINF:-1,C SPAN 1
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1807.m3u8
+#EXTINF:-1,C SPAN 2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1806.m3u8
+#EXTINF:-1,C SPAN 3
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1805.m3u8
+#EXTINF:-1,ESPN
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1784.m3u8
+#EXTINF:-1,ESPN 2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1783.m3u8
+#EXTINF:-1,ESPN COLLAGE EXTRA
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1782.m3u8
+#EXTINF:-1,ESPN DEPORTES
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1781.m3u8
+#EXTINF:-1,ESPN U
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1780.m3u8
+#EXTINF:-1,ESPN NEWS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1779.m3u8
+#EXTINF:-1,ESPN BASES LOADED
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1778.m3u8
+#EXTINF:-1,FOX SOCCER PLUS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1777.m3u8
+#EXTINF:-1,GOLF
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1761.m3u8
+#EXTINF:-1,NBA TV
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1747.m3u8
+#EXTINF:-1,NFL NETWORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1726.m3u8
+#EXTINF:-1,NFL NOW
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1725.m3u8
+#EXTINF:-1,NFL RED ZONE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1724.m3u8
+#EXTINF:-1,TENNIS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1734.m3u8
+#EXTINF:-1,Willow Cricket
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1721.m3u8
+#EXTINF:-1,WWE NETWORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1720.m3u8
+#EXTINF:-1,UFC
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/3814.m3u8
+#EXTINF:-1,UFC  FIGHT PASS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1719.m3u8
 
 
 #EXTINF:-1,##### ETC #####
-#EXTINF:-1,AWE CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48116.m3u8
-#EXTINF:-1,BUZZER
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48109.m3u8
 #EXTINF:-1,COOKING CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48096.m3u8
-#EXTINF:-1,GAME SHOW NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48076.m3u8
-#EXTINF:-1,MTV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48042.m3u8
-#EXTINF:-1,MTV2
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48040.m3u8
-#EXTINF:-1,MTV LIVE
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48041.m3u8
-#EXTINF:-1,OWN NETWORK FHD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48029.m3u8
-#EXTINF:-1,TLC CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47984.m3u8
-
-#EXTINF:-1,##### SPORTS #####
-#EXTINF:-1,GOLF CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48075.m3u8
-#EXTINF:-1,MLB NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48046.m3u8
-#EXTINF:-1,MOTOR TREND
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48045.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1795.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1794.m3u8
+#EXTINF:-1,DIY NETWORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1785.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1776.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1760.m3u8
 #EXTINF:-1,MSNBC
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48043.m3u8
-#EXTINF:-1,RED BULL TV
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48015.m3u8
-#EXTINF:-1,SEC NETWORK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48011.m3u8
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48004.m3u8
-#EXTINF:-1,SPORTSNET LA
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48003.m3u8
-#EXTINF:-1,SPORTSNET NY
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48002.m3u8
-#EXTINF:-1,TENNIS HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47988.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1750.m3u8
+#EXTINF:-1,OWN
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1743.m3u8
+#EXTINF:-1,TLC
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1732.m3u8
+#EXTINF:-1,ABC NEW YORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1821.m3u8
+#EXTINF:-1,ABC SAN DIEGO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1822.m3u8
+#EXTINF:-1,ABC NASHVILLE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1823.m3u8
+#EXTINF:-1,ABC 2 ORLANDO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1824.m3u8
+#EXTINF:-1,ABC MIAMI
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1825.m3u8
+#EXTINF:-1,ABC CHARLOTTE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1826.m3u8
+#EXTINF:-1,ABC SACRAMENTO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1827.m3u8
+#EXTINF:-1,CBS NEW YORK
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1801.m3u8
+#EXTINF:-1,CBS ORLANDO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1802.m3u8
+#EXTINF:-1,CBS CHICAGO
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1803.m3u8
+#EXTINF:-1,CBS NASHVILLE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1804.m3u8
 
 
 #EXTINF:-1,##### NEWS #####
-#EXTINF:-1,CNBC
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48100.m3u8
+#EXTINF:-1,BLOOMBERG
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1811.m3u8
 #EXTINF:-1,CNN
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48099.m3u8
-#EXTINF:-1,E!
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48084.m3u8
-#EXTINF:-1,ONE AMERICA NEWS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48033.m3u8
-#EXTINF:-1,RT NEWS
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/48012.m3u8
-#EXTINF:-1,THE WEATHER CHANNEL HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/47985.m3u8
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1819.m3u8
+#EXTINF:-1,FOX NEWS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1774.m3u8
+#EXTINF:-1,The WEATHER CHANNEL
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1733.m3u8
+
+
+#EXTINF:-1,YES ACTION
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1832.m3u8
+#EXTINF:-1,YES ANIMAL PLANET
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1833.m3u8
+#EXTINF:-1,YES COMEDY
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1834.m3u8
+#EXTINF:-1,YES DRAMA
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1835.m3u8
+#EXTINF:-1,YES EGO TOTAL
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1836.m3u8
+#EXTINF:-1,YES1
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1837.m3u8
+#EXTINF:-1,YES2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1838.m3u8
+#EXTINF:-1,YES3
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1839.m3u8
+#EXTINF:-1,YES4
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1840.m3u8
+#EXTINF:-1,YES HISTORY CHANNELL
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1841.m3u8
+#EXTINF:-1,YES HOP
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1842.m3u8
+#EXTINF:-1,YES NICKELODEON
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1844.m3u8
+#EXTINF:-1,YES ONE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1845.m3u8
+#EXTINF:-1,YES ONE2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1846.m3u8
+#EXTINF:-1,YES SPORT 1
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1847.m3u8
+#EXTINF:-1,YES SPORT 2
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1848.m3u8
+#EXTINF:-1,YES SPORT 3
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1849.m3u8
+#EXTINF:-1,YES SPORT 4
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1850.m3u8
+#EXTINF:-1,YES SPORT 5
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1851.m3u8
+#EXTINF:-1,YES SPORT 5 LIVE
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1852.m3u8
+#EXTINF:-1,YES SPORT 5 PLUS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1853.m3u8
+#EXTINF:-1,YES VIVA
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1854.m3u8
+#EXTINF:-1,YES VIVA PLUS
+http://iptv6.premium-stv.com:25461/live/usapro2source/79996526641/1855.m3u8
 
 
 
