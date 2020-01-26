@@ -1402,6 +1402,12 @@ http://185.23.213.162:8789/live/ania/ania/40786.m3u8
 
 #EXTINF:-1,PPV
 http://cdnak20.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1,PPV 2
+http://cdnak21.cast4u.info/channels/2/10802.m3u8
+#EXTINF:-1,PPV 3
+http://cdnak4.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1,PPV 4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" ,24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
