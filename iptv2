@@ -712,6 +712,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u
 #EXTINF:-1,##### COMEDY #####
 #EXTINF:-1,BET
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1812.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24050.m3u8
 #EXTINF:-1,FREEFORM
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1764.m3u8
 #EXTINF:-1,TBS
@@ -728,6 +730,8 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1722.m3u8
 #EXTINF:-1,##### KIDS #####
 #EXTINF:-1,BOOMERANG
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1810.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24024.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1787.m3u8
 #EXTINF:-1,DISNEY Jr.
@@ -736,19 +740,29 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1786.m3u8
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1745.m3u8
 #EXTINF:-1,NICKELODEON
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1744.m3u8
+#EXTINF:-1,NICKTOONS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24021.m3u8
 #EXTINF:-1,PBS
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1742.m3u8
 
 
 #EXTINF:-1,##### ACTION #####
+#EXTINF:-1,ABC 7
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24134.m3u8
+#EXTINF:-1,AMC
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24122.m3u8
 #EXTINF:-1,BBC AMERICA
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1813.m3u8
 #EXTINF:-1,BRAVO
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1809.m3u8
+#EXTINF:-1,CBS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24144.m3u8
 #EXTINF:-1,CW
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1793.m3u8
 #EXTINF:-1,FOX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1775.m3u8
+#EXTINF:-1,Fox
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24047.m3u8
 #EXTINF:-1,FX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1763.m3u8
 #EXTINF:-1,REELZ
@@ -768,18 +782,26 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1727.m3u8
 
 
 #EXTINF:-1,##### MOVIES #####
+#EXTINF:-1,5 STAR MAX
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24114.m3u8
 #EXTINF:-1,ACTION MAX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1815.m3u8
 #EXTINF:-1,AFN Prime Pacific
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1814.m3u8
 #EXTINF:-1,CINEMAX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1799.m3u8
+#EXTINF:-1,CINEMAX
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24112.m3u8
+#EXTINF:-1,Cinemax East
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24113.m3u8
 #EXTINF:-1,CINEMAX 5
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1800.m3u8
 #EXTINF:-1,CINE Sony
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1798.m3u8
 #EXTINF:-1,FREEFORM
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1764.m3u8
+#EXTINF:-1,FREEFROM
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24039.m3u8
 #EXTINF:-1,FX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1763.m3u8
 #EXTINF:-1,FXX
@@ -794,11 +816,17 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1757.m3u8
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1818.m3u8
 #EXTINF:-1,HBO PACIFIC
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1756.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24127.m3u8
+#EXTINF:-1,HBO ZONE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24126.m3u8
 #EXTINF:-1,IFC
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1754.m3u8
+#EXTINF:-1,LIFETIME MOVIES
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24117.m3u8
 #EXTINF:-1,LOGHORN NETWORK
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1753.m3u8
-#EXTINF:-1,MORE MAX
+#EXTINF:-1,MOREMAX
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1751.m3u8
 #EXTINF:-1,REELZ
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1741.m3u8
@@ -806,6 +834,12 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1741.m3u8
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1740.m3u8
 #EXTINF:-1,SHOWTIME PACIFIC
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1739.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24120.m3u8
+#EXTINF:-1,STARZ
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24119.m3u8
+#EXTINF:-1,STARZ CINEMA
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24118.m3u8
 #EXTINF:-1,SPIKE
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1738.m3u8
 #EXTINF:-1,STARZ EDGE
@@ -887,6 +921,8 @@ http://51.159.21.231:2052/live/usapro2@source/799965@26641/1719.m3u8
 
 
 #EXTINF:-1,##### ETC #####
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24051.m3u8
 #EXTINF:-1,COOKING CHANNEL
 http://51.159.21.231:2052/live/usapro2@source/799965@26641/1795.m3u8
 #EXTINF:-1,CRIME & INVESTIGATION
