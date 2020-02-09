@@ -1,47 +1,47 @@
 #EXTM3U
 
 #EXTINF:0,USA NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1727.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1727.m3u8
 
 #EXTINF:0,BET
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1812.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1812.m3u8
 #EXTINF:0,COMEDY CENTRAL
 https://peer3.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MTk6MzIgQU0maGFzaF92YWx1ZT16YTQ3azJwSVIrc1FyNTJiOFVUZDlnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,FREEFORM
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1764.m3u8
+hhttp://51.159.21.231:2052/live/usapro2@source/799965@26641/1764.m3u8
 #EXTINF:0,FXX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1762.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1762.m3u8
 #EXTINF:0,TBS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1816.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1816.m3u8
 #EXTINF:0,THE CW
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1793.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1793.m3u8
 #EXTINF:0,TRUTV
 https://peer1.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjI6MTYgQU0maGFzaF92YWx1ZT1OT3RVWGh5cTBNQjI0UUVJaDVsSEpBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,TV LAND
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1729.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1729.m3u8
 #EXTINF:0,VH1
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1723.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1723.m3u8
 #EXTINF:0,WGN 9 
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1722.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1722.m3u8
 
 #EXTINF:0,BOOMERANG
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1810.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1810.m3u8
 #EXTINF:0,CARTOON NETWORK
 https://peer3.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjQ6NTggQU0maGFzaF92YWx1ZT1ORm16bUl0b252Yi9iNjV2a3EyUk9nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,DISNEY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1787.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1787.m3u8
 #EXTINF:0,DISNEY Junior
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1786.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1786.m3u8
 #EXTINF:0,DISNEY XD
 https://peer1.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6MjY6MDggQU0maGFzaF92YWx1ZT10OGlLWCtLVU8xcEtOemVodHAyek5RPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,NICKELODEON
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1744.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1744.m3u8
 #EXTINF:-1,NICK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1745.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1745.m3u8
 #EXTINF:0,NICK TOONS
 https://peer2.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDI6Mjc6MTkgQU0maGFzaF92YWx1ZT1halViVFgrTjlFQkxSSituWUZucmJ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:0,PBS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1742.m3u8
+http://51.159.21.231:2052/live/usapro2@source/799965@26641/1742.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
@@ -704,287 +704,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 #EXTINF:0,RETRO TOONS
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
-
-
-
-
-
-
-#EXTINF:-1,##### COMEDY #####
-#EXTINF:-1,BET
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1812.m3u8
-#EXTINF:-1,FREEFORM
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1764.m3u8
-#EXTINF:-1,TBS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1816.m3u8
-#EXTINF:-1,THE CW
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1793.m3u8
-#EXTINF:-1,TV LAND
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1729.m3u8
-#EXTINF:-1,VH1
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1723.m3u8
-#EXTINF:-1,WGN 9
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1722.m3u8
-
-#EXTINF:-1,##### KIDS #####
-#EXTINF:-1,BOOMERANG
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1810.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1787.m3u8
-#EXTINF:-1,DISNEY Jr.
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1786.m3u8
-#EXTINF:-1,NICK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1745.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1744.m3u8
-#EXTINF:-1,PBS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1742.m3u8
-
-
-#EXTINF:-1,##### ACTION #####
-#EXTINF:-1,BBC AMERICA
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1813.m3u8
-#EXTINF:-1,BRAVO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1809.m3u8
-#EXTINF:-1,CW
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1793.m3u8
-#EXTINF:-1,FOX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1775.m3u8
-#EXTINF:-1,FX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1763.m3u8
-#EXTINF:-1,REELZ
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1741.m3u8
-#EXTINF:-1,SPIKE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1738.m3u8
-#EXTINF:-1,SUNDANCE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1736.m3u8
-#EXTINF:-1,SYFY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1735.m3u8
-#EXTINF:-1,TBS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1816.m3u8
-#EXTINF:-1,TNT
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1731.m3u8
-#EXTINF:-1,USA NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1727.m3u8
-
-
-#EXTINF:-1,##### MOVIES #####
-#EXTINF:-1,ACTION MAX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1815.m3u8
-#EXTINF:-1,AFN Prime Pacific
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1814.m3u8
-#EXTINF:-1,CINEMAX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1799.m3u8
-#EXTINF:-1,CINEMAX 5
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1800.m3u8
-#EXTINF:-1,CINE Sony
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1798.m3u8
-#EXTINF:-1,FREEFORM
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1764.m3u8
-#EXTINF:-1,FX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1763.m3u8
-#EXTINF:-1,FXX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1762.m3u8
-#EXTINF:-1,HALLMARK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1758.m3u8
-#EXTINF:-1,HBO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1755.m3u8
-#EXTINF:-1,HBO COMEDY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1757.m3u8
-#EXTINF:-1,HBO Family
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1818.m3u8
-#EXTINF:-1,HBO PACIFIC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1756.m3u8
-#EXTINF:-1,IFC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1754.m3u8
-#EXTINF:-1,LOGHORN NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1753.m3u8
-#EXTINF:-1,MORE MAX
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1751.m3u8
-#EXTINF:-1,REELZ
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1741.m3u8
-#EXTINF:-1,SHOWTIME 
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1740.m3u8
-#EXTINF:-1,SHOWTIME PACIFIC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1739.m3u8
-#EXTINF:-1,SPIKE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1738.m3u8
-#EXTINF:-1,STARZ EDGE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1737.m3u8
-
-
-#EXTINF:-1,##### DOCUMENTARIES #####
-#EXTINF:-1,DESTINATION AMERICA
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1792.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1791.m3u8
-#EXTINF:-1,DISCOVERY FAMILY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1790.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1789.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1788.m3u8
-#EXTINF:-1,HGTV
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1817.m3u8
-#EXTINF:-1,H2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1759.m3u8
-#EXTINF:-1,LAW AND CRIME
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1752.m3u8
-#EXTINF:-1,NAT GEO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1749.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1748.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1730.m3u8
-
-
-#EXTINF:-1,##### SPORTS #####
-#EXTINF:-1,BEIN SPORTS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1820.m3u8
-#EXTINF:-1,BTN
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1808.m3u8
-#EXTINF:-1,C SPAN 1
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1807.m3u8
-#EXTINF:-1,C SPAN 2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1806.m3u8
-#EXTINF:-1,C SPAN 3
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1805.m3u8
-#EXTINF:-1,ESPN
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1784.m3u8
-#EXTINF:-1,ESPN 2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1783.m3u8
-#EXTINF:-1,ESPN COLLAGE EXTRA
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1782.m3u8
-#EXTINF:-1,ESPN DEPORTES
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1781.m3u8
-#EXTINF:-1,ESPN U
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1780.m3u8
-#EXTINF:-1,ESPN NEWS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1779.m3u8
-#EXTINF:-1,ESPN BASES LOADED
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1778.m3u8
-#EXTINF:-1,FOX SOCCER PLUS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1777.m3u8
-#EXTINF:-1,GOLF
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1761.m3u8
-#EXTINF:-1,NBA TV
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1747.m3u8
-#EXTINF:-1,NFL NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1726.m3u8
-#EXTINF:-1,NFL NOW
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1725.m3u8
-#EXTINF:-1,NFL RED ZONE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1724.m3u8
-#EXTINF:-1,TENNIS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1734.m3u8
-#EXTINF:-1,Willow Cricket
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1721.m3u8
-#EXTINF:-1,WWE NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1720.m3u8
-#EXTINF:-1,UFC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/3814.m3u8
-#EXTINF:-1,UFC  FIGHT PASS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1719.m3u8
-
-
-#EXTINF:-1,##### ETC #####
-#EXTINF:-1,COOKING CHANNEL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1795.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1794.m3u8
-#EXTINF:-1,DIY NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1785.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1776.m3u8
-#EXTINF:-1,HOME & HEALTH
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1760.m3u8
-#EXTINF:-1,MSNBC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1750.m3u8
-#EXTINF:-1,OWN
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1743.m3u8
-#EXTINF:-1,TLC
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1732.m3u8
-#EXTINF:-1,ABC NEW YORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1821.m3u8
-#EXTINF:-1,ABC SAN DIEGO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1822.m3u8
-#EXTINF:-1,ABC NASHVILLE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1823.m3u8
-#EXTINF:-1,ABC 2 ORLANDO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1824.m3u8
-#EXTINF:-1,ABC MIAMI
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1825.m3u8
-#EXTINF:-1,ABC CHARLOTTE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1826.m3u8
-#EXTINF:-1,ABC SACRAMENTO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1827.m3u8
-#EXTINF:-1,CBS NEW YORK
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1801.m3u8
-#EXTINF:-1,CBS ORLANDO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1802.m3u8
-#EXTINF:-1,CBS CHICAGO
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1803.m3u8
-#EXTINF:-1,CBS NASHVILLE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1804.m3u8
-
-
-#EXTINF:-1,##### NEWS #####
-#EXTINF:-1,BLOOMBERG
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1811.m3u8
-#EXTINF:-1,CNN
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1819.m3u8
-#EXTINF:-1,FOX NEWS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1774.m3u8
-#EXTINF:-1,The WEATHER CHANNEL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1733.m3u8
-
-
-#EXTINF:-1,YES ACTION
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1832.m3u8
-#EXTINF:-1,YES ANIMAL PLANET
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1833.m3u8
-#EXTINF:-1,YES COMEDY
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1834.m3u8
-#EXTINF:-1,YES DRAMA
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1835.m3u8
-#EXTINF:-1,YES EGO TOTAL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1836.m3u8
-#EXTINF:-1,YES1
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1837.m3u8
-#EXTINF:-1,YES2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1838.m3u8
-#EXTINF:-1,YES3
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1839.m3u8
-#EXTINF:-1,YES4
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1840.m3u8
-#EXTINF:-1,YES HISTORY CHANNELL
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1841.m3u8
-#EXTINF:-1,YES HOP
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1842.m3u8
-#EXTINF:-1,YES NICKELODEON
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1844.m3u8
-#EXTINF:-1,YES ONE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1845.m3u8
-#EXTINF:-1,YES ONE2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1846.m3u8
-#EXTINF:-1,YES SPORT 1
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1847.m3u8
-#EXTINF:-1,YES SPORT 2
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1848.m3u8
-#EXTINF:-1,YES SPORT 3
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1849.m3u8
-#EXTINF:-1,YES SPORT 4
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1850.m3u8
-#EXTINF:-1,YES SPORT 5
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1851.m3u8
-#EXTINF:-1,YES SPORT 5 LIVE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1852.m3u8
-#EXTINF:-1,YES SPORT 5 PLUS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1853.m3u8
-#EXTINF:-1,YES VIVA
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1854.m3u8
-#EXTINF:-1,YES VIVA PLUS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1/6876169712/1855.m3u8
 
 
 
