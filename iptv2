@@ -3013,5 +3013,132 @@ http://104.218.60.145:83/live/Elonge/4049153347@/308758.m3u8
 
 
 
+COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="[]" group-title="USA",BET
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW" tvg-logo="""" group-title="USA",CW
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="[]" group-title="USA",SUNDANCE
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="[]" group-title="USA",TBS
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LAND" tvg-logo="[]" group-title="USA",TV LAND
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="[]" group-title="USA",VH1
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1723.m3u8
+
+
+ACTION
+#EXTINF:-1 tvg-id="" tvg-name="BBC AMERICA" tvg-logo="[]" group-title="USA",BBC AMERICA
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO" tvg-logo="[]" group-title="USA",BRAVO
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS CHICAGO" tvg-logo="""" group-title="USA",CBS
+#EXTINF:-1 tvg-id="" tvg-name="CW" tvg-logo="""" group-title="USA",CW
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="""" group-title="USA",FOX
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FREEFORM" tvg-logo="[]" group-title="USA",FREEFORM
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="[]" group-title="USA",FX
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="[]" group-title="USA",FXX
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPIKE" tvg-logo="[]" group-title="USA",SPIKE
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="[]" group-title="USA",SYFY
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="[]" group-title="USA",TBS
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="[]" group-title="USA",TNT
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1731.m3u8
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK" tvg-logo="[]" group-title="USA",USA NETWORK
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1727.m3u8
+
+
+MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 5" tvg-logo="""" group-title="USA",CINEMAX 5
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Sony" tvg-logo="""" group-title="USA",CINE Sony
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK" tvg-logo="[]" group-title="USA",HALLMARK
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="[]" group-title="USA",HBO
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO COMEDY" tvg-logo="[]" group-title="USA",HBO COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="[]" group-title="USA",HBO Family
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1818.m3u8
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO PACIFIC" tvg-logo="""" group-title="USA",HBO PACIFIC
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IFC" tvg-logo="[]" group-title="USA",IFC
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOGHORN NETWORK" tvg-logo="""" group-title="USA",LOGHORN NETWORK
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MORE MAX" tvg-logo="[]" group-title="USA",MORE MAX
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME " tvg-logo="[]" group-title="USA",SHOWTIME 
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME PACIFIC" tvg-logo="""" group-title="USA",SHOWTIME PACIFIC
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STARZ EDGE" tvg-logo="""" group-title="USA",STARZ EDGE
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1737.m3u8
+
+
+KIDS
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="[]" group-title="USA",BOOMERANG
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="[]" group-title="USA",DISNEY CHANNEL
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY Jr." tvg-logo="[]" group-title="USA",DISNEY Jr.
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="[]" group-title="USA",NICKELODEON
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="[]" group-title="USA",NICKELODEON
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1744.m3u8
+
+
+DOCUMENTARIES
+#EXTINF:-1 tvg-id="" tvg-name="COOKING CHANNEL" tvg-logo="[]" group-title="USA",COOKING CHANNEL
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION" tvg-logo="[]" group-title="USA",CRIME & INVESTIGATION
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="""" group-title="USA",DISCOVERY CHANNEL
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="[]" group-title="USA",DISCOVERY FAMILY
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="[]" group-title="USA",DISCOVERY SCIENCE
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY VELOCITY" tvg-logo="[]" group-title="USA",DISCOVERY VELOCITY
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK" tvg-logo="[]" group-title="USA",DIY NETWORK
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="[]" group-title="USA",FOOD NETWORK
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="USA",H2
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAW AND CRIME" tvg-logo="""" group-title="USA",LAW AND CRIME
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="[]" group-title="USA",NAT GEO
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="[]" group-title="USA",NAT GEO WILD
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="[]" group-title="USA",TRAVEL CHANNEL
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1730.m3u8
+
+
+SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="[]" group-title="USA",ESPN
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="[]" group-title="USA",ESPN 2
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN COLLAGE EXTRA" tvg-logo="""" group-title="USA",ESPN COLLAGE EXTRA
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="USA",UFC
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/3814.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" ,24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
