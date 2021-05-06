@@ -1,225 +1,1267 @@
 #EXTM3U
 
-#EXTINF:0,A&E
-http://85.244.70.140:7000/play/a011
-#EXTINF:-0,ABC NEW YORK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1821
-#EXTINF:-0,ABC SAN DIEGO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1822
-#EXTINF:-0,ABC NASHVILLE HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1823
-#EXTINF:-0,ABC 2 ORLANDO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1824
-#EXTINF:-0,ABC MIAMI HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1825
-#EXTINF:-0,ABC CHARLOTTE HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1826
-#EXTINF:-1,ABC SACRAMENTO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1827
-#EXTINF:0,ADULT SWIM
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:0,AMC
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3240
-#EXTINF:0,ANIMAL PLANET
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3241
-#EXTINF:0,BBC
-http://ott-cdn.ucom.am/s24/01.m3u8
-#EXTINF:0,BET
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1812
-#EXTINF:0,BLOOMBERG
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3254
-#EXTINF:0,BOOMERANG
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1810
-#EXTINF:0,BRAVO
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1809
-#EXTINF:0,CARTOON NETWORK
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3036
-#EXTINF:0,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0,CBS
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-0,CINEMAX EAST
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1799
-#EXTINF:-0,CINEMAX 5
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1800
-#EXTINF:0,CNBC
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1796
-#EXTINF:0,CNN 
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3141
-#EXTINF:0,COMEDY CENTRAL
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3097
-#EXTINF:0,DAVE
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3144
-#EXTINF:0,DISCOVERY CHANNEL
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3145
-#EXTINF:0,DISCOVERY SCIENCE
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3147
-#EXTINF:0,DISNEY
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1787
-#EXTINF:0,DISNEY JR
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3150
-#EXTINF:0,DISNEY XD
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3045
-#EXTINF:0,DIY
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1785
-#EXTINF:0,E!
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3153
-#EXTINF:0,ESPN
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1784
-#EXTINF:0,ESPN 2
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1783
-#EXTINF:0,ESPN NEWS
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1779
-#EXTINF:0,FOOD NETWORK
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1776
-#EXTINF:0,FOX
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1775
-#EXTINF:0,FOX SPORTS 1
-http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
-#EXTINF:0,FOX SPORTS 2
-http://peer3.savitar.tv/FS2/myStream/chunks.m3u8?nimblesessionid=3376228&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjE6NTYgUE0maGFzaF92YWx1ZT01QUk5MU5mYUJTU1M5UldOZlBVMFp3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,FX
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1763
-#EXTINF:0,FXM
-http://live.savitar.tv/FXMovie/myStream/chunks.m3u8?nimblesessionid=48484022&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjU6NDYgUE0maGFzaF92YWx1ZT1tRXZaaXIrMDh1MjBJdDZaRWg1dzl3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,FXX
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1762
-#EXTINF:0,H2
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1759
-#EXTINF:0,HALLMARK
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1758
-#EXTINF:0,HALLMARK MOVIES AND MYSTERIES
-http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=48486237&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzE6MzAgUE0maGFzaF92YWx1ZT1GaVBvcnY5ak9tT1l2b0VGRTFSN09nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,HBO HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1755
-#EXTINF:0,HBO PACIFIC HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1756
-#EXTINF:0,HBO COMEDY HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1757
-#EXTINF:0,HBO Family HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1818
-#EXTINF:0,HGTV
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1817
-#EXTINF:0,HISTORY CHANNEL
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1841
-#EXTINF:0,IFC
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1754
-#EXTINF:0,INVESTIGATION DISCOVERY
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,MAX PRIME
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1751
-#EXTINF:0,MTV
-https://ul.cdn946.net:8443/hls/sfwmagdf.m3u8?s=cvuIlhtNuENvKo_8vgGtBA&e=1568871897
-#EXTINF:0,NATIONAL GEOGRAPHIC 
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1749
-#EXTINF:0,NATIONAL GEOGRAPHIC WILD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1748
-#EXTINF:0,NBC 
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1828
-#EXTINF:0,NICKELODEON
-https://nl2.streamlive.to/vlc/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDk6NTM6MDkgUE0maGFzaF92YWx1ZT1QeGI3ajlTazRVQ3NCYTNQN1l4UjVBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
-#EXTINF:0,NICKELODEON HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1744
-#EXTINF:0,NICK HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1745
-#EXTINF:0,NICK JR
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3188
-#EXTINF:0,OXYGEN
-http://iptv6.premium-stv.com:25461/sourceukpro1/6256905511/3188
-#EXTINF:0,PBS
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1742
-#EXTINF:0,REELZ
-http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
-#EXTINF:0,SHOWTIME 
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1740
-#EXTINF:0,SHOWTIME SHOWCASE
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1739
-#EXTINF:0,SPIKE
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1738
-#EXTINF:0,STAR MOVIES
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1737
-#EXTINF:0,SUNDANCE TV
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1736
-#EXTINF:0,SYFY
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1735
-#EXTINF:0,TASTEMADE
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8?fluxustv.m3u8
-#EXTINF:0,TBS 
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1816
-#EXTINF:0,TCM
-http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
-#EXTINF:0,THE CW
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1793
-#EXTINF:0,THE WORKS
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:0,TLC
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1732
-#EXTINF:0,TNT
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1731
-#EXTINF:0,TRAVEL
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1730
-#EXTINF:0,TV LAND HD
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1729
-#EXTINF:0,TV ONE
-http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:0,UNIVISION
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1727
-#EXTINF:0,USA NETWORK
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1727
-#EXTINF:0,VH1
-http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1723
-#EXTINF:0,WESTERN4U
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:0,WE TV
-http://live.savitar.tv/WETV/myStream/chunks.m3u8?nimblesessionid=48512460&wmsAuthS
-#EXTINF:0,Z LIVING
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:0,80'S REWIND
-https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
-#EXTINF:0,4K TV
-http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,ACTION MOVIES
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,ADVENTURE TV
-http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,BET
-https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
-#EXTINF:0,CLASSIC MOVIES
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,COMEDY
-https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
-#EXTINF:0,COMEDY CENTRAL
-https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
-#EXTINF:0,DOG THE BOUNTY HUNTER
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
-#EXTINF:0,HOLLYWOOD MOVIES 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,HOLLYWOOD MOVIES 5
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0,HOLLYWOOD MOVIES 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,HOLLYWOOD MOVIES 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,HOLLYWOOD MOVIES 10
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0,FLIX OF FLURY
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,MOVIE 1
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,MOVIES 2
-http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,MOVIE KINGDOM
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:0,PARAMOUNT MOVIES CHANNEL
-https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
-#EXTINF:0,RETRO TOONS
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,24/7 TOM AND JERRY
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:0,24/7 HORROR
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC alba HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC alba HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4806
+#EXTINF:-1 tvg-id="" tvg-name="UK: BoomeRang" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BoomeRang
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4807
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Greats HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4808
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Crime & Thriller HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4809
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-fi & Horror HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Sci-fi & Horror HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4810
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Premier HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4811
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Disney FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4812
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Atlantic HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY Atlantic HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4813
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Two HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY Two HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4814
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nickelodeon" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nickelodeon
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4815
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nat Geo Wild HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nat Geo Wild HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4816
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ITV 4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4817
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ITV 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4818
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ITV 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4819
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ITV 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4820
+#EXTINF:-1 tvg-id="" tvg-name="UK: History Channel" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: History Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4821
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Junior" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Disney Junior
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4822
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery History" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Discovery History
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4823
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS Reality" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: CBS Reality
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4824
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS Drama" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: CBS Drama
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4825
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS Action" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: CBS Action
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4826
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic Channel" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: National Geographic Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4827
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nick Jr" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nick Jr
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4828
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Discovery Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4829
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Drama FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4830
+#EXTINF:-1 tvg-id="" tvg-name="UK: Watch" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Watch
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4831
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHANNEL 5" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: CHANNEL 5
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4832
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 4 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC 4 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4833
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC-IRELAND" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TLC-IRELAND
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4834
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Action FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4835
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC entertainment HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC entertainment HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4836
+#EXTINF:-1 tvg-id="" tvg-name="UK: Dave" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Dave
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4837
+#EXTINF:-1 tvg-id="" tvg-name="UK: Good Food" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Good Food
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4838
+#EXTINF:-1 tvg-id="" tvg-name="UK: Alibi" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Alibi
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4839
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Hits HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4840
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TLC
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4841
+#EXTINF:-1 tvg-id="" tvg-name="UK: PICK" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: PICK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4842
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Turbo" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Discovery Turbo
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4843
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Science" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Discovery Science
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4844
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Channel 4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4846
+#EXTINF:-1 tvg-id="" tvg-name="UK: 5 USA" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: 5 USA
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4847
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky News HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4848
+#EXTINF:-1 tvg-id="" tvg-name="UK: MuTV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MuTV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4849
+#EXTINF:-1 tvg-id="" tvg-name="UK: LifeTime" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: LifeTime
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4850
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Disney XD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4851
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky One HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4852
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Chelsea TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4853
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC one FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC one FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4854
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC two HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC two HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4855
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC World News HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC World News HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4856
+#EXTINF:-1 tvg-id="" tvg-name="UK: REALLY" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: REALLY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4857
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITVBE" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ITVBE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4858
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Cartoon Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4859
+#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool FC" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Liverpool FC
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4860
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Family HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4861
+#EXTINF:-1 tvg-id="" tvg-name="UK: True Movies 1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: True Movies 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4862
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Cinema Select HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4863
+#EXTINF:-1 tvg-id="" tvg-name="UK: Film 4 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Film 4 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4864
+#EXTINF:-1 tvg-id="" tvg-name="UK: Al Jazeera English FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Al Jazeera English FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4865
+#EXTINF:-1 tvg-id="" tvg-name="UK: Baby TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Baby TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4866
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nicktoons" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nicktoons
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4867
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Base" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Base
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4868
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Hits" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Hits
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4869
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1 Classis" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: VH1 Classis
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4870
+#EXTINF:-1 tvg-id="" tvg-name="UK: TCM (film)" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TCM (film)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4871
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE One" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: RTE One
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4872
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE Two" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: RTE Two
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4873
+#EXTINF:-1 tvg-id="" tvg-name="UK: SONY TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SONY TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4874
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: HBO
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4875
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO Comedy HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: HBO Comedy HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4876
+#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SYFY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4877
+#EXTINF:-1 tvg-id="" tvg-name="UK: Star Gold UK" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Star Gold UK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4878
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Movie" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sony Movie
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4879
+#EXTINF:-1 tvg-id="" tvg-name="UK: Gold TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Gold TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4880
+#EXTINF:-1 tvg-id="" tvg-name="UK: FOX FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: FOX FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4881
+#EXTINF:-1 tvg-id="" tvg-name="UK: More4" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: More4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4882
+#EXTINF:-1 tvg-id="" tvg-name="UK: E!" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: E!
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4883
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4885
+#EXTINF:-1 tvg-id="" tvg-name="UK: INVESTIGATION DISCOVERY" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: INVESTIGATION DISCOVERY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4887
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV OMG" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV OMG
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4888
+#EXTINF:-1 tvg-id="" tvg-name="UK: Yesterday TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Yesterday TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4889
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK (Full HD)" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Racing UK (Full HD)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4890
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Witness" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Witness
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4891
+#EXTINF:-1 tvg-id="" tvg-name="UK: STARZ TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: STARZ TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4892
+#EXTINF:-1 tvg-id="" tvg-name="UK: DRAMA" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: DRAMA
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4893
+#EXTINF:-1 tvg-id="" tvg-name="UK: Star Bharat UK" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Star Bharat UK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4894
+#EXTINF:-1 tvg-id="" tvg-name="UK: Blaze" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Blaze
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4896
+#EXTINF:-1 tvg-id="" tvg-name="UK: Box Hits HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Box Hits HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4897
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viceland" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Viceland
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4898
+#EXTINF:-1 tvg-id="" tvg-name="UK: Kerrang!" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Kerrang!
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4899
+#EXTINF:-1 tvg-id="" tvg-name="UK: Kiss UK" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Kiss UK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4900
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Africa" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Africa
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4901
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: VH1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4902
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoonito" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Cartoonito
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4903
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC CBeebies HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC CBeebies HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4905
+#EXTINF:-1 tvg-id="" tvg-name="UK: Magic TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Magic TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4906
+#EXTINF:-1 tvg-id="" tvg-name="UK: Comedy Central Extra" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Comedy Central Extra
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4907
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Mziki" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Mziki
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4908
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Naija" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Naija
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4909
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Kitoko" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Kitoko
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4910
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Urban" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Urban
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4911
+#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 2" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: EuroSport 2
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4913
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport ESPN HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4914
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS NEWS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4915
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS RACING
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4916
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport Extra 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4917
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport Extra 2
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4918
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport Extra 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4919
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport Extra 4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4920
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 5" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport Extra 5
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4921
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Eir Sport 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4922
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Premier Sports
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4923
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4924
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4925
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BT Sport 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4926
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS PREMIER LEAGUE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4927
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS MAIN EVENT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4928
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS CRICKET FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4929
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS ACTION FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4930
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS GOLF FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4931
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS FOOTBALL FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4932
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS ARENA
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4933
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS F1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4934
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE (IRELAND)" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4935
+#EXTINF:-1 tvg-id="" tvg-name="UK: Free Sports" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Free Sports
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4936
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 2" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Eir Sport 2
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4937
+#EXTINF:-1 tvg-id="" tvg-name="UK: EDGE SPORT HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: EDGE SPORT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4938
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: EUROSPORT 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4939
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: SKY SPORTS MIX
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4940
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Tropical" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Tropical
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6239
+#EXTINF:-1 tvg-id="" tvg-name="UK: Travel" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Travel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6240
+#EXTINF:-1 tvg-id="" tvg-name="UK:Animal Planet" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK:Animal Planet
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6242
+#EXTINF:-1 tvg-id="" tvg-name="UK: Trace Toca" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Trace Toca
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6243
+#EXTINF:-1 tvg-id="" tvg-name="UK: Quest" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Quest
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6244
+#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: London Live
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9905
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nollywood" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nollywood
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9911
+#EXTINF:-1 tvg-id="" tvg-name="UK: Quest Red" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Quest Red
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9915
+#EXTINF:-1 tvg-id="" tvg-name="UK: Real Lives" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Real Lives
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9916
+#EXTINF:-1 tvg-id="" tvg-name="UK: Rishtey" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Rishtey
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9917
+#EXTINF:-1 tvg-id="" tvg-name="UK: ROK TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: ROK TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9918
+#EXTINF:-1 tvg-id="" tvg-name="UK: S4C" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: S4C
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9922
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sab TV" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sab TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9923
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Entertainment (SET)" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sony Entertainment (SET)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9925
+#EXTINF:-1 tvg-id="" tvg-name="UK: spike" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: spike
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9926
+#EXTINF:-1 tvg-id="" tvg-name="UK: Star Jalsha" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Star Jalsha
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9927
+#EXTINF:-1 tvg-id="" tvg-name="UK: Star Plus" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Star Plus
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9928
+#EXTINF:-1 tvg-id="" tvg-name="UK: STV HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: STV HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9929
+#EXTINF:-1 tvg-id="" tvg-name="UK: Talking Pictures HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Talking Pictures HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9930
+#EXTINF:-1 tvg-id="" tvg-name="UK: TG4" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TG4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9931
+#EXTINF:-1 tvg-id="" tvg-name="UK: True Ent" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: True Ent
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9932
+#EXTINF:-1 tvg-id="" tvg-name="UK: TV3 IR HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TV3 IR HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9933
+#EXTINF:-1 tvg-id="" tvg-name="UK: TV5" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: TV5
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9934
+#EXTINF:-1 tvg-id="" tvg-name="UK: Universal Channel HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Universal Channel HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9936
+#EXTINF:-1 tvg-id="" tvg-name="UK: UTV Ireland" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: UTV Ireland
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9937
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIVA" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: VIVA
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9938
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viceland HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Viceland HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9939
+#EXTINF:-1 tvg-id="" tvg-name="UK: W " tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: W 
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9940
+#EXTINF:-1 tvg-id="" tvg-name="UK: Zing" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Zing
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9942
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One Wales" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BBC One Wales
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9943
+#EXTINF:-1 tvg-id="" tvg-name="UK: 4Music" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: 4Music
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9944
+#EXTINF:-1 tvg-id="" tvg-name="UK: 4seven" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: 4seven
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9945
+#EXTINF:-1 tvg-id="" tvg-name="UK: Horse and Country" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Horse and Country
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9904
+#EXTINF:-1 tvg-id="" tvg-name="UK: Motors" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Motors
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9906
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC fight night Pass HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: UFC fight night Pass HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9935
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight PASS" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: UFC Fight PASS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9948
+#EXTINF:-1 tvg-id="" tvg-name="UK: Food Network" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Food Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9898
+#EXTINF:-1 tvg-id="" tvg-name="UK: Fine Living Network" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Fine Living Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9899
+#EXTINF:-1 tvg-id="" tvg-name="UK: H2 HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: H2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9901
+#EXTINF:-1 tvg-id="" tvg-name="UK: Home & Health" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Home & Health
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9902
+#EXTINF:-1 tvg-id="" tvg-name="UK: RT Documentary HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: RT Documentary HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9919
+#EXTINF:-1 tvg-id="" tvg-name="UK: DMAX HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: DMAX HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9946
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nick JUNIOR Too" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Nick JUNIOR Too
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9910
+#EXTINF:-1 tvg-id="" tvg-name="UK: POP" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: POP
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9914
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTEjr" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: RTEjr
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9921
+#EXTINF:-1 tvg-id="" tvg-name="UK: Tiny Pop" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Tiny Pop
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9949
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Modern FHD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky Movies Modern FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9897
+#EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Horror Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9903
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony SET Max" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sony SET Max
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9924
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky cinema Select " tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Sky cinema Select 
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9941
+#EXTINF:-1 tvg-id="" tvg-name="UK: Euronews HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Euronews HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6584
+#EXTINF:-1 tvg-id="" tvg-name="UK: Bloomberg HD" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: Bloomberg HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9896
+#EXTINF:-1 tvg-id="" tvg-name="UK: France 24" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: France 24
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9900
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE News Now" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: RTE News Now
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9920
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Classic" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Classic
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9907
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Dance" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Dance
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9908
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Music" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Music
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9909
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Rocks" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: MTV Rocks
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9947
+#EXTINF:-1 tvg-id="" tvg-name="UK: BET Star" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: BET Star
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4884
+#EXTINF:-1 tvg-id="" tvg-name="UK: DW English" tvg-logo="" group-title="UK ➾ UNITED KINGDOM",UK: DW English
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4886
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV HD" tvg-logo="" group-title="USA ➾ America",US: MTV HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6311
+#EXTINF:-1 tvg-id="" tvg-name="US: VH1 HD" tvg-logo="" group-title="USA ➾ America",US: VH1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6312
+#EXTINF:-1 tvg-id="" tvg-name="US: BET" tvg-logo="" group-title="USA ➾ America",US: BET
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6313
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV LIVE" tvg-logo="" group-title="USA ➾ America",US: MTV LIVE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6314
+#EXTINF:-1 tvg-id="" tvg-name="US: BET HER" tvg-logo="" group-title="USA ➾ America",US: BET HER
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6315
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 1 HD" tvg-logo="" group-title="USA ➾ America",US: TSN 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6316
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 2 HD" tvg-logo="" group-title="USA ➾ America",US: TSN 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6317
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3 HD" tvg-logo="" group-title="USA ➾ America",US: TSN 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6318
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 4 HD" tvg-logo="" group-title="USA ➾ America",US: TSN 4 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6319
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5 HD" tvg-logo="" group-title="USA ➾ America",US: TSN 5 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6320
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="" group-title="USA ➾ America",US: TBS HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6321
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz West" tvg-logo="" group-title="USA ➾ America",US: Starz West
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6322
+#EXTINF:-1 tvg-id="" tvg-name="US: GRIT TV MOVIES" tvg-logo="" group-title="USA ➾ America",US: GRIT TV MOVIES
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6323
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Edge HD" tvg-logo="" group-title="USA ➾ America",US: Starz Edge HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6324
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz East" tvg-logo="" group-title="USA ➾ America",US: Starz East
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6325
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Comedy" tvg-logo="" group-title="USA ➾ America",US: Starz Comedy
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6326
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema" tvg-logo="" group-title="USA ➾ America",US: Starz Cinema
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6327
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime 2 HD" tvg-logo="" group-title="USA ➾ America",US: Showtime 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6328
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime HD" tvg-logo="" group-title="USA ➾ America",US: Showtime HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6329
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network HD" tvg-logo="" group-title="USA ➾ America",US: NFL Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6330
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN HD" tvg-logo="" group-title="USA ➾ America",US: NBCSN HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6331
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB HD" tvg-logo="" group-title="USA ➾ America",US: MLB HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6333
+#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JR HD" tvg-logo="" group-title="USA ➾ America",US: DISNEY JR HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6334
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 COMEDY" tvg-logo="" group-title="USA ➾ America",US: HBO 2 COMEDY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6335
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK HD" tvg-logo="" group-title="USA ➾ America",US: HALLMARK HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6336
+#EXTINF:-1 tvg-id="" tvg-name="US: FX HD" tvg-logo="" group-title="USA ➾ America",US: FX HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6337
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News" tvg-logo="" group-title="USA ➾ America",US: Fox News
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6338
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore East" tvg-logo="" group-title="USA ➾ America",US: Starz Encore East
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6339
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore HD" tvg-logo="" group-title="USA ➾ America",US: Starz Encore HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6340
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax East" tvg-logo="" group-title="USA ➾ America",US: Cinemax East
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6341
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax ActionMax" tvg-logo="" group-title="USA ➾ America",US: Cinemax ActionMax
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6342
+#EXTINF:-1 tvg-id="" tvg-name="US: Bravo HD" tvg-logo="" group-title="USA ➾ America",US: Bravo HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6343
+#EXTINF:-1 tvg-id="" tvg-name="US: Big Ten Network HD" tvg-logo="" group-title="USA ➾ America",US: Big Ten Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6344
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News HD" tvg-logo="" group-title="USA ➾ America",US: ABC News HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6346
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC" tvg-logo="" group-title="USA ➾ America",US: TLC
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6347
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE" tvg-logo="" group-title="USA ➾ America",US: HBO ZONE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6349
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO HD" tvg-logo="" group-title="USA ➾ America",US: HBO HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6350
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV" tvg-logo="" group-title="USA ➾ America",US: NBA TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6351
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD" tvg-logo="" group-title="USA ➾ America",US: CNN FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6352
+#EXTINF:-1 tvg-id="" tvg-name="US: CBSN News" tvg-logo="" group-title="USA ➾ America",US: CBSN News
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6353
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News HD" tvg-logo="" group-title="USA ➾ America",US: ABC News HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6354
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1" tvg-logo="" group-title="USA ➾ America",US: ESPN 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6355
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY CHANNEL HD" tvg-logo="" group-title="USA ➾ America",US: DISCOVERY CHANNEL HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6356
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="" group-title="USA ➾ America",US: TNT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6358
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS News" tvg-logo="" group-title="USA ➾ America",US: CBS News
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6359
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS" tvg-logo="" group-title="USA ➾ America",US: TBS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6360
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO HD" tvg-logo="" group-title="USA ➾ America",US: NAT GEO HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6361
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Now" tvg-logo="" group-title="USA ➾ America",US: NFL Now
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6362
+#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET" tvg-logo="" group-title="USA ➾ America",US: ANIMAL PLANET
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6363
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY SCIENCE HD" tvg-logo="" group-title="USA ➾ America",US: DISCOVERY SCIENCE HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6364
+#EXTINF:-1 tvg-id="" tvg-name="US: TRAVEL CHANNEL" tvg-logo="" group-title="USA ➾ America",US: TRAVEL CHANNEL
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6365
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="USA ➾ America",US: ESPN 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6366
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 11 HD" tvg-logo="" group-title="USA ➾ America",US: CW 11 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6367
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network" tvg-logo="" group-title="USA ➾ America",US: USA Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6368
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS HD-US" tvg-logo="" group-title="USA ➾ America",US: CBS HD-US
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6369
+#EXTINF:-1 tvg-id="" tvg-name="US: LIFETIME HD" tvg-logo="" group-title="USA ➾ America",US: LIFETIME HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6370
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3" tvg-logo="" group-title="USA ➾ America",US: ESPN 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6371
+#EXTINF:-1 tvg-id="" tvg-name="US: The Weather Channel" tvg-logo="" group-title="USA ➾ America",US: The Weather Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6373
+#EXTINF:-1 tvg-id="" tvg-name="US: C-SPAN 2 HD" tvg-logo="" group-title="USA ➾ America",US: C-SPAN 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6375
+#EXTINF:-1 tvg-id="" tvg-name="US: C-SPAN 3 HD" tvg-logo="" group-title="USA ➾ America",US: C-SPAN 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6376
+#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK" tvg-logo="" group-title="USA ➾ America",US: FOOD NETWORK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6377
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax 5 Star Max" tvg-logo="" group-title="USA ➾ America",US: Cinemax 5 Star Max
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6378
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network HD" tvg-logo="" group-title="USA ➾ America",US: Cartoon Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6379
+#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon" tvg-logo="" group-title="USA ➾ America",US: Nickelodeon
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6380
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY HD" tvg-logo="" group-title="USA ➾ America",US: SYFY HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6381
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moremax" tvg-logo="" group-title="USA ➾ America",US: Cinemax Moremax
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6382
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY VELOCITY" tvg-logo="" group-title="USA ➾ America",US: DISCOVERY VELOCITY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6383
+#EXTINF:-1 tvg-id="" tvg-name="US: E! Network HD" tvg-logo="" group-title="USA ➾ America",US: E! Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6384
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC WORLD NEWS" tvg-logo="" group-title="USA ➾ America",US: BBC WORLD NEWS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6385
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN NEWS" tvg-logo="" group-title="USA ➾ America",US: ESPN NEWS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6386
+#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY CENTRAL" tvg-logo="" group-title="USA ➾ America",US: COMEDY CENTRAL
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6387
+#EXTINF:-1 tvg-id="" tvg-name="US: TRU TV" tvg-logo="" group-title="USA ➾ America",US: TRU TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6388
+#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS HD" tvg-logo="" group-title="USA ➾ America",US: TENNIS HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6389
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase" tvg-logo="" group-title="USA ➾ America",US: Showtime Showcase
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6390
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Extreme HD" tvg-logo="" group-title="USA ➾ America",US: Showtime Extreme HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6391
+#EXTINF:-1 tvg-id="" tvg-name="US: OWN HD" tvg-logo="" group-title="USA ➾ America",US: OWN HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6392
+#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS" tvg-logo="" group-title="USA ➾ America",US: NICKTOONS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6393
+#EXTINF:-1 tvg-id="" tvg-name="US: NICK HD (kids)" tvg-logo="" group-title="USA ➾ America",US: NICK HD (kids)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6394
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network HD" tvg-logo="" group-title="USA ➾ America",US: NFL Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6395
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV HD" tvg-logo="" group-title="USA ➾ America",US: HGTV HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6396
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family HD" tvg-logo="" group-title="USA ➾ America",US: HBO Family HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6397
+#EXTINF:-1 tvg-id="" tvg-name="US: GSN TV" tvg-logo="" group-title="USA ➾ America",US: GSN TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6398
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL NETWORK HD" tvg-logo="" group-title="USA ➾ America",US: NHL NETWORK HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6399
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC HD" tvg-logo="" group-title="USA ➾ America",US: CNBC HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6400
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC HD" tvg-logo="" group-title="USA ➾ America",US: MSNBC HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6401
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SOCCER PLUS HD" tvg-logo="" group-title="USA ➾ America",US: FOX SOCCER PLUS HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6402
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX DEPORTES HD" tvg-logo="" group-title="USA ➾ America",US: FOX DEPORTES HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6403
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV LEAGUE" tvg-logo="" group-title="USA ➾ America",US: NBA TV LEAGUE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6404
+#EXTINF:-1 tvg-id="" tvg-name="US: CMT HD" tvg-logo="" group-title="USA ➾ America",US: CMT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6405
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF HD" tvg-logo="" group-title="USA ➾ America",US: NBC GOLF HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6406
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Channel HD" tvg-logo="" group-title="USA ➾ America",US: Disney Channel HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6407
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD HD" tvg-logo="" group-title="USA ➾ America",US: Disney XD HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6408
+#EXTINF:-1 tvg-id="" tvg-name="US: Reelz HD" tvg-logo="" group-title="USA ➾ America",US: Reelz HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6409
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland HD" tvg-logo="" group-title="USA ➾ America",US: Viceland HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6410
+#EXTINF:-1 tvg-id="" tvg-name="US: Destination America HD" tvg-logo="" group-title="USA ➾ America",US: Destination America HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6411
+#EXTINF:-1 tvg-id="" tvg-name="US: Freeform Channel" tvg-logo="" group-title="USA ➾ America",US: Freeform Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6412
+#EXTINF:-1 tvg-id="" tvg-name="US: BUZZER TV" tvg-logo="" group-title="USA ➾ America",US: BUZZER TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6413
+#EXTINF:-1 tvg-id="" tvg-name="US: Universal Kids HD" tvg-logo="" group-title="USA ➾ America",US: Universal Kids HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6414
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies&Mysteries HD" tvg-logo="" group-title="USA ➾ America",US: Hallmark Movies&Mysteries HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6415
+#EXTINF:-1 tvg-id="" tvg-name="US: SportsNet One HD" tvg-logo="" group-title="USA ➾ America",US: SportsNet One HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6416
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sport 1 HD (FS1)" tvg-logo="" group-title="USA ➾ America",US: Fox Sport 1 HD (FS1)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6417
+#EXTINF:-1 tvg-id="" tvg-name="US: Tsn-Sport 5 HD" tvg-logo="" group-title="USA ➾ America",US: Tsn-Sport 5 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6418
+#EXTINF:-1 tvg-id="" tvg-name="US: Tsn-Sport 4 HD" tvg-logo="" group-title="USA ➾ America",US: Tsn-Sport 4 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6419
+#EXTINF:-1 tvg-id="" tvg-name="US: Tsn-Sport 3 HD" tvg-logo="" group-title="USA ➾ America",US: Tsn-Sport 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6420
+#EXTINF:-1 tvg-id="" tvg-name="US: Tsn-Sport 2 HD" tvg-logo="" group-title="USA ➾ America",US: Tsn-Sport 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6421
+#EXTINF:-1 tvg-id="" tvg-name="US: Tsn-Sport 1 HD" tvg-logo="" group-title="USA ➾ America",US: Tsn-Sport 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6422
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sport 2 HD (FS2)" tvg-logo="" group-title="USA ➾ America",US: Fox Sport 2 HD (FS2)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6423
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS HD" tvg-logo="" group-title="USA ➾ America",US: beIN SPORTS HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6424
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="US: Comet HD" tvg-logo="http://img.tvcl.xyz/usa/comet.png" group-title="USA",US: Comet HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14781
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Life HD" tvg-logo="http://img.tvcl.xyz/usa/discovery.png" group-title="USA",US: Discovery Life HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14782
+#EXTINF:-1 tvg-id="" tvg-name="US: Ginx eSports HD" tvg-logo="http://img.tvcl.xyz/usa/ginx.png" group-title="USA",US: Ginx eSports HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14783
+#EXTINF:-1 tvg-id="" tvg-name="US: Logo HD" tvg-logo="http://img.tvcl.xyz/usa/logo.png" group-title="USA",US: Logo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14784
+#EXTINF:-1 tvg-id="" tvg-name="US: Paramount HD" tvg-logo="http://img.tvcl.xyz/usa/paramount.png" group-title="USA",US: Paramount HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14785
+#EXTINF:-1 tvg-id="" tvg-name="US: TCM HD" tvg-logo="http://img.tvcl.xyz/usa/tcm.png" group-title="USA",US: TCM HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14786
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Soccer Plus HD" tvg-logo="http://img.tvcl.xyz/usa/foxsoccer.png" group-title="USA",US: Fox Soccer Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14787
+#EXTINF:-1 tvg-id="" tvg-name="US: Bet Her HD" tvg-logo="http://img.tvcl.xyz/usa/bet.png" group-title="USA",US: Bet Her HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14788
+#EXTINF:-1 tvg-id="" tvg-name="US: Bet Jams HD" tvg-logo="http://img.tvcl.xyz/usa/bet.png" group-title="USA",US: Bet Jams HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14789
+#EXTINF:-1 tvg-id="" tvg-name="US: Bet Soul HD" tvg-logo="http://img.tvcl.xyz/usa/bet.png" group-title="USA",US: Bet Soul HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14790
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV 2 HD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14791
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV Classic HD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV Classic HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14792
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV Live HD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV Live HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14793
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV U HD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV U HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14794
+#EXTINF:-1 tvg-id="" tvg-name="US: Boomerang HD" tvg-logo="http://img.tvcl.xyz/usa/boomrang.png" group-title="USA",US: Boomerang HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14795
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick Music HD" tvg-logo="http://img.tvcl.xyz/usa/nickmusic.png" group-title="USA",US: Nick Music HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14796
+#EXTINF:-1 tvg-id="" tvg-name="US: Teen Nick HD" tvg-logo="http://img.tvcl.xyz/usa/teennick.png" group-title="USA",US: Teen Nick HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14797
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN PLUS HD" tvg-logo="http://img.tvcl.xyz/usa/espn.png" group-title="USA",US: ESPN PLUS HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14798
+#EXTINF:-1 tvg-id="" tvg-name="US: American Heroes HD" tvg-logo="http://img.tvcl.xyz/usa/americanh.png" group-title="USA",US: American Heroes HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14799
+#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet HD" tvg-logo="http://img.tvcl.xyz/usa/animalp.png" group-title="USA",US: Animal Planet HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14800
+#EXTINF:-1 tvg-id="" tvg-name="US: Baby TV HD" tvg-logo="http://img.tvcl.xyz/usa/babytv.png" group-title="USA",US: Baby TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14801
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC America HD" tvg-logo="http://img.tvcl.xyz/usa/bbc.png" group-title="USA",US: BBC America HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14802
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC HD" tvg-logo="http://img.tvcl.xyz/usa/bbc.png" group-title="USA",US: BBC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14803
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 1 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 1 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14804
+#EXTINF:-1 tvg-id="" tvg-name="US: Fishing SP1 HD" tvg-logo="http://img.tvcl.xyz/usa/fishing.png" group-title="USA",US: Fishing SP1 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14805
+#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" tvg-logo="http://img.tvcl.xyz/usa/bet.png" group-title="USA",US: BET HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14806
+#EXTINF:-1 tvg-id="" tvg-name="US: Bloomberg TV HD" tvg-logo="http://img.tvcl.xyz/usa/bloomenberg.png" group-title="USA",US: Bloomberg TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14807
+#EXTINF:-1 tvg-id="" tvg-name="US: Bravo HD" tvg-logo="http://img.tvcl.xyz/usa/bravo.png" group-title="USA",US: Bravo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14808
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN HD" tvg-logo="http://img.tvcl.xyz/usa/btn.png" group-title="USA",US: BTN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14809
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network HD" tvg-logo="http://img.tvcl.xyz/usa/cn.png" group-title="USA",US: Cartoon Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14810
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network HD" tvg-logo="http://img.tvcl.xyz/usa/cn.png" group-title="USA",US: Cartoon Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14811
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS 5 KPHO HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS 5 KPHO HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14812
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Albuquerque HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Albuquerque HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14813
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Baltimore HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Baltimore HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14814
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Boston HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Boston HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14815
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Columbus HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Columbus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14816
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Kansas HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Kansas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14817
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS KTVT HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS KTVT HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14818
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Los Angeles HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14819
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Los Angeles HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14820
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Miami HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Miami HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14821
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS New Orleans HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS New Orleans HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14822
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS New York HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS New York HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14823
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS New York Area HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS New York Area HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14824
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Philadelphia HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Philadelphia HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14825
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS San Fransisco HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS San Fransisco HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14826
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS SN HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS SN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14827
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports News HQ HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Sports News HQ HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14828
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Tampa HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Tampa HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14829
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Washington HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Washington HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14830
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Wisconsin HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS Wisconsin HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14831
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS WKMG Orlando HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS WKMG Orlando HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14832
+#EXTINF:-1 tvg-id="" tvg-name="US: Cheddar HD" tvg-logo="http://img.tvcl.xyz/usa/cheddar.png" group-title="USA",US: Cheddar HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14833
+#EXTINF:-1 tvg-id="" tvg-name="US: Chelsea TV HD HD" tvg-logo="http://img.tvcl.xyz/usa/chelsea.png" group-title="USA",US: Chelsea TV HD HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14834
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax HD" tvg-logo="http://img.tvcl.xyz/usa/cinemax.png" group-title="USA",US: Cinemax HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14835
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Actionmax HD" tvg-logo="http://img.tvcl.xyz/usa/cinemax.png" group-title="USA",US: Cinemax Actionmax HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14836
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moremax HD" tvg-logo="http://img.tvcl.xyz/usa/cinemax.png" group-title="USA",US: Cinemax Moremax HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14837
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax West HD" tvg-logo="http://img.tvcl.xyz/usa/cinemax.png" group-title="USA",US: Cinemax West HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14838
+#EXTINF:-1 tvg-id="" tvg-name="US: CMT HD" tvg-logo="http://img.tvcl.xyz/usa/cmt.png" group-title="USA",US: CMT HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14839
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC HD" tvg-logo="http://img.tvcl.xyz/usa/cnbc.png" group-title="USA",US: CNBC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14840
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC World HD" tvg-logo="http://img.tvcl.xyz/usa/cnbc.png" group-title="USA",US: CNBC World HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14841
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN HD" tvg-logo="http://img.tvcl.xyz/usa/cnn.png" group-title="USA",US: CNN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14842
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN HD" tvg-logo="http://img.tvcl.xyz/usa/cnn.png" group-title="USA",US: CNN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14843
+#EXTINF:-1 tvg-id="" tvg-name="US: Comedy Central HD" tvg-logo="http://img.tvcl.xyz/usa/comedycentral.png" group-title="USA",US: Comedy Central HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14844
+#EXTINF:-1 tvg-id="" tvg-name="US: Cooking Channel HD" tvg-logo="http://img.tvcl.xyz/usa/cooking.png" group-title="USA",US: Cooking Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14845
+#EXTINF:-1 tvg-id="" tvg-name="US: Cozi HD" tvg-logo="http://img.tvcl.xyz/usa/cozi.png" group-title="USA",US: Cozi HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14846
+#EXTINF:-1 tvg-id="" tvg-name="US: Crime & Investigation HD" tvg-logo="http://img.tvcl.xyz/usa/ci.png" group-title="USA",US: Crime & Investigation HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14847
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN SN Boston HD" tvg-logo="http://img.tvcl.xyz/usa/cnn.png" group-title="USA",US: CSN SN Boston HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14848
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN SN Cleveland WOIO HD" tvg-logo="http://img.tvcl.xyz/usa/cnn.png" group-title="USA",US: CSN SN Cleveland WOIO HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14849
+#EXTINF:-1 tvg-id="" tvg-name="US: CW HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: CW HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14850
+#EXTINF:-1 tvg-id="" tvg-name="US: CW Chicago HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: CW Chicago HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14851
+#EXTINF:-1 tvg-id="" tvg-name="US: CW Philadelphia HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: CW Philadelphia HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14852
+#EXTINF:-1 tvg-id="" tvg-name="US: CW San Fransisco HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: CW San Fransisco HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14853
+#EXTINF:-1 tvg-id="" tvg-name="US: CW Tampa HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: CW Tampa HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14854
+#EXTINF:-1 tvg-id="" tvg-name="US: Destination America HD" tvg-logo="http://img.tvcl.xyz/usa/damerica.png" group-title="USA",US: Destination America HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14855
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel HD" tvg-logo="http://img.tvcl.xyz/usa/discovery.png" group-title="USA",US: Discovery Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14856
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science HD" tvg-logo="http://img.tvcl.xyz/usa/discoverys.png" group-title="USA",US: Discovery Science HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14857
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Channel HD" tvg-logo="http://img.tvcl.xyz/usa/dc.png" group-title="USA",US: Disney Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14858
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney JR HD" tvg-logo="http://img.tvcl.xyz/usa/dj.png" group-title="USA",US: Disney JR HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14859
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD HD" tvg-logo="http://img.tvcl.xyz/usa/xd.png" group-title="USA",US: Disney XD HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14860
+#EXTINF:-1 tvg-id="" tvg-name="US: Fishing Sp2 HD" tvg-logo="http://img.tvcl.xyz/usa/fishing.png" group-title="USA",US: Fishing Sp2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14861
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY HD" tvg-logo="http://img.tvcl.xyz/usa/diy.png" group-title="USA",US: DIY HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14862
+#EXTINF:-1 tvg-id="" tvg-name="US: E! Entertainment HD" tvg-logo="http://img.tvcl.xyz/usa/e.png" group-title="USA",US: E! Entertainment HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14863
+#EXTINF:-1 tvg-id="" tvg-name="US: Eleven Sports Network HD" tvg-logo="http://img.tvcl.xyz/usa/eleven.png" group-title="USA",US: Eleven Sports Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14864
+#EXTINF:-1 tvg-id="" tvg-name="US: Epix HD" tvg-logo="http://img.tvcl.xyz/usa/epix.png" group-title="USA",US: Epix HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14865
+#EXTINF:-1 tvg-id="" tvg-name="US: Epix 2 HD" tvg-logo="http://img.tvcl.xyz/usa/epix.png" group-title="USA",US: Epix 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14866
+#EXTINF:-1 tvg-id="" tvg-name="US: Fantasy HD" tvg-logo="http://img.tvcl.xyz/usa/fantasy.png" group-title="USA",US: Fantasy HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14867
+#EXTINF:-1 tvg-id="" tvg-name="US: Fightnet HD" tvg-logo="http://img.tvcl.xyz/usa/fightnetwork.png" group-title="USA",US: Fightnet HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14868
+#EXTINF:-1 tvg-id="" tvg-name="US: Food Network HD" tvg-logo="http://img.tvcl.xyz/usa/foodnetwork.png" group-title="USA",US: Food Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14869
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 10 KSAZ HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 10 KSAZ HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14870
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 13 KSTU HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 13 KSTU HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14871
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 29 Philadelphia HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 29 Philadelphia HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14872
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 4 Kansas HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 4 Kansas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14873
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 47 WMSN HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 47 WMSN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14874
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox 5 NY HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox 5 NY HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14875
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Atlanta HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Atlanta HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14876
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Atlanta HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Atlanta HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14877
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Baltimore HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Baltimore HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14878
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Bufalo HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Bufalo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14879
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Business Network HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Business Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14880
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Chicago HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Chicago HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14881
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Cleveland WJW HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Cleveland WJW HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14882
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox College Sports Atlantic HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox College Sports Atlantic HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14883
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Indianapolis HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Indianapolis HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14884
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Jacksonville HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Jacksonville HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14885
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox KDFW HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox KDFW HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14886
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox KTVU HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox KTVU HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14887
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Los Angeles HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14888
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Miami HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Miami HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14889
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox New Orleans HD" tvg-logo="http://img.tvcl.xyz/usa/foxnews.png" group-title="USA",US: Fox New Orleans HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14890
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox New York HD" tvg-logo="http://img.tvcl.xyz/usa/foxnews.png" group-title="USA",US: Fox New York HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14891
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News HD" tvg-logo="http://img.tvcl.xyz/usa/foxnews.png" group-title="USA",US: Fox News HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14892
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Oakland HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Oakland HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14893
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Portland HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: Fox Portland HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14894
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Soccer HD" tvg-logo="http://img.tvcl.xyz/usa/foxsoccer.png" group-title="USA",US: Fox Soccer HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14895
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SUN HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports SUN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14896
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Carolinas HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Carolinas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14897
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Tenness HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Tenness HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14898
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohaio HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Ohaio HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14899
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Detroit HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Detroit HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14900
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports indiana plus HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports indiana plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14901
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports FS2 HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports FS2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14902
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Florida HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Florida HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14903
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Indiana HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Indiana HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14904
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Kansas HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Kansas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14905
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Oklahoma HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Oklahoma HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14906
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Ohio HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14907
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports FS1 HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports FS1 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14908
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southeast HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Southeast HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14909
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southwest HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Southwest HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14910
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Tampa HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Tampa HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14911
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports West HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports West HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14912
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Wisconsin HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: Fox Sports Wisconsin HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14913
+#EXTINF:-1 tvg-id="" tvg-name="US: FreeForm HD" tvg-logo="http://img.tvcl.xyz/usa/freeform.png" group-title="USA",US: FreeForm HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14914
+#EXTINF:-1 tvg-id="" tvg-name="US: FSN HD" tvg-logo="http://img.tvcl.xyz/usa/foxsports.png" group-title="USA",US: FSN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14915
+#EXTINF:-1 tvg-id="" tvg-name="US: Fuse HD" tvg-logo="http://img.tvcl.xyz/usa/fuse.png" group-title="USA",US: Fuse HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14916
+#EXTINF:-1 tvg-id="" tvg-name="US: Fusion HD" tvg-logo="http://img.tvcl.xyz/usa/fusion.png" group-title="USA",US: Fusion HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14917
+#EXTINF:-1 tvg-id="" tvg-name="US: FX HD" tvg-logo="http://img.tvcl.xyz/usa/fx.png" group-title="USA",US: FX HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14918
+#EXTINF:-1 tvg-id="" tvg-name="US: FXM HD" tvg-logo="http://img.tvcl.xyz/usa/fxm.png" group-title="USA",US: FXM HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14919
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX HD" tvg-logo="http://img.tvcl.xyz/usa/fxx.png" group-title="USA",US: FXX HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14920
+#EXTINF:-1 tvg-id="" tvg-name="US: FYI HD" tvg-logo="http://img.tvcl.xyz/usa/fyi.png" group-title="USA",US: FYI HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14921
+#EXTINF:-1 tvg-id="" tvg-name="US: Gol TV HD" tvg-logo="http://img.tvcl.xyz/usa/goltv.png" group-title="USA",US: Gol TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14922
+#EXTINF:-1 tvg-id="" tvg-name="US: Golf Channel HD" tvg-logo="http://img.tvcl.xyz/usa/golf.png" group-title="USA",US: Golf Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14923
+#EXTINF:-1 tvg-id="" tvg-name="US: GSN HD" tvg-logo="http://img.tvcl.xyz/usa/gsn.png" group-title="USA",US: GSN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14924
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Drama HD" tvg-logo="http://img.tvcl.xyz/usa/hallmark.png" group-title="USA",US: Hallmark Drama HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14925
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark HD" tvg-logo="http://img.tvcl.xyz/usa/hallmark.png" group-title="USA",US: Hallmark HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14926
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies & Mysteries HD" tvg-logo="http://img.tvcl.xyz/usa/hallmark.png" group-title="USA",US: Hallmark Movies & Mysteries HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14927
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 HD" tvg-logo="http://img.tvcl.xyz/usa/hbo2.png" group-title="USA",US: HBO 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14928
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Comedy HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO Comedy HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14929
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO East HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO East HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14930
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family HD" tvg-logo="http://img.tvcl.xyz/usa/hbofamily.png" group-title="USA",US: HBO Family HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14931
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature East HD" tvg-logo="http://img.tvcl.xyz/usa/hbosignature.png" group-title="USA",US: HBO Signature East HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14932
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Zone HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO Zone HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14933
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV HD" tvg-logo="http://img.tvcl.xyz/usa/hgtv.png" group-title="USA",US: HGTV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14934
+#EXTINF:-1 tvg-id="" tvg-name="US: History HD" tvg-logo="http://img.tvcl.xyz/usa/history.png" group-title="USA",US: History HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14935
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" tvg-logo="http://img.tvcl.xyz/usa/ifc.png" group-title="USA",US: IFC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14936
+#EXTINF:-1 tvg-id="" tvg-name="US: Inspirational HD" tvg-logo="http://img.tvcl.xyz/usa/insp.png" group-title="USA",US: Inspirational HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14937
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery HD" tvg-logo="http://img.tvcl.xyz/usa/id.png" group-title="USA",US: Investigation Discovery HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14938
+#EXTINF:-1 tvg-id="" tvg-name="US: KICU HD" tvg-logo="http://img.tvcl.xyz/usa/kicutv.png" group-title="USA",US: KICU HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14939
+#EXTINF:-1 tvg-id="" tvg-name="US: KOB HD" tvg-logo="http://img.tvcl.xyz/usa/kob.png" group-title="USA",US: KOB HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14940
+#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime HD" tvg-logo="http://img.tvcl.xyz/usa/lifetime.png" group-title="USA",US: Lifetime HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14941
+#EXTINF:-1 tvg-id="" tvg-name="US: Liftime Movies HD" tvg-logo="http://img.tvcl.xyz/usa/lifetime.png" group-title="USA",US: Liftime Movies HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14942
+#EXTINF:-1 tvg-id="" tvg-name="US: Longhorn Network HD" tvg-logo="http://img.tvcl.xyz/usa/ln.png" group-title="USA",US: Longhorn Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14943
+#EXTINF:-1 tvg-id="" tvg-name="US: Mav TV HD" tvg-logo="http://img.tvcl.xyz/usa/mavtv.png" group-title="USA",US: Mav TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14944
+#EXTINF:-1 tvg-id="" tvg-name="US: Mav TV HD" tvg-logo="http://img.tvcl.xyz/usa/mavtv.png" group-title="USA",US: Mav TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14945
+#EXTINF:-1 tvg-id="" tvg-name="US: Motorsport HD" tvg-logo="http://img.tvcl.xyz/usa/motorsport.png" group-title="USA",US: Motorsport HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14946
+#EXTINF:-1 tvg-id="" tvg-name="US: MSG HD" tvg-logo="http://img.tvcl.xyz/usa/msg.png" group-title="USA",US: MSG HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14947
+#EXTINF:-1 tvg-id="" tvg-name="US: MSG 2 HD" tvg-logo="http://img.tvcl.xyz/usa/msg.png" group-title="USA",US: MSG 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14948
+#EXTINF:-1 tvg-id="" tvg-name="US: MSG 2 Plus HD" tvg-logo="http://img.tvcl.xyz/usa/msg.png" group-title="USA",US: MSG 2 Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14949
+#EXTINF:-1 tvg-id="" tvg-name="US: MSG Plus HD" tvg-logo="http://img.tvcl.xyz/usa/msg.png" group-title="USA",US: MSG Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14950
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC HD" tvg-logo="http://img.tvcl.xyz/usa/msnbc.png" group-title="USA",US: MSNBC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14951
+#EXTINF:-1 tvg-id="" tvg-name="US: Nat Geo HD" tvg-logo="http://img.tvcl.xyz/usa/natgeo.png" group-title="USA",US: Nat Geo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14952
+#EXTINF:-1 tvg-id="" tvg-name="US: Nat Geo Wild HD" tvg-logo="http://img.tvcl.xyz/usa/natgeowild.png" group-title="USA",US: Nat Geo Wild HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14953
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV HD" tvg-logo="http://img.tvcl.xyz/usa/nba.png" group-title="USA",US: NBA TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14954
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 10 Philadelphia HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC 10 Philadelphia HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14955
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 12 KPNX HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC 12 KPNX HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14956
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Baltimore HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Baltimore HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14957
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Bufalo HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Bufalo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14958
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Carolinas HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Carolinas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14959
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Chicago HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Chicago HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14960
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Kansas HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Kansas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14961
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC KSL HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC KSL HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14962
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC KXAS HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC KXAS HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14963
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Los Angeles HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14964
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Michigan HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Michigan HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14965
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC New Orleans HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC New Orleans HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14966
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC New York HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC New York HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14967
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Portland HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Portland HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14968
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC San Fransisco HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC San Fransisco HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14969
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Bay Area HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Bay Area HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14970
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Bay Area Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Bay Area Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14971
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN California HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN California HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14972
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Chicago HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Chicago HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14973
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Chicago HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Chicago HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14974
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Chicago Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Chicago Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14975
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14976
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Northwest HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Northwest HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14977
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Philadelphia HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Philadelphia HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14978
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Philadelphia Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Philadelphia Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14979
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Washington HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Washington HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14980
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SN Washington Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC SN Washington Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14981
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Universo HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Universo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14982
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Washington HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14983
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC WESH Orlando HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC WESH Orlando HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14984
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC WLBT HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC WLBT HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14985
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC WMTV HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC WMTV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14986
+#EXTINF:-1 tvg-id="" tvg-name="US: NCB Jacksonville HD" tvg-logo="http://img.tvcl.xyz/usa/ncb.png" group-title="USA",US: NCB Jacksonville HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14987
+#EXTINF:-1 tvg-id="" tvg-name="US: NECN HD" tvg-logo="http://img.tvcl.xyz/usa/necn.png" group-title="USA",US: NECN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14988
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN Boston HD" tvg-logo="http://img.tvcl.xyz/usa/nesn.png" group-title="USA",US: NESN Boston HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14989
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN Maine HD" tvg-logo="http://img.tvcl.xyz/usa/nesn.png" group-title="USA",US: NESN Maine HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14990
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN Maine Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nesn.png" group-title="USA",US: NESN Maine Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14991
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN Plus HD" tvg-logo="http://img.tvcl.xyz/usa/nesn.png" group-title="USA",US: NESN Plus HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14992
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Redzone HD" tvg-logo="http://img.tvcl.xyz/usa/nfl.png" group-title="USA",US: NFL Redzone HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14993
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network HD" tvg-logo="http://img.tvcl.xyz/usa/nhl.png" group-title="USA",US: NHL Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14994
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick JR HD" tvg-logo="http://img.tvcl.xyz/usa/nickjr.png" group-title="USA",US: Nick JR HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14995
+#EXTINF:-1 tvg-id="" tvg-name="US: Nicktoons HD" tvg-logo="http://img.tvcl.xyz/usa/nicktoons.png" group-title="USA",US: Nicktoons HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14996
+#EXTINF:-1 tvg-id="" tvg-name="US: Olympic Channel HD" tvg-logo="http://img.tvcl.xyz/usa/olympic.png" group-title="USA",US: Olympic Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14997
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor HD" tvg-logo="http://img.tvcl.xyz/usa/outdoor.png" group-title="USA",US: Outdoor HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14998
+#EXTINF:-1 tvg-id="" tvg-name="US: Outside HD" tvg-logo="http://img.tvcl.xyz/usa/outside.png" group-title="USA",US: Outside HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/14999
+#EXTINF:-1 tvg-id="" tvg-name="US: OWN HD" tvg-logo="http://img.tvcl.xyz/usa/own.png" group-title="USA",US: OWN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15000
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Arizona HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Arizona HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15001
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Bay Area HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Bay Area HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15002
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15003
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Los Angeles HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15004
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Mountain HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Mountain HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15005
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Oregon HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Oregon HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15006
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac 12 Washington HD" tvg-logo="http://img.tvcl.xyz/usa/pac12.png" group-title="USA",US: Pac 12 Washington HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15007
+#EXTINF:-1 tvg-id="" tvg-name="US: People TV HD" tvg-logo="http://img.tvcl.xyz/usa/peopletv.png" group-title="USA",US: People TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15008
+#EXTINF:-1 tvg-id="" tvg-name="US: POP HD" tvg-logo="http://img.tvcl.xyz/usa/pop.png" group-title="USA",US: POP HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15009
+#EXTINF:-1 tvg-id="" tvg-name="US: Reelz HD" tvg-logo="http://img.tvcl.xyz/usa/reelz.png" group-title="USA",US: Reelz HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15010
+#EXTINF:-1 tvg-id="" tvg-name="US: Revolt HD" tvg-logo="http://img.tvcl.xyz/usa/revolt.png" group-title="USA",US: Revolt HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15011
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15012
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime 2 HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15013
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Beyond HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime Beyond HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15014
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Extreme HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime Extreme HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15015
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime Showcase HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15016
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime WEST HD" tvg-logo="http://img.tvcl.xyz/usa/showtime.png" group-title="USA",US: Showtime WEST HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15017
+#EXTINF:-1 tvg-id="" tvg-name="US: Sony HD" tvg-logo="http://img.tvcl.xyz/usa/sonye.png" group-title="USA",US: Sony HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15018
+#EXTINF:-1 tvg-id="" tvg-name="US: Sportsman HD" tvg-logo="http://img.tvcl.xyz/usa/sportsman.png" group-title="USA",US: Sportsman HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15019
+#EXTINF:-1 tvg-id="" tvg-name="US: Sportsnet Y HD" tvg-logo="http://img.tvcl.xyz/usa/sportsnet.png" group-title="USA",US: Sportsnet Y HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15020
+#EXTINF:-1 tvg-id="" tvg-name="US: Stadium HD" tvg-logo="http://img.tvcl.xyz/usa/stadium.png" group-title="USA",US: Stadium HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15021
+#EXTINF:-1 tvg-id="" tvg-name="US: Stadium 2 HD" tvg-logo="http://img.tvcl.xyz/usa/stadium.png" group-title="USA",US: Stadium 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15022
+#EXTINF:-1 tvg-id="" tvg-name="US: Stadium 3 HD" tvg-logo="http://img.tvcl.xyz/usa/stadium.png" group-title="USA",US: Stadium 3 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15023
+#EXTINF:-1 tvg-id="" tvg-name="US: Stadium 4 HD" tvg-logo="http://img.tvcl.xyz/usa/stadium.png" group-title="USA",US: Stadium 4 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15024
+#EXTINF:-1 tvg-id="" tvg-name="US: MovieMax HD" tvg-logo="http://img.tvcl.xyz/usa/moviemax.png" group-title="USA",US: MovieMax HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15025
+#EXTINF:-1 tvg-id="" tvg-name="US: Sundance HD" tvg-logo="http://img.tvcl.xyz/usa/sundance.png" group-title="USA",US: Sundance HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15026
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY HD" tvg-logo="http://img.tvcl.xyz/usa/syfy.png" group-title="USA",US: SYFY HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15027
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="http://img.tvcl.xyz/usa/tbs.png" group-title="USA",US: TBS HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15028
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="http://img.tvcl.xyz/usa/tbs.png" group-title="USA",US: TBS HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15029
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis HD" tvg-logo="http://img.tvcl.xyz/usa/tennis.png" group-title="USA",US: Tennis HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15030
+#EXTINF:-1 tvg-id="" tvg-name="US: BEIN 1 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: BEIN 1 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15031
+#EXTINF:-1 tvg-id="" tvg-name="US: Yes Network HD" tvg-logo="http://img.tvcl.xyz/usa/yes.png" group-title="USA",US: Yes Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15032
+#EXTINF:-1 tvg-id="" tvg-name="US: WSBK HD" tvg-logo="http://img.tvcl.xyz/usa/wsbk.png" group-title="USA",US: WSBK HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15033
+#EXTINF:-1 tvg-id="" tvg-name="US: World Fishing Network HD" tvg-logo="http://img.tvcl.xyz/usa/fishing.png" group-title="USA",US: World Fishing Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15034
+#EXTINF:-1 tvg-id="" tvg-name="US: WMFP Boston HD" tvg-logo="http://img.tvcl.xyz/usa/wmfp.png" group-title="USA",US: WMFP Boston HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15035
+#EXTINF:-1 tvg-id="" tvg-name="US: Willow Cricket HD" tvg-logo="http://img.tvcl.xyz/usa/willow.png" group-title="USA",US: Willow Cricket HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15036
+#EXTINF:-1 tvg-id="" tvg-name="US: WGN HD" tvg-logo="http://img.tvcl.xyz/usa/wgn.png" group-title="USA",US: WGN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15037
+#EXTINF:-1 tvg-id="" tvg-name="US: Weather Channel HD" tvg-logo="http://img.tvcl.xyz/usa/wc.png" group-title="USA",US: Weather Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15038
+#EXTINF:-1 tvg-id="" tvg-name="US: WE TV HD" tvg-logo="http://img.tvcl.xyz/usa/wetv.png" group-title="USA",US: WE TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15039
+#EXTINF:-1 tvg-id="" tvg-name="US: WBFS Miami HD" tvg-logo="http://img.tvcl.xyz/usa/wbfs.png" group-title="USA",US: WBFS Miami HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15040
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland HD" tvg-logo="http://img.tvcl.xyz/usa/viceland.png" group-title="USA",US: Viceland HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15041
+#EXTINF:-1 tvg-id="" tvg-name="US: Velocity HD" tvg-logo="http://img.tvcl.xyz/usa/velocity.png" group-title="USA",US: Velocity HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15042
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network HD" tvg-logo="http://img.tvcl.xyz/usa/usan.png" group-title="USA",US: USA Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15043
+#EXTINF:-1 tvg-id="" tvg-name="US: Universal Kids HD" tvg-logo="http://img.tvcl.xyz/usa/universalkids.png" group-title="USA",US: Universal Kids HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15044
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Live HD" tvg-logo="http://img.tvcl.xyz/usa/ufc.png" group-title="USA",US: UFC Live HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15045
+#EXTINF:-1 tvg-id="" tvg-name="US: TV One HD" tvg-logo="http://img.tvcl.xyz/usa/tvone.png" group-title="USA",US: TV One HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15046
+#EXTINF:-1 tvg-id="" tvg-name="US: TV Land HD" tvg-logo="http://img.tvcl.xyz/usa/tvland.png" group-title="USA",US: TV Land HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15047
+#EXTINF:-1 tvg-id="" tvg-name="US: Tru TV HD" tvg-logo="http://img.tvcl.xyz/usa/trutv.png" group-title="USA",US: Tru TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15048
+#EXTINF:-1 tvg-id="" tvg-name="US: Tru TV HD" tvg-logo="http://img.tvcl.xyz/usa/trutv.png" group-title="USA",US: Tru TV HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15049
+#EXTINF:-1 tvg-id="" tvg-name="US: Travel Channel HD" tvg-logo="http://img.tvcl.xyz/usa/travelc.png" group-title="USA",US: Travel Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15050
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="http://img.tvcl.xyz/usa/tnt.png" group-title="USA",US: TNT HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15051
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="http://img.tvcl.xyz/usa/tnt.png" group-title="USA",US: TNT HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15052
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC HD" tvg-logo="http://img.tvcl.xyz/usa/tlc.png" group-title="USA",US: TLC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15053
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Network HD" tvg-logo="http://img.tvcl.xyz/usa/mlb.png" group-title="USA",US: MLB Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15054
+#EXTINF:-1 tvg-id="" tvg-name="US: WAPA America HD" tvg-logo="http://img.tvcl.xyz/usa/wapa.png" group-title="USA",US: WAPA America HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15055
+#EXTINF:-1 tvg-id="" tvg-name="US: Wapa HD" tvg-logo="http://img.tvcl.xyz/usa/wapa.png" group-title="USA",US: Wapa HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15056
+#EXTINF:-1 tvg-id="" tvg-name="US: VH1 HD" tvg-logo="http://img.tvcl.xyz/usa/vh1.png" group-title="USA",US: VH1 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15057
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network HD" tvg-logo="http://img.tvcl.xyz/usa/usan.png" group-title="USA",US: USA Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15058
+#EXTINF:-1 tvg-id="" tvg-name="US: Univisión HD" tvg-logo="http://img.tvcl.xyz/usa/univision.png" group-title="USA",US: Univisión HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15059
+#EXTINF:-1 tvg-id="" tvg-name="US: Unimas HD" tvg-logo="http://img.tvcl.xyz/usa/unimas.png" group-title="USA",US: Unimas HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15060
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT USA HD" tvg-logo="http://img.tvcl.xyz/usa/tnt.png" group-title="USA",US: TNT USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15061
+#EXTINF:-1 tvg-id="" tvg-name="US: The Weather Channel HD" tvg-logo="http://img.tvcl.xyz/usa/wc.png" group-title="USA",US: The Weather Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15062
+#EXTINF:-1 tvg-id="" tvg-name="US: THE CW HD" tvg-logo="http://img.tvcl.xyz/usa/cw.png" group-title="USA",US: THE CW HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15063
+#EXTINF:-1 tvg-id="" tvg-name="US: Televisión Domunicana HD" tvg-logo="http://img.tvcl.xyz/usa/td.png" group-title="USA",US: Televisión Domunicana HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15064
+#EXTINF:-1 tvg-id="" tvg-name="US: Telesistema Canal 11 HD" tvg-logo="http://img.tvcl.xyz/usa/telesistema.png" group-title="USA",US: Telesistema Canal 11 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15065
+#EXTINF:-1 tvg-id="" tvg-name="US: Telemundo International HD" tvg-logo="http://img.tvcl.xyz/usa/telemundo.png" group-title="USA",US: Telemundo International HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15066
+#EXTINF:-1 tvg-id="" tvg-name="US: Telemundo HD" tvg-logo="http://img.tvcl.xyz/usa/telemundo.png" group-title="USA",US: Telemundo HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15067
+#EXTINF:-1 tvg-id="" tvg-name="US: Telemicro HD" tvg-logo="http://img.tvcl.xyz/usa/telemicro.png" group-title="USA",US: Telemicro HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15068
+#EXTINF:-1 tvg-id="" tvg-name="US: Super Canal 33 HD" tvg-logo="http://img.tvcl.xyz/usa/supercanal.png" group-title="USA",US: Super Canal 33 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15069
+#EXTINF:-1 tvg-id="" tvg-name="US: PPV Events HD" tvg-logo="http://img.tvcl.xyz/usa/ppv.png" group-title="USA",US: PPV Events HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15070
+#EXTINF:-1 tvg-id="" tvg-name="US: Pasiones HD" tvg-logo="http://img.tvcl.xyz/usa/pasiones.png" group-title="USA",US: Pasiones HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15071
+#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon HD" tvg-logo="http://img.tvcl.xyz/usa/nick.png" group-title="USA",US: Nickelodeon HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15072
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN HD" tvg-logo="http://img.tvcl.xyz/usa/nesn.png" group-title="USA",US: NESN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15073
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSB HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBCSB HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15074
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15075
+#EXTINF:-1 tvg-id="" tvg-name="US: MY38 HD" tvg-logo="http://img.tvcl.xyz/usa/my38.png" group-title="USA",US: MY38 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15076
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Network HD" tvg-logo="http://img.tvcl.xyz/usa/mlb.png" group-title="USA",US: MLB Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15077
+#EXTINF:-1 tvg-id="" tvg-name="US: Home And Health HD" tvg-logo="http://img.tvcl.xyz/usa/discoveryhh.png" group-title="USA",US: Home And Health HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15078
+#EXTINF:-1 tvg-id="" tvg-name="US: Hgtv HD" tvg-logo="http://img.tvcl.xyz/usa/hgtv.png" group-title="USA",US: Hgtv HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15079
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15080
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature HD" tvg-logo="http://img.tvcl.xyz/usa/hbosignature.png" group-title="USA",US: HBO Signature HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15081
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature Latino HD" tvg-logo="http://img.tvcl.xyz/usa/hbosignature.png" group-title="USA",US: HBO Signature Latino HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15082
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Latino HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO Latino HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15083
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family USA HD" tvg-logo="http://img.tvcl.xyz/usa/hbofamily.png" group-title="USA",US: HBO Family USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15084
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family Latino HD" tvg-logo="http://img.tvcl.xyz/usa/hbofamily.png" group-title="USA",US: HBO Family Latino HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15085
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Comedy USA HD" tvg-logo="http://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO Comedy USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15086
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 USA HD" tvg-logo="http://img.tvcl.xyz/usa/hbo2.png" group-title="USA",US: HBO 2 USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15087
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 Latino HD" tvg-logo="http://img.tvcl.xyz/usa/hbo2.png" group-title="USA",US: HBO 2 Latino HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15088
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Action Latino HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: FOX Action Latino HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15089
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX 25 HD" tvg-logo="http://img.tvcl.xyz/usa/fox.png" group-title="USA",US: FOX 25 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15090
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney xD HD" tvg-logo="http://img.tvcl.xyz/usa/xd.png" group-title="USA",US: Disney xD HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15091
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney JR HD" tvg-logo="http://img.tvcl.xyz/usa/dj.png" group-title="USA",US: Disney JR HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15092
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney Channel HD" tvg-logo="http://img.tvcl.xyz/usa/dc.png" group-title="USA",US: Disney Channel HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15093
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Family HD" tvg-logo="http://img.tvcl.xyz/usa/df.png" group-title="USA",US: Discovery Family HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15094
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel USA HD" tvg-logo="http://img.tvcl.xyz/usa/discovery.png" group-title="USA",US: Discovery Channel USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15095
+#EXTINF:-1 tvg-id="" tvg-name="US: CDN Sport Max HD" tvg-logo="http://img.tvcl.xyz/usa/cdn.png" group-title="USA",US: CDN Sport Max HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15096
+#EXTINF:-1 tvg-id="" tvg-name="US: CDN HD" tvg-logo="http://img.tvcl.xyz/usa/cdn.png" group-title="USA",US: CDN HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15097
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15098
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network HD" tvg-logo="http://img.tvcl.xyz/usa/cn.png" group-title="USA",US: Cartoon Network HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15099
+#EXTINF:-1 tvg-id="" tvg-name="US: Boston 7 News HD" tvg-logo="http://img.tvcl.xyz/usa/boston7.png" group-title="USA",US: Boston 7 News HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15100
+#EXTINF:-1 tvg-id="" tvg-name="US: Antena Latina 7 HD" tvg-logo="http://img.tvcl.xyz/usa/antenalatina.png" group-title="USA",US: Antena Latina 7 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15101
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC USA HD" tvg-logo="http://img.tvcl.xyz/usa/amc.png" group-title="USA",US: AMC USA HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15102
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC HD" tvg-logo="http://img.tvcl.xyz/usa/abc.png" group-title="USA",US: ABC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15103
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV Live HD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV Live HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15104
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV FHD" tvg-logo="http://img.tvcl.xyz/usa/mtv.png" group-title="USA",US: MTV FHD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15105
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 2 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 2 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15106
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 3 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 3 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15107
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 4 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 4 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15108
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 5 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 5 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15109
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein 6 HD" tvg-logo="http://img.tvcl.xyz/usa/bein.png" group-title="USA",US: Bein 6 HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15110
+#EXTINF:-1 tvg-id="" tvg-name="US:  Star HD" tvg-logo="http://img.tvcl.xyz/usa/star.png" group-title="USA",US:  Star HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15111
+#EXTINF:-1 tvg-id="" tvg-name="US: A&E HD" tvg-logo="http://img.tvcl.xyz/usa/aye.png" group-title="USA",US: A&E HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15112
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC HD" tvg-logo="http://img.tvcl.xyz/usa/abc.png" group-title="USA",US: ABC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15113
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC HD" tvg-logo="http://img.tvcl.xyz/usa/amc.png" group-title="USA",US: AMC HD
+http://sudaka.sytes.net:25461/heriberto/heriberto/15114
